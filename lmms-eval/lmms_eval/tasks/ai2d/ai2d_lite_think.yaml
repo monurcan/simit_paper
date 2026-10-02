@@ -1,0 +1,3 @@
+include: ai2d_lite.yaml
+task: "ai2d_lite_think"
+auto_strip_thinking: true

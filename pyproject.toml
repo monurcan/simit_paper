@@ -1,0 +1,178 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mstar"
+version = "0.1.0"
+description = "Multimodal inference engine"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "numpy",
+    "PyYAML",
+    "pyzmq",
+    "python-multipart",
+    "requests",
+    # PyTorch 2.9 is pinned: sgl-kernel (Qwen3-Omni) is built against torch 2.9,
+    # and newer torch defaults to CUDA 13 wheels. See docs/installation.rst for
+    # installing the build that matches your CUDA toolkit (e.g. cu128).
+    "torch==2.9.1",
+    "torchvision==0.24.1",
+    "torchaudio==2.9.1",
+    "uvicorn",
+    "gdown",
+    "datasets",
+]
+
+[project.scripts]
+mstar = "mstar.cli.main:main"
+mstar-serve = "mstar.api_server.entrypoint:main"
+
+[project.optional-dependencies]
+dev = [
+    "ruff",
+    "pytest",
+]
+
+# Optional: non-WAV audio containers (mp3/flac/...) for the OpenAI audio API
+# and SDK. WAV/PCM work without this.
+audio = [
+    "soundfile",
+]
+
+bagel = [
+    "einops",
+    "flashinfer-python>=0.6.4",
+    "huggingface-hub",
+    "mooncake-transfer-engine",
+    "Pillow",
+    "regex",
+    "safetensors",
+    "torchvision",
+    "torchaudio",
+    "torchcodec==0.8.*",
+    "transformers",
+]
+
+qwen3_omni = [
+    # NOTE: flash-attn is required by Qwen3-Omni but is NOT listed here — its
+    # prebuilt wheels aren't on PyPI, so a plain install compiles from source
+    # (and fails on CUDA 13). Install it separately; see docs/installation.rst.
+    "einops",
+    "flashinfer-python>=0.6.4",
+    "huggingface-hub",
+    "mooncake-transfer-engine",
+    "Pillow",
+    "regex",
+    "qwen-omni-utils",
+    "torchvision",
+    "torchaudio",
+    "torchcodec==0.8.*",
+    "transformers",
+    "datasets",
+    "sgl-kernel",
+]
+
+orpheus = [
+    "einops",
+    "flashinfer-python>=0.6.4",
+    "huggingface-hub",
+    "mooncake-transfer-engine",
+    "safetensors",
+    "transformers",
+]
+
+pi05 = [
+    "flashinfer-python>=0.6.4",
+    "huggingface-hub",
+    "mooncake-transfer-engine",
+    "safetensors",
+    "transformers",
+    "triton",
+]
+
+vjepa2 = [
+    "huggingface-hub",
+    "mooncake-transfer-engine",
+    "safetensors",
+    "torchcodec==0.8.*",
+]
+
+vjepa2_ac = [
+    "flashinfer-python>=0.6.4",
+    "huggingface-hub",
+    "mooncake-transfer-engine",
+    "safetensors",
+    "torchcodec==0.8.*",
+]
+
+all = [
+    "ruff",
+    "pytest",
+    "soundfile",
+    "einops",
+    "flashinfer-python>=0.6.4",
+    "huggingface-hub",
+    "mooncake-transfer-engine",
+    "Pillow",
+    "regex",
+    "safetensors",
+    "torchvision",
+    "torchaudio",
+    "torchcodec==0.8.*",
+    "transformers",
+    "safetensors",
+    "triton",
+    "qwen-omni-utils",
+    "sgl-kernel",
+    # flash-attn is intentionally omitted (Qwen3-Omni needs it) — install it
+    # separately, see docs/installation.rst.
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["mstar*"]
+exclude = ["tests*", "benchmark*", "examples*"]
+
+[tool.ruff]
+exclude = [".git", ".ruff_cache", ".venv", "ref"]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+fixable = ["ALL"]
+unfixable = []
+select = ["F", "E", "W", "I", "B", "PL", "N"] 
+ignore = [
+    "B006",    # Do not use mutable data structures for argument defaults
+    "B008",    # Do not perform function call in argument defaults
+    "E741",    # Ambiguous variable name
+    "F841",    # Local variable is assigned to but never used
+    "N801",    # Class name should be in CamelCase
+    "N802",    # Function name should be lowercase
+    "N803",    # Argument name should be lowercase
+    "N806",    # Variable in function should be lowercase
+    "N812",    # Lowercase imported as non-lowercase
+    "PLC0415", # `import` should be at the top-level of a file
+    "PLR0911", # Too many return statements
+    "PLR0912", # Too many branches
+    "PLR0913", # Too many arguments in function definition
+    "PLR0915", # Too many statements
+    "PLR2004", # Magic value used in comparison
+    "PLW0603", # Using the global statement
+    "PLW2901", # Loop variable overwritten by assignment target
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Intentional star-import re-export of the graph base API.
+"mstar/graph/graph_io.py" = ["F403", "F405"]
+# Imports are deliberately placed after a module-level pytest.skip().
+"test/modular/test_phase1.py" = ["E402"]
+
+[tool.ruff.format]
+quote-style = "double"
+line-ending = "auto"
+docstring-code-format = true

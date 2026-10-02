@@ -1,0 +1,3 @@
+include: mmbench_cn_dev_lite.yaml
+task: "mmbench_cn_dev_lite_think"
+auto_strip_thinking: true

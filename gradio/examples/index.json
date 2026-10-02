@@ -1,0 +1,274 @@
+[
+ {
+  "id": "bagel_ok_vqa_val2014_492_always",
+  "query_file": "query.jpg",
+  "model": "bagel",
+  "budget": 60,
+  "always": true,
+  "question": "In what country would you find this hat?\nWhen the provided information is insufficient, respond with 'Unanswerable'.\nAnswer the question using a single word or phrase.",
+  "reference": "vietnam",
+  "greedy": "Unanswerable",
+  "p0": 0.8883122759482616,
+  "simit": "Vietnam",
+  "greedy_ok": false,
+  "simit_ok": true,
+  "demos": [
+   {
+    "image": "demo_0.png",
+    "question": "How many wheels does the bicycle have?",
+    "answer": "Two",
+    "skill": "natural",
+    "verify_score": 100,
+    "confidence": null
+   },
+   {
+    "image": "demo_1.png",
+    "question": "What color is the hat the person is wearing?",
+    "answer": "Brown",
+    "skill": "natural",
+    "verify_score": 70,
+    "confidence": null
+   }
+  ],
+  "elapsed": 16.20292091369629,
+  "source": "OK-VQA row 492, paper Fig. (qualitative samples)"
+ },
+ {
+  "id": "bagel_infovqa_val_449",
+  "query_file": "query.jpg",
+  "model": "bagel",
+  "budget": 60,
+  "always": false,
+  "question": "How many points are listed under when to wash your hands?\nAnswer the question using a single word or phrase.",
+  "reference": "6",
+  "greedy": "7",
+  "p0": 0.6461464658834921,
+  "simit": "6",
+  "greedy_ok": false,
+  "simit_ok": true,
+  "demos": [
+   {
+    "image": "demo_0.png",
+    "question": "How many steps are there in the handwashing process?",
+    "answer": "11",
+    "skill": "figure",
+    "verify_score": 70,
+    "confidence": 0.38085715656328817
+   }
+  ],
+  "elapsed": 55.53464651107788,
+  "source": "InfographicVQA row 449, paper Fig. (qualitative samples)"
+ },
+ {
+  "id": "bagel_amazon",
+  "query_file": "query.png",
+  "model": "bagel",
+  "budget": 60,
+  "always": false,
+  "question": "Does this contain any trans fat?",
+  "reference": "No",
+  "greedy": "Yes, the bagel contains trans fat. According to the nutrition facts label on the packaging, the bagel has 0.5 grams of trans fat per serving.",
+  "p0": 0.7576221457584613,
+  "simit": "No",
+  "greedy_ok": false,
+  "simit_ok": true,
+  "demos": [
+   {
+    "image": "demo_0.png",
+    "question": "How many calories are in one serving of the Turkish Sesame Bagel?",
+    "answer": "290",
+    "skill": "natural",
+    "verify_score": 75,
+    "confidence": 0.3624771327791413
+   },
+   {
+    "image": "demo_1.png",
+    "question": "How many calories are listed for each serving of Turkish Sessame Bagel?",
+    "answer": "290",
+    "skill": "natural",
+    "verify_score": 100,
+    "confidence": 0.147100984163098
+   }
+  ],
+  "elapsed": 27.87025022506714,
+  "source": "Amazon product page (screenshot)"
+ },
+ {
+  "id": "bagel_vizwiz_vqa_val_345_always",
+  "query_file": "query.jpg",
+  "model": "bagel",
+  "budget": 60,
+  "always": true,
+  "question": "What color is this cat?\nWhen the provided information is insufficient, respond with 'Unanswerable'.\nAnswer the question using a single word or phrase.",
+  "reference": "brown",
+  "greedy": "Unanswerable",
+  "p0": 0.6977114977650781,
+  "simit": "Brown",
+  "greedy_ok": false,
+  "simit_ok": true,
+  "demos": [
+   {
+    "image": "demo_0.png",
+    "question": "How many cats are in the image?",
+    "answer": "One",
+    "skill": "natural",
+    "verify_score": 70,
+    "confidence": null
+   },
+   {
+    "image": "demo_1.png",
+    "question": "What type of furniture is visible in the background?",
+    "answer": "A chair",
+    "skill": "natural",
+    "verify_score": 70,
+    "confidence": null
+   }
+  ],
+  "elapsed": 10.399970293045044,
+  "source": "VizWiz row 345, paper teaser"
+ },
+ {
+  "id": "bagel_vizwiz_vqa_val_47_always",
+  "query_file": "query.jpg",
+  "model": "bagel",
+  "budget": 60,
+  "always": true,
+  "question": "What is this item?\nWhen the provided information is insufficient, respond with 'Unanswerable'.\nAnswer the question using a single word or phrase.",
+  "reference": "angel",
+  "greedy": "Unanswerable.",
+  "p0": 0.8626286828795229,
+  "simit": "Angel",
+  "greedy_ok": false,
+  "simit_ok": true,
+  "demos": [
+   {
+    "image": "demo_0.png",
+    "question": "How many cats are depicted in the image?",
+    "answer": "One",
+    "skill": "natural",
+    "verify_score": 80,
+    "confidence": null
+   },
+   {
+    "image": "demo_1.png",
+    "question": "How many cats are featured in the image?",
+    "answer": "One",
+    "skill": "natural",
+    "verify_score": 70,
+    "confidence": null
+   }
+  ],
+  "elapsed": 15.055564641952515,
+  "source": "VizWiz row 47, paper appendix"
+ },
+ {
+  "id": "bagel_vizwiz_vqa_val_87_always",
+  "query_file": "query.jpg",
+  "model": "bagel",
+  "budget": 60,
+  "always": true,
+  "question": "What is this a picture of?\nWhen the provided information is insufficient, respond with 'Unanswerable'.\nAnswer the question using a single word or phrase.",
+  "reference": "dog in lace dress",
+  "greedy": "Unanswerable.",
+  "p0": 0.8959448319074929,
+  "simit": "Dog",
+  "greedy_ok": false,
+  "simit_ok": true,
+  "demos": [
+   {
+    "image": "demo_0.png",
+    "question": "How many legs does the dog have?",
+    "answer": "Four",
+    "skill": "natural",
+    "verify_score": 100,
+    "confidence": null
+   },
+   {
+    "image": "demo_1.png",
+    "question": "What color is the dog's belly?",
+    "answer": "Pink",
+    "skill": "natural",
+    "verify_score": 100,
+    "confidence": null
+   }
+  ],
+  "elapsed": 9.160282850265503,
+  "source": "VizWiz row 87, paper appendix"
+ },
+ {
+  "id": "lance_ok_vqa_val2014_253",
+  "query_file": "query.jpg",
+  "model": "lance",
+  "budget": 60,
+  "always": false,
+  "question": "What time period is the action pictured here based off of?\nAnswer the question using a single word or phrase.",
+  "reference": "medieval",
+  "greedy": "Polo",
+  "p0": 0.6023501950034147,
+  "simit": "Medieval",
+  "greedy_ok": false,
+  "simit_ok": true,
+  "demos": [
+   {
+    "image": "demo_0.png",
+    "question": "What color does the umbrella look like?",
+    "answer": "Red",
+    "skill": "natural",
+    "verify_score": null,
+    "confidence": 0.36976529385784346
+   }
+  ],
+  "elapsed": 16.72637391090393,
+  "source": "OK-VQA row 253, paper appendix"
+ },
+ {
+  "id": "lance_ok_vqa_val2014_8_always",
+  "query_file": "query.jpg",
+  "model": "lance",
+  "budget": 60,
+  "always": true,
+  "question": "What kind of house is next to the stop sign?\nAnswer the question using a single word or phrase.",
+  "reference": "apartment",
+  "greedy": "Single story",
+  "p0": 0.5895590491401231,
+  "simit": "Apartment",
+  "greedy_ok": false,
+  "simit_ok": true,
+  "demos": [
+   {
+    "image": "demo_0.png",
+    "question": "What are the colors of the umbrellas in the painting?",
+    "answer": "No",
+    "skill": "natural",
+    "verify_score": null,
+    "confidence": null
+   },
+   {
+    "image": "demo_1.png",
+    "question": "What color does the door have?",
+    "answer": "Brown",
+    "skill": "natural",
+    "verify_score": null,
+    "confidence": null
+   },
+   {
+    "image": "demo_2.png",
+    "question": "What color is the umbrella?",
+    "answer": "No",
+    "skill": "natural",
+    "verify_score": null,
+    "confidence": null
+   },
+   {
+    "image": "demo_3.png",
+    "question": "What is the color of the stop sign?",
+    "answer": "Red",
+    "skill": "natural",
+    "verify_score": null,
+    "confidence": null
+   }
+  ],
+  "elapsed": 7.836957216262817,
+  "source": "OK-VQA row 8, paper appendix"
+ }
+]

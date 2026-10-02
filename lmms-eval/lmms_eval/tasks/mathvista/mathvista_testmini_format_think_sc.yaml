@@ -1,0 +1,13 @@
+include: mathvista_testmini_format.yaml
+task: "mathvista_testmini_format_think_sc"
+auto_strip_thinking: true
+repeats: 8
+filter_list:
+  - name: "maj@8"
+    filter:
+      - function: "regex"
+        regex_pattern: "^\\s*(.*)"
+        group_select: 0
+      - function: "lowercase"
+      - function: "majority_vote"
+      - function: "take_first"

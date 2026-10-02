@@ -1,0 +1,4 @@
+# gradio, spaces and huggingface_hub are preinstalled and managed by the Spaces platform: don't list them.
+simit>=0.1.1
+# simit needs torch >= 2.12 (torch.nn.attention.varlen); 2.13.0 is on ZeroGPU's supported list
+torch==2.13.0

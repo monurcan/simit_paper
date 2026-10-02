@@ -1,0 +1,9 @@
+# 50-sample validation split (hyperparameter tuning only). Same prompts, filters and
+# metrics as docvqa_val_lite; data built by rag_retrieval/build_val50_datasets.py.
+include: docvqa_val_lite.yaml
+task: docvqa_val_lite_val50
+dataset_path: ${SIMIT_DATA}/val50/docvqa_val_lite
+dataset_name: null
+dataset_kwargs:
+  load_from_disk: True
+test_split: val

@@ -1,0 +1,3 @@
+include: flickr30k_test_lite.yaml
+task: "flickr30k_test_lite_think"
+auto_strip_thinking: true

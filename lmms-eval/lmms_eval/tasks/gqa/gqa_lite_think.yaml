@@ -1,0 +1,3 @@
+include: gqa_lite.yaml
+task: "gqa_lite_think"
+auto_strip_thinking: true

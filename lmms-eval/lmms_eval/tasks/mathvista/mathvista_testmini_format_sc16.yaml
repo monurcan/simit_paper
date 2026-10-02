@@ -1,0 +1,12 @@
+include: mathvista_testmini_format.yaml
+task: "mathvista_testmini_format_sc16"
+repeats: 16
+filter_list:
+  - name: "maj@16"
+    filter:
+      - function: "regex"
+        regex_pattern: "^\\s*(.*)"
+        group_select: 0
+      - function: "lowercase"
+      - function: "majority_vote"
+      - function: "take_first"

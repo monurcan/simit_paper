@@ -1,0 +1,13 @@
+include: textcaps_val_lite.yaml
+task: "textcaps_val_lite_think_sc"
+auto_strip_thinking: true
+repeats: 8
+filter_list:
+  - name: "maj@8"
+    filter:
+      - function: "regex"
+        regex_pattern: "^\\s*(.*)"
+        group_select: 0
+      - function: "lowercase"
+      - function: "majority_vote"
+      - function: "take_first"

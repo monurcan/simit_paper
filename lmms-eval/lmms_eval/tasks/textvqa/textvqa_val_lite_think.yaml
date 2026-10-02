@@ -1,0 +1,3 @@
+include: textvqa_val_lite.yaml
+task: "textvqa_val_lite_think"
+auto_strip_thinking: true

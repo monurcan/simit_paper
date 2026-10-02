@@ -1,0 +1,12 @@
+include: infovqa_val_lite.yaml
+task: "infovqa_val_lite_sc32"
+repeats: 32
+filter_list:
+  - name: "maj@32"
+    filter:
+      - function: "regex"
+        regex_pattern: "^\\s*(.*)"
+        group_select: 0
+      - function: "lowercase"
+      - function: "majority_vote"
+      - function: "take_first"

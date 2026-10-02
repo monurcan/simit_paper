@@ -1,0 +1,9 @@
+# 50-sample validation split (hyperparameter tuning only). Same prompts, filters and
+# metrics as textvqa_val_lite_sc32; data built by rag_retrieval/build_val50_datasets.py.
+include: textvqa_val_lite_sc32.yaml
+task: textvqa_val_lite_sc32_val50
+dataset_path: ${SIMIT_DATA}/val50/textvqa_val_lite
+dataset_name: null
+dataset_kwargs:
+  load_from_disk: True
+test_split: val

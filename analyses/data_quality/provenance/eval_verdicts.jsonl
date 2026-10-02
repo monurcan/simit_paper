@@ -1,0 +1,619 @@
+{"audit_id": "ff246539fc16ef59", "verdict": true, "flagged_ambiguous": false, "rationale": "The sun is depicted as a large, dominant light source shining over the scene, consistent with being the main energy source."}
+{"audit_id": "1c542c33e246d2f2", "verdict": false, "flagged_ambiguous": false, "rationale": "The factory chimney sits beside/to the right of the tree at similar depth, not behind it."}
+{"audit_id": "d7d0fe251c89123a", "verdict": true, "flagged_ambiguous": false, "rationale": "Exactly one deer is visible in the image."}
+{"audit_id": "b0268d539aa6e5b4", "verdict": true, "flagged_ambiguous": false, "rationale": "The single circle shown is red and titled \"Outer Red Layer\", matching the answer."}
+{"audit_id": "155a8499dbf5b861", "verdict": true, "flagged_ambiguous": false, "rationale": "The deer in the image is brown/tan colored."}
+{"audit_id": "dd2e8a0d5d7be6fb", "verdict": false, "flagged_ambiguous": false, "rationale": "The image only shows a single generic penguin with no krill or species-identifying detail; it cannot be confirmed as an Adelie penguin preying on krill."}
+{"audit_id": "73972e82dacaba61", "verdict": true, "flagged_ambiguous": false, "rationale": "The cell interior shows numerous small dot-like structures, consistent with multiple ribosomes."}
+{"audit_id": "fe7117353900a3c6", "verdict": false, "flagged_ambiguous": false, "rationale": "The image is just an empty circle outline with no genetic material or internal structure depicted."}
+{"audit_id": "f302302b94ca76ac", "verdict": true, "flagged_ambiguous": false, "rationale": "The house on the hill in the background is white."}
+{"audit_id": "de266bf552f62af2", "verdict": true, "flagged_ambiguous": false, "rationale": "The deer in the image is brown/tan colored."}
+{"audit_id": "94d19d2a2db7a73a", "verdict": false, "flagged_ambiguous": false, "rationale": "The (broken) illustration is labeled \"Solar Power Illustration\" showing sunlight-to-house/electricity icons, not a sun-to-plant-to-animal food chain."}
+{"audit_id": "0fefd3e57f54afa5", "verdict": true, "flagged_ambiguous": false, "rationale": "The flowchart (Trees->Animals->Soil->nutrients back to Trees) depicts a nutrient/energy cycling process, matching the answer."}
+{"audit_id": "b485c5702834ec56", "verdict": false, "flagged_ambiguous": false, "rationale": "The image shows only one sprout diagram (no \"second diagram\"), and its round seed body is brown, not green."}
+{"audit_id": "eec01462b4c29d91", "verdict": true, "flagged_ambiguous": false, "rationale": "The label \"A\" points to the whole sprouting plant, which is a seedling."}
+{"audit_id": "365a896a571887f6", "verdict": true, "flagged_ambiguous": false, "rationale": "Small round prey items are shown near the swimming penguins, consistent with krill as their food source, matching real-world penguin diet."}
+{"audit_id": "5103be5eb44d2b2b", "verdict": true, "flagged_ambiguous": false, "rationale": "Two trees are visible in the line drawing."}
+{"audit_id": "0f7a69ff8afa2700", "verdict": false, "flagged_ambiguous": false, "rationale": "The question asks which planet carries label F, but the answer \"Bottom\" gives a layout position rather than identifying the planet."}
+{"audit_id": "dbba5c69f240f064", "verdict": true, "flagged_ambiguous": false, "rationale": "The animal shown is clearly a deer."}
+{"audit_id": "6c6975d3d2f7b7a4", "verdict": true, "flagged_ambiguous": false, "rationale": "The outer region of the cell-like blob is yellow, consistent with the answer."}
+{"audit_id": "25a150fbd8bd7ff4", "verdict": true, "flagged_ambiguous": false, "rationale": "The main body of the spiky cell-like structure is red."}
+{"audit_id": "5c5e449e840171f3", "verdict": false, "flagged_ambiguous": false, "rationale": "No label \"A\" (or any label) is visible anywhere on this seedling image."}
+{"audit_id": "93995d084d7d8eb8", "verdict": false, "flagged_ambiguous": false, "rationale": "The factory sits on top of/amid the wooded hill, not behind it."}
+{"audit_id": "b384aecaa908e7be", "verdict": true, "flagged_ambiguous": false, "rationale": "Panel A shows green algae, a reasonable primary producer for the depicted marine food web."}
+{"audit_id": "c5ac38ef2f3844be", "verdict": true, "flagged_ambiguous": false, "rationale": "The gray 3D block shape shows no visible internal division or separation."}
+{"audit_id": "62dedef9dfb1088b", "verdict": true, "flagged_ambiguous": false, "rationale": "The label \"A\" points to a yellow circle, matching the answer."}
+{"audit_id": "b7c0ea7b3e9ae171", "verdict": false, "flagged_ambiguous": false, "rationale": "No krill is visible in the image and the seal's species cannot be confirmed as Weddell seal from its appearance; it is not shown eating anything."}
+{"audit_id": "22811cd4493d74a6", "verdict": false, "flagged_ambiguous": false, "rationale": "The flowchart only shows abstract \"Plant Growth Stage\" boxes with no depiction of root systems at any stage."}
+{"audit_id": "31d95cecaf150acd", "verdict": true, "flagged_ambiguous": false, "rationale": "The image shows a single elongated cell-like structure, consistent with \"one cell\"."}
+{"audit_id": "7a44faf65b6937cb", "verdict": true, "flagged_ambiguous": false, "rationale": "The image explicitly contains a structure labeled \"NUCLEUS\"."}
+{"audit_id": "ea79181daeb24cce", "verdict": false, "flagged_ambiguous": false, "rationale": "The factory chimney sits beside/to the right of the tree at similar depth, not behind it."}
+{"audit_id": "1745c3a6c9de852c", "verdict": true, "flagged_ambiguous": false, "rationale": "The photo shows three distinct objects: a toy car, a toy cat, and a ball."}
+{"audit_id": "9b45ee82003d2f2c", "verdict": true, "flagged_ambiguous": false, "rationale": "Structure C is depicted as a long tail-like flagellum separate from the main cell body, consistent with a movement function."}
+{"audit_id": "4347d2f2bcda8d58", "verdict": true, "flagged_ambiguous": false, "rationale": "The gray 3D block shape shows no visible internal division or separation."}
+{"audit_id": "4b3ffbd1d56b1694", "verdict": true, "flagged_ambiguous": false, "rationale": "The clustered round cells show no distinct endospore structure."}
+{"audit_id": "75d8f1a7f76e47af", "verdict": false, "flagged_ambiguous": false, "rationale": "The image is an unrelated chemical/molecular structure diagram, not a bacterial cell, and shows no structure labeled H."}
+{"audit_id": "4089463cccacb97d", "verdict": true, "flagged_ambiguous": false, "rationale": "The single circle shown is red and titled \"Outer Red Layer\", matching the answer."}
+{"audit_id": "95ba1e9f32ef2092", "verdict": true, "flagged_ambiguous": false, "rationale": "The label \"A\" points to a yellow circle, matching the answer."}
+{"audit_id": "1aaffd788d51c381", "verdict": true, "flagged_ambiguous": false, "rationale": "Exactly four blue circles (a distinct color group besides the yellow \"sun\" and black circles) appear in the \"Orbit System\" diagram, matching \"Four\"."}
+{"audit_id": "e020d7988438f9cc", "verdict": true, "flagged_ambiguous": false, "rationale": "The image shows an industrial factory actively emitting smoke, a reasonable depiction of factory operation."}
+{"audit_id": "09e7faeb225f0598", "verdict": true, "flagged_ambiguous": false, "rationale": "Three seed bodies with sprouts are shown at the bottom of the image."}
+{"audit_id": "6640798555a176a2", "verdict": true, "flagged_ambiguous": false, "rationale": "Exactly one deer is visible in the image."}
+{"audit_id": "e98dba0d1aa14368", "verdict": true, "flagged_ambiguous": false, "rationale": "The image shows a single elongated cell-like structure, consistent with \"one cell\"."}
+{"audit_id": "2ec7f302d8893237", "verdict": false, "flagged_ambiguous": false, "rationale": "The three seals differ in coat coloring/pattern but this does not establish they are three distinct species."}
+{"audit_id": "b7e3c44077641366", "verdict": true, "flagged_ambiguous": false, "rationale": "Four labeled circles (E, H, F, G) surround the central yellow \"sun\" circle, consistent with four planets."}
+{"audit_id": "a06351594c309880", "verdict": true, "flagged_ambiguous": false, "rationale": "Two trees are visible in the image."}
+{"audit_id": "f50916b2c7cb04fb", "verdict": false, "flagged_ambiguous": false, "rationale": "The diagram is an abstract Gantt-style timeline with lettered ranges and no depiction of Earth or its position, so \"Position C\" is unsupported."}
+{"audit_id": "13ac5118b42e154a", "verdict": false, "flagged_ambiguous": false, "rationale": "The three objects shown are cubes with flat top surfaces, not curved tops."}
+{"audit_id": "7c4f01e5b4da18c1", "verdict": true, "flagged_ambiguous": false, "rationale": "The coiled structure representing the cell's DNA is entirely yellow/gold colored."}
+{"audit_id": "0d8206b0c2f9775c", "verdict": false, "flagged_ambiguous": false, "rationale": "The image shows an unlabeled school of fish/shark-like animals; no gray oval or \"Herring, anchovies, and squids\" label is present to support the specific claim."}
+{"audit_id": "1826f9c27430ed3c", "verdict": true, "flagged_ambiguous": false, "rationale": "No clear water body (lake/pond) is depicted in the line drawing; the horizontal line reads as a ground/horizon line."}
+{"audit_id": "f50d333257393cc0", "verdict": true, "flagged_ambiguous": false, "rationale": "The deer's head is down in the grass, consistent with grazing."}
+{"audit_id": "10e1a52ca38a9ccc", "verdict": true, "flagged_ambiguous": false, "rationale": "The deer's head is down in the grass, consistent with grazing."}
+{"audit_id": "9b7a8e341ea82775", "verdict": true, "flagged_ambiguous": false, "rationale": "Exactly one deer is visible in the image."}
+{"audit_id": "517966369a3d2021", "verdict": true, "flagged_ambiguous": false, "rationale": "The seedling shows a root-like structure emerging from the seed, consistent with the radicle developing into roots."}
+{"audit_id": "b9a3e5feb58118e8", "verdict": true, "flagged_ambiguous": false, "rationale": "Three women are each wearing a pair of open sandals, totaling six visible sandals."}
+{"audit_id": "85c558106d4a7bf9", "verdict": true, "flagged_ambiguous": false, "rationale": "The image shows youth players in a batting-cage style baseball field, consistent with practice."}
+{"audit_id": "fbd695096b86e6da", "verdict": true, "flagged_ambiguous": false, "rationale": "The pipe sits on a flatbed trailer/truck bed with visible wheels, matching the answer."}
+{"audit_id": "69e509084455d719", "verdict": true, "flagged_ambiguous": false, "rationale": "The shirt clearly displays large legible text reading ACME amid smaller garbled decorative text."}
+{"audit_id": "452267eb5f84775f", "verdict": true, "flagged_ambiguous": false, "rationale": "The microphone held by the person is black."}
+{"audit_id": "04d3ab6f5df1cdbd", "verdict": true, "flagged_ambiguous": false, "rationale": "Counting all visible children including partially cropped ones at the edges gives seven."}
+{"audit_id": "f89b81130a373a29", "verdict": true, "flagged_ambiguous": true, "rationale": "The busy, small-scale basketball scene makes an exact count of white-jersey players genuinely unverifiable."}
+{"audit_id": "39d1f766dee5d52e", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is holding a microphone in the hand on the image's left side, which is their right hand when facing the camera."}
+{"audit_id": "40ed0a3ebe9bcf34", "verdict": true, "flagged_ambiguous": false, "rationale": "The image shows an empty flatbed trailer with wood-plank bed and no cab, matching the answer."}
+{"audit_id": "7a991ba0ac23eaa3", "verdict": true, "flagged_ambiguous": false, "rationale": "The children wear matching polo shirts, navy skirts/shorts, and backpacks, consistent with school uniforms."}
+{"audit_id": "a1f015cd287376d5", "verdict": false, "flagged_ambiguous": false, "rationale": "The image shows the smooth painted underside of the deck (truck mounting holes visible), not the textured grip tape."}
+{"audit_id": "9070a7c0ca9f1b36", "verdict": true, "flagged_ambiguous": false, "rationale": "Players and a hoop on a court clearly depict a basketball game."}
+{"audit_id": "b34769416c1623e7", "verdict": true, "flagged_ambiguous": false, "rationale": "Same shirt image as the other ACME packet; ACME is clearly the legible large text."}
+{"audit_id": "c1499916d0e71eac", "verdict": true, "flagged_ambiguous": false, "rationale": "The person holds a microphone to their mouth in a singing/talking pose, consistent with speaking or performing."}
+{"audit_id": "c8ea5b0e5c36f2bf", "verdict": true, "flagged_ambiguous": false, "rationale": "One full worker is visible plus a second person's hand at the top of the frame, totaling two people."}
+{"audit_id": "d5a16288092922af", "verdict": true, "flagged_ambiguous": false, "rationale": "The black pipe has visible ribbed/corrugated texture along its surface."}
+{"audit_id": "1133fd4a90cbaec5", "verdict": true, "flagged_ambiguous": false, "rationale": "Players on a basketball court clearly show a game in progress."}
+{"audit_id": "2bdd6e041988c2e5", "verdict": true, "flagged_ambiguous": false, "rationale": "The train has a caboose and boxcars, consistent with a freight train, which the hedged answer allows for."}
+{"audit_id": "e247db11b48adf10", "verdict": true, "flagged_ambiguous": false, "rationale": "Pizza slices are visible on the plate, a correct partial description."}
+{"audit_id": "00cebf06b1116623", "verdict": true, "flagged_ambiguous": false, "rationale": "The man on the ground is handling a yellow hose near the truck, consistent with connecting it."}
+{"audit_id": "d656c0b0d893701e", "verdict": true, "flagged_ambiguous": false, "rationale": "The rabbit figurine sits roughly at the center of the plate, surrounded by breadsticks."}
+{"audit_id": "1d8d71bd8b2e70ef", "verdict": true, "flagged_ambiguous": false, "rationale": "The microphone is held in the hand on the image's right side, which is the person's left hand facing the camera."}
+{"audit_id": "1641b5c3c53b45da", "verdict": true, "flagged_ambiguous": false, "rationale": "Exactly three women are visible in front of the banner, matching the answer."}
+{"audit_id": "59a429963b43dcb3", "verdict": true, "flagged_ambiguous": false, "rationale": "The rabbit figurine is predominantly white with pink ear accents."}
+{"audit_id": "c87d365cad12cb25", "verdict": true, "flagged_ambiguous": false, "rationale": "The banner clearly reads Chiquita."}
+{"audit_id": "ba209f1f27cabe5d", "verdict": true, "flagged_ambiguous": false, "rationale": "The child holds a white ball with red stitching resembling a baseball."}
+{"audit_id": "1cdbb38b934277bd", "verdict": true, "flagged_ambiguous": false, "rationale": "A large black corrugated-looking pipe is the equipment loaded on the flatbed trailer."}
+{"audit_id": "e82d261d06b71a3b", "verdict": true, "flagged_ambiguous": false, "rationale": "Two men are visible standing on the flatbed with the pipe."}
+{"audit_id": "ee8fa882de715ccd", "verdict": true, "flagged_ambiguous": false, "rationale": "The wide shot shows a baseball stadium field with players scattered on it, consistent with a baseball game."}
+{"audit_id": "fc64916e5dcbfebe", "verdict": false, "flagged_ambiguous": false, "rationale": "Four women are standing in front of the Chiquita banner, not three."}
+{"audit_id": "7ea345eeabedc325", "verdict": true, "flagged_ambiguous": false, "rationale": "The plate holds three pizza slices."}
+{"audit_id": "2db27faf768b9b68", "verdict": true, "flagged_ambiguous": false, "rationale": "Overhead catenary wires and poles are clearly visible near the train, indicating electricity."}
+{"audit_id": "5722f8045159b7b9", "verdict": true, "flagged_ambiguous": false, "rationale": "The skateboard shows four wheels (two green, two orange), a standard count."}
+{"audit_id": "f5e76576805c46bf", "verdict": true, "flagged_ambiguous": false, "rationale": "Three women stand beneath the hanging banana bunch and banner."}
+{"audit_id": "a473504dac1e6be5", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are visible in front of the banana banner."}
+{"audit_id": "7d842c5897156235", "verdict": true, "flagged_ambiguous": false, "rationale": "Pizza slices are visible on the plate alongside the rabbit figurine."}
+{"audit_id": "f609418df8522c62", "verdict": false, "flagged_ambiguous": false, "rationale": "The visible cropped banner text only shows a partial word ending in NANA, with no CHIQUITA text visible in frame."}
+{"audit_id": "fddc245546fdfc68", "verdict": true, "flagged_ambiguous": false, "rationale": "The banner clearly reads Chiquita, matching the answer."}
+{"audit_id": "2f9e67c5f721ed40", "verdict": true, "flagged_ambiguous": false, "rationale": "The wall behind the women is clearly orange."}
+{"audit_id": "bcffba64bf73829c", "verdict": true, "flagged_ambiguous": false, "rationale": "The person's t-shirt is predominantly black with a colorful graphic."}
+{"audit_id": "577055f1bfee2bf9", "verdict": true, "flagged_ambiguous": false, "rationale": "Two children and two adults are visible, totaling four people."}
+{"audit_id": "81143fd383fec87f", "verdict": true, "flagged_ambiguous": false, "rationale": "The white-jerseyed player is mid-air with the ball raised near the hoop, consistent with shooting."}
+{"audit_id": "94c8e00317718f3e", "verdict": true, "flagged_ambiguous": false, "rationale": "Sign reads 'Brodway Rite Aid Phamacy' (minor rendering typos), matching the store name in the answer."}
+{"audit_id": "fdb7fe9087bef2f3", "verdict": true, "flagged_ambiguous": false, "rationale": "Green awning above the storefront clearly displays the number 102."}
+{"audit_id": "61fff83da657384f", "verdict": true, "flagged_ambiguous": false, "rationale": "Both wall posters have dominant blue backgrounds, matching the answer."}
+{"audit_id": "f757201b9a628a45", "verdict": true, "flagged_ambiguous": false, "rationale": "Image shows two men seated on a bench, matching the answer."}
+{"audit_id": "4c47567674fa653a", "verdict": true, "flagged_ambiguous": false, "rationale": "Statue is depicted holding a large camera/lens raised toward shoulder height."}
+{"audit_id": "1a29ed1f531ff2d5", "verdict": true, "flagged_ambiguous": false, "rationale": "Same storefront awning clearly shows the number 102."}
+{"audit_id": "d23b76d1cab68517", "verdict": true, "flagged_ambiguous": false, "rationale": "Statue has a dark bronze/metallic finish consistent with 'bronze'."}
+{"audit_id": "458b5bbd2ce1939f", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are visible: a man in pink, a child in red, and a woman in pink."}
+{"audit_id": "34988d89579aa798", "verdict": true, "flagged_ambiguous": false, "rationale": "Sign text reads 'REPENT of your WICKED HEART BE UNBELIVE', matching the answer closely aside from a minor rendering typo."}
+{"audit_id": "54ae90f1dc3789a9", "verdict": true, "flagged_ambiguous": false, "rationale": "Statue has a bronze-toned metallic finish, matching the answer."}
+{"audit_id": "2731651d1a898376", "verdict": true, "flagged_ambiguous": false, "rationale": "The road is filled with cars, matching the answer."}
+{"audit_id": "d519b70278f13d26", "verdict": true, "flagged_ambiguous": false, "rationale": "Statue has a bronze/copper metallic finish consistent with the answer."}
+{"audit_id": "70c48eee35ed1f29", "verdict": true, "flagged_ambiguous": false, "rationale": "Statue holds a camera with a conspicuously large lens, consistent with a 'large' camera description."}
+{"audit_id": "6d2600b66a9ba88a", "verdict": false, "flagged_ambiguous": false, "rationale": "The top-left poster in this dark, cropped image is a different, unrelated poster; the legible 'Mike Bloomberg NYC'-style poster sits lower/center, not top-left."}
+{"audit_id": "f5b790ad7827b23a", "verdict": true, "flagged_ambiguous": false, "rationale": "People are walking past/browsing a clothing storefront, consistent with shopping."}
+{"audit_id": "464e9ce531a94c4e", "verdict": true, "flagged_ambiguous": false, "rationale": "This statue is rendered in a shiny gold finish, matching 'gold-colored material'."}
+{"audit_id": "480d6124169baa16", "verdict": true, "flagged_ambiguous": false, "rationale": "Man's gaze is directed downward at something off-frame, consistent with 'looking at something'."}
+{"audit_id": "df539883875798f1", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are visible: two women and a boy."}
+{"audit_id": "1ac0835c5a077528", "verdict": true, "flagged_ambiguous": false, "rationale": "Person holds a megaphone to his mouth, consistent with announcing/shouting."}
+{"audit_id": "796a97acb481bd93", "verdict": true, "flagged_ambiguous": false, "rationale": "Storefront displays a large 'SALE' sign, confirming a sale is happening."}
+{"audit_id": "f6650f3f857e4cbb", "verdict": true, "flagged_ambiguous": false, "rationale": "The character holds a red megaphone raised near his mouth with the hand consistent with his right side."}
+{"audit_id": "af5ec7796e6b5321", "verdict": true, "flagged_ambiguous": false, "rationale": "Statue has a dark bronze/metallic finish consistent with 'bronze'."}
+{"audit_id": "d2179fbc01a3c337", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are visible: two women and a boy."}
+{"audit_id": "7bbdc7590fa46689", "verdict": true, "flagged_ambiguous": false, "rationale": "Sign reads roughly 'REPENT OF YOUR WICKED HEART...UNBELIEF', matching the gist of the answer despite a garbled second line."}
+{"audit_id": "da865a6d82c71cea", "verdict": false, "flagged_ambiguous": false, "rationale": "Sign reads 'Broadway Rtd Phapmacy', not 'Rite Aid'; the answer names a store not actually shown in this image."}
+{"audit_id": "34fcb24f09244f81", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are visible: two women and a boy."}
+{"audit_id": "5c54328ce2bd4c4a", "verdict": true, "flagged_ambiguous": false, "rationale": "People are browsing a clothing stall, consistent with shopping."}
+{"audit_id": "5f90939a203c4ac8", "verdict": true, "flagged_ambiguous": false, "rationale": "Storefront displays a large 'SALE' sign, confirming a sale is happening."}
+{"audit_id": "27d61f7ee5814c3b", "verdict": true, "flagged_ambiguous": false, "rationale": "Bright sunlit outdoor scene clearly indicates daytime."}
+{"audit_id": "1e23ac5369c7df98", "verdict": true, "flagged_ambiguous": false, "rationale": "Both visible posters read 'Mike Bloomberg NYC' (with minor rendering garbling)."}
+{"audit_id": "97e9503b1fca2782", "verdict": false, "flagged_ambiguous": false, "rationale": "Image shows only two cartoon pig characters, not three people."}
+{"audit_id": "8801db79a203c8ae", "verdict": true, "flagged_ambiguous": false, "rationale": "Banner above the entrance reads 'EXXXOTICA', matching the answer exactly."}
+{"audit_id": "25c5a22af72e4697", "verdict": true, "flagged_ambiguous": false, "rationale": "Person on the left wears a brown sleeveless garment, matching the answer's color."}
+{"audit_id": "5a0b357c6bb34428", "verdict": true, "flagged_ambiguous": false, "rationale": "Signs are white with red text/trim, matching 'red and white'."}
+{"audit_id": "8c45bd2d66ffd4d6", "verdict": true, "flagged_ambiguous": false, "rationale": "Statue clearly wears dark sunglasses."}
+{"audit_id": "1c115a7ac65e9ec2", "verdict": true, "flagged_ambiguous": false, "rationale": "Crowd holding signs on a city street is consistent with a protest/demonstration."}
+{"audit_id": "a1e208507537dcc1", "verdict": false, "flagged_ambiguous": false, "rationale": "The objects hanging on the wall are shoes/boots, not birds."}
+{"audit_id": "3aa717330a4e6016", "verdict": true, "flagged_ambiguous": false, "rationale": "Statue depicts a man holding a large camera on a tripod, i.e. a photographer taking a picture."}
+{"audit_id": "c74939761770cdc7", "verdict": true, "flagged_ambiguous": false, "rationale": "The full statue is a standing human figure with two legs."}
+{"audit_id": "15227a3e28bb54dd", "verdict": true, "flagged_ambiguous": false, "rationale": "The full statue is a standing human figure with two legs."}
+{"audit_id": "fa4c52e553084663", "verdict": true, "flagged_ambiguous": false, "rationale": "Multiple (about six) directional signs are mounted on the pole."}
+{"audit_id": "3dc4496401b6cd81", "verdict": true, "flagged_ambiguous": false, "rationale": "The character holds an umbrella, consistent with the answer."}
+{"audit_id": "d035f0e8971545c4", "verdict": true, "flagged_ambiguous": false, "rationale": "The sign above the shop is green, matching the answer."}
+{"audit_id": "ecc0d293a2076130", "verdict": true, "flagged_ambiguous": false, "rationale": "Dark blue sky with streetlights lit indicates evening/dusk."}
+{"audit_id": "5033b6dc75f1c9a7", "verdict": true, "flagged_ambiguous": false, "rationale": "A sign and several mounted birds are visible on the wall behind the men."}
+{"audit_id": "02719da8675240ee", "verdict": true, "flagged_ambiguous": false, "rationale": "Statue has a bronze-toned metallic finish, matching the answer."}
+{"audit_id": "0e4325eb87c5eba7", "verdict": true, "flagged_ambiguous": false, "rationale": "Elongated, slender hanging poultry carcasses are consistent with ducks."}
+{"audit_id": "31a08dbc3ab862a5", "verdict": true, "flagged_ambiguous": false, "rationale": "Bright sunny sky with a visible sun confirms daytime."}
+{"audit_id": "984d6616daa784be", "verdict": true, "flagged_ambiguous": false, "rationale": "The sofa in the room is clearly black."}
+{"audit_id": "38a2ae75253c8aba", "verdict": false, "flagged_ambiguous": false, "rationale": "Only about five cars are visible in the scene, not six."}
+{"audit_id": "870c4b30224de870", "verdict": true, "flagged_ambiguous": false, "rationale": "Clear bright sky and full sunlight confirm daytime."}
+{"audit_id": "6c856e79d5b4b9b3", "verdict": true, "flagged_ambiguous": false, "rationale": "A vertical sign above the entrance is consistent with the pharmacy signage seen in this scene."}
+{"audit_id": "8f346c3ffca04419", "verdict": true, "flagged_ambiguous": false, "rationale": "Two tall bookshelves are clearly visible flanking the sofa."}
+{"audit_id": "04eaf21765bbb74c", "verdict": true, "flagged_ambiguous": false, "rationale": "A light-colored rug is visible extending under the front of the sofa."}
+{"audit_id": "6e6a4566de24208a", "verdict": true, "flagged_ambiguous": false, "rationale": "Bright blue sky indicates daytime."}
+{"audit_id": "1e5435ed2fe0dabd", "verdict": false, "flagged_ambiguous": false, "rationale": "The sign on the left edge reads an unrelated/nonsense word, not a pharmacy sign; the actual APOTHEKE sign is centered above the entrance."}
+{"audit_id": "575780f48abb12f3", "verdict": true, "flagged_ambiguous": false, "rationale": "Hanging signs above the stalls display clearly legible characters/text."}
+{"audit_id": "d5448ed412d2ef19", "verdict": true, "flagged_ambiguous": false, "rationale": "The storefront sign reads APOTHEKE, the German word for pharmacy."}
+{"audit_id": "239a7f3ff80db58f", "verdict": true, "flagged_ambiguous": false, "rationale": "A long row of bicycles is parked along the railing on the left side of the walkway."}
+{"audit_id": "5b587f5b2a9fdc20", "verdict": true, "flagged_ambiguous": false, "rationale": "The room clearly has a wood floor."}
+{"audit_id": "0b00308126634894", "verdict": true, "flagged_ambiguous": true, "rationale": "'Types of people' is a subjective, undefined category with no clear correct count from this collage."}
+{"audit_id": "879b39c289ae1f0a", "verdict": true, "flagged_ambiguous": false, "rationale": "Two tower speakers flank the TV."}
+{"audit_id": "ecc9f49f6ccf8210", "verdict": true, "flagged_ambiguous": false, "rationale": "The umbrella being held is black."}
+{"audit_id": "df4ed763140d3579", "verdict": true, "flagged_ambiguous": false, "rationale": "The sign clearly reads APOTHEKE, indicating a pharmacy."}
+{"audit_id": "06312fab2ca1c156", "verdict": true, "flagged_ambiguous": false, "rationale": "The image shows a dense crowd of many people, consistent with 'numerous'."}
+{"audit_id": "b5d6fb49a1dc823a", "verdict": true, "flagged_ambiguous": false, "rationale": "People are seen walking along the street."}
+{"audit_id": "a817a340ef497ba8", "verdict": true, "flagged_ambiguous": false, "rationale": "Bright sun and clear sky indicate daytime."}
+{"audit_id": "f50bfe24d496845a", "verdict": true, "flagged_ambiguous": false, "rationale": "The street is filled with many cars, consistent with 'multiple'."}
+{"audit_id": "9a0243d27cb47ec4", "verdict": true, "flagged_ambiguous": false, "rationale": "People in raincoats with umbrellas on wet pavement indicate rainy weather."}
+{"audit_id": "56e6a52de16a137b", "verdict": true, "flagged_ambiguous": false, "rationale": "Several cars are visible along the street."}
+{"audit_id": "bfb512f458fb37b6", "verdict": true, "flagged_ambiguous": false, "rationale": "The prominent building on the right side is green."}
+{"audit_id": "368fbb62c0c67253", "verdict": true, "flagged_ambiguous": false, "rationale": "Two tower speakers are visible flanking the TV."}
+{"audit_id": "9cdf6ab6b43a450b", "verdict": true, "flagged_ambiguous": false, "rationale": "Numerous signs and banners are visible in the alley."}
+{"audit_id": "bb5bd531f2cf98e5", "verdict": true, "flagged_ambiguous": false, "rationale": "People are seen walking along the street."}
+{"audit_id": "43a32e5f7ce74c3e", "verdict": true, "flagged_ambiguous": false, "rationale": "The sofa is black."}
+{"audit_id": "0a8a8fbfaa16fc92", "verdict": false, "flagged_ambiguous": false, "rationale": "No signs or characters are visible on the buildings shown; the image is an ivy-covered wall and a plain facade."}
+{"audit_id": "d8916b35aafac7f3", "verdict": true, "flagged_ambiguous": false, "rationale": "The sign clearly reads APOTHEKE, indicating a pharmacy."}
+{"audit_id": "4bbd7e8c5e3da3fd", "verdict": true, "flagged_ambiguous": false, "rationale": "The stall is piled with oranges/tangerines."}
+{"audit_id": "10d62e3cbc250783", "verdict": true, "flagged_ambiguous": false, "rationale": "The foreground person is holding a black umbrella."}
+{"audit_id": "7c37aeaac4be16f8", "verdict": true, "flagged_ambiguous": false, "rationale": "A single man is prominent in the foreground while others are farther back."}
+{"audit_id": "4c8da67c9298b786", "verdict": true, "flagged_ambiguous": false, "rationale": "A red construction crane is clearly visible in the shot."}
+{"audit_id": "bde21a02d49a37a9", "verdict": true, "flagged_ambiguous": false, "rationale": "Pedestrians and cyclists are seen crossing at the crosswalk."}
+{"audit_id": "23f7ed31e7421193", "verdict": true, "flagged_ambiguous": false, "rationale": "'hollan' functions as the displayed name/brand on the storefront."}
+{"audit_id": "9a5007e1ea04cea6", "verdict": true, "flagged_ambiguous": false, "rationale": "Wet street and open umbrellas indicate rainy weather."}
+{"audit_id": "c221d9f8a1eab302", "verdict": true, "flagged_ambiguous": false, "rationale": "The sofa is black."}
+{"audit_id": "29fe1d097814d592", "verdict": true, "flagged_ambiguous": false, "rationale": "Colorful banners and a neon sign are visible along the alley."}
+{"audit_id": "5064d9df19552970", "verdict": true, "flagged_ambiguous": false, "rationale": "Pedestrians and cyclists are seen crossing at the crosswalk."}
+{"audit_id": "8f9288ba0d1c5428", "verdict": true, "flagged_ambiguous": false, "rationale": "Two tower speakers are visible flanking the TV."}
+{"audit_id": "f06b8f7e0c813227", "verdict": true, "flagged_ambiguous": false, "rationale": "The building in the foreground on the right is green."}
+{"audit_id": "b05bc3e2d92b2d9a", "verdict": true, "flagged_ambiguous": false, "rationale": "Two tower speakers are visible flanking the TV."}
+{"audit_id": "c4d5f4fd11a3a1cc", "verdict": true, "flagged_ambiguous": false, "rationale": "The awnings appear to be striped fabric/canvas."}
+{"audit_id": "f8ce5ea8b2fa65a6", "verdict": false, "flagged_ambiguous": false, "rationale": "Only about five cars are visible in the scene, not six."}
+{"audit_id": "48b1439a123d34f8", "verdict": true, "flagged_ambiguous": false, "rationale": "The sofa is black."}
+{"audit_id": "cb3ac32e8b28d3de", "verdict": true, "flagged_ambiguous": false, "rationale": "A red construction crane is clearly visible in the shot."}
+{"audit_id": "eb6317c62d5262f8", "verdict": true, "flagged_ambiguous": false, "rationale": "Multiple cars are parked along both sides of the street."}
+{"audit_id": "60e7e9e74dd1eb6b", "verdict": true, "flagged_ambiguous": false, "rationale": "Blue, green, yellow, and red are all prominent in the awning, produce, and clothing."}
+{"audit_id": "a45facf078f7ea25", "verdict": true, "flagged_ambiguous": false, "rationale": "The TV is mounted on the wall facing the sofa, i.e. in front of it."}
+{"audit_id": "cb028b18b39969b5", "verdict": true, "flagged_ambiguous": false, "rationale": "Approximately seven cars are visible along the street, matching the given count."}
+{"audit_id": "873af3be5a041f4c", "verdict": true, "flagged_ambiguous": false, "rationale": "Multiple market stalls/shops are visible in the background."}
+{"audit_id": "34d51887a58dadcb", "verdict": true, "flagged_ambiguous": false, "rationale": "Two distinct traffic light fixtures are identifiable in the frame."}
+{"audit_id": "44601d86b2f80c38", "verdict": true, "flagged_ambiguous": false, "rationale": "Several cars are visible along the street."}
+{"audit_id": "d33f3ab061630a39", "verdict": true, "flagged_ambiguous": false, "rationale": "The street is packed with a massive crowd, clearly more than ten people."}
+{"audit_id": "cbe715ecaecbfcd1", "verdict": true, "flagged_ambiguous": false, "rationale": "Bright sunny sky confirms daytime."}
+{"audit_id": "3059d1e6549c9ff8", "verdict": true, "flagged_ambiguous": false, "rationale": "Pedestrians are seen walking across the crosswalk."}
+{"audit_id": "7887bb89cebae7b1", "verdict": true, "flagged_ambiguous": false, "rationale": "Image text directly states Kevin Kelly's \"The Age of Intelligent Machines\" predicted the first AI system, matching the answer."}
+{"audit_id": "bbb7a1761e22632f", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a waiting-room photo (chairs, clock, coffee machine) with no information about lunch break duration."}
+{"audit_id": "9d62a651ea7ecc94", "verdict": true, "flagged_ambiguous": false, "rationale": "Image shows exactly two people seated at a table, matching the answer."}
+{"audit_id": "e31add54f4573c4a", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a generic internet timeline (ARPANET, TCP/IP, WWW) that never mentions a book titled \"In the Year 2000\"."}
+{"audit_id": "2c61d2cc5740e8cc", "verdict": true, "flagged_ambiguous": false, "rationale": "Image explicitly shows a book cover/summary titled \"In the Year 2000\" predicting widespread internet use."}
+{"audit_id": "3eb89ea941e8f1c2", "verdict": true, "flagged_ambiguous": false, "rationale": "Image is an illustration with a solid blue background, consistent with the answer."}
+{"audit_id": "381fe609f3085bdb", "verdict": false, "flagged_ambiguous": false, "rationale": "Image shows a futuristic car/city scene with no books or counts depicted at all."}
+{"audit_id": "44e187cb4b30f3b2", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is an abstract geometric shape unrelated to any book or computer chip content."}
+{"audit_id": "6b6c213337301cbd", "verdict": true, "flagged_ambiguous": false, "rationale": "Image lists exactly four talent sources: Academic Research, University Teaching, Industry Experience, Other Sources."}
+{"audit_id": "6f467b0ace9b9067", "verdict": false, "flagged_ambiguous": true, "rationale": "Image text is corrupted/garbled (broken characters), so the claimed e-mail prediction cannot be verified."}
+{"audit_id": "74e8036b047b0111", "verdict": true, "flagged_ambiguous": false, "rationale": "Image confirms the book \"In the Year 2000\" by William Gibson predicted widespread internet adoption."}
+{"audit_id": "8687e6c3c1a6f8f3", "verdict": true, "flagged_ambiguous": false, "rationale": "Chart shows the IP Professional bar at 67%, matching the answer."}
+{"audit_id": "0d27eba2cd5feef0", "verdict": true, "flagged_ambiguous": false, "rationale": "Illustration shows exactly three people seated at the table."}
+{"audit_id": "e0c49d8b559af6aa", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is an internet history timeline with no mention of books or a book count."}
+{"audit_id": "a7dddcf505ff4ea7", "verdict": true, "flagged_ambiguous": false, "rationale": "Image shows a room with dominant blue-painted walls, matching the answer."}
+{"audit_id": "1367e2709d4b0246", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is just a blank \"Book Timeline\" title with no body content to support any count."}
+{"audit_id": "10b24da4bfb0bd53", "verdict": true, "flagged_ambiguous": false, "rationale": "Bar chart shows R usage at 37%, matching the answer."}
+{"audit_id": "e93c3a8d3532f6c4", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a photo of an office/data center with no book reference at all."}
+{"audit_id": "20d667de49e089b0", "verdict": true, "flagged_ambiguous": false, "rationale": "Illustration shows exactly three people seated at the table."}
+{"audit_id": "b51b2a950feb24c1", "verdict": true, "flagged_ambiguous": false, "rationale": "Chart shows the Business education background bar at 24%, matching the answer."}
+{"audit_id": "3f69f9d55f08420d", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a futuristic city skyline with flying vehicles, no book count depicted."}
+{"audit_id": "bf4e7944ef22ca94", "verdict": true, "flagged_ambiguous": false, "rationale": "Image's theme is entirely about predicted time-travel technology, consistent with the answer."}
+{"audit_id": "c88906ab840d2390", "verdict": false, "flagged_ambiguous": true, "rationale": "Infographic text is heavily garbled/corrupted, making it impossible to reliably count workplace types."}
+{"audit_id": "28e9221d894f72e6", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a plain photo of a colorful canteen with no text suggesting where to spend more time."}
+{"audit_id": "1c74cb98628a2221", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is an office-meeting illustration with no text about an ideal \"Creative Genius\" personality."}
+{"audit_id": "343fdc25722c7fee", "verdict": true, "flagged_ambiguous": false, "rationale": "Book cover shown is green and titled \"The Time Machine\", matching the answer."}
+{"audit_id": "78f9be88056245a1", "verdict": true, "flagged_ambiguous": false, "rationale": "Chart shows \"Lacks sufficient resources\" at 32%, matching the answer."}
+{"audit_id": "aa67023d1eab2699", "verdict": false, "flagged_ambiguous": false, "rationale": "Image only shows a single \"Social Media\" timeline node with no book count information."}
+{"audit_id": "526a561da6cca8a8", "verdict": true, "flagged_ambiguous": false, "rationale": "Chart title references Carl Sagan's \"Contact\" predicting space exploration outcomes, matching the answer."}
+{"audit_id": "802a09a6ebe724a8", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a plain open-office photo with no survey data shown to justify \"most popular\"."}
+{"audit_id": "4a56b01ef10223dc", "verdict": false, "flagged_ambiguous": false, "rationale": "Illustration depicts only five distinct people, not six."}
+{"audit_id": "a93258b64ae15557", "verdict": false, "flagged_ambiguous": false, "rationale": "Image shows astronauts and a space station with no book title referenced."}
+{"audit_id": "84afbc6ca383237a", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is an office photo with no text stating flexibility/comfort as the ideal environment."}
+{"audit_id": "2c9c85a04f76233e", "verdict": true, "flagged_ambiguous": false, "rationale": "Photo shows exactly three people seated at the table."}
+{"audit_id": "85b867e2aa6c2d9d", "verdict": true, "flagged_ambiguous": false, "rationale": "Image clearly shows a person using a laptop at a desk."}
+{"audit_id": "2f6ad3ada43e1411", "verdict": true, "flagged_ambiguous": false, "rationale": "Chart bars are consistently labeled 32%, matching the answer despite garbled axis text."}
+{"audit_id": "811e59020891d92a", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a generic tech/network illustration with no book title or author shown."}
+{"audit_id": "1073013ab895aaf1", "verdict": false, "flagged_ambiguous": false, "rationale": "Chart shows \"Other\" at 41% higher than \"Academic\" at 34%, so Academic is not the primary source."}
+{"audit_id": "c6240698c1ccd2f7", "verdict": true, "flagged_ambiguous": false, "rationale": "Photo shows a casual, informal open-air restaurant/canteen setting, matching the answer."}
+{"audit_id": "2bde9f7d769160c2", "verdict": true, "flagged_ambiguous": false, "rationale": "Image's theme is entirely about predicted time-travel technology, consistent with the answer."}
+{"audit_id": "0aef73434e80a708", "verdict": true, "flagged_ambiguous": false, "rationale": "Image shows an outdoor table and chair surrounded by greenery, consistent with an outdoor workspace."}
+{"audit_id": "8d28f985bc06dc0e", "verdict": true, "flagged_ambiguous": false, "rationale": "Image clearly shows a person sculpting a multi-face bust in terracotta/clay."}
+{"audit_id": "dfa552f9f99ab8f7", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is visibly wearing a mask covering the lower face while sculpting."}
+{"audit_id": "c9970e3156a78ead", "verdict": true, "flagged_ambiguous": false, "rationale": "Only one person is visible in the image."}
+{"audit_id": "5d4d471f2d4236d9", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is actively carving clay heads, i.e. sculpting."}
+{"audit_id": "d76f1adb7a788244", "verdict": true, "flagged_ambiguous": false, "rationale": "Three distinct terracotta head sculptures are visible on the table."}
+{"audit_id": "a34a16583b437fa9", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is wearing an orange shirt."}
+{"audit_id": "a303e23cae02648d", "verdict": true, "flagged_ambiguous": false, "rationale": "Three head busts are visible on the table."}
+{"audit_id": "895057d7e31daba2", "verdict": false, "flagged_ambiguous": false, "rationale": "The person is seated at a separate desk with papers, not visibly touching or working on the sculpture."}
+{"audit_id": "ecfc37b33db0463f", "verdict": true, "flagged_ambiguous": false, "rationale": "The sculpture's close-up texture and color are consistent with clay."}
+{"audit_id": "38053153270a305d", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is wearing an orange shirt and beige/khaki pants."}
+{"audit_id": "3a319b1e9a32dde9", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is shaping a clay form with their hands, which is sculpting."}
+{"audit_id": "d949c23725254bb1", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is visibly wearing a mask covering the lower face while sculpting."}
+{"audit_id": "74b333f4d862b127", "verdict": true, "flagged_ambiguous": false, "rationale": "Only one person is visible in the image."}
+{"audit_id": "401a3bda8199348a", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is actively working on a tower of face sculptures."}
+{"audit_id": "ff2cdb3944de866c", "verdict": true, "flagged_ambiguous": false, "rationale": "Only one person is visible in the image."}
+{"audit_id": "87487a11dd34e1b6", "verdict": true, "flagged_ambiguous": false, "rationale": "The scene is set inside a studio room, consistent with an indoor setting."}
+{"audit_id": "de1be2fcf9cb03bd", "verdict": true, "flagged_ambiguous": false, "rationale": "Hands are shown actively shaping clay faces, i.e. sculpting."}
+{"audit_id": "cd919a53684aadcb", "verdict": true, "flagged_ambiguous": false, "rationale": "Background shows a workshop-like space with sculptures and a worktable, consistent with an art studio."}
+{"audit_id": "5e9f8a352d299212", "verdict": true, "flagged_ambiguous": false, "rationale": "Image shows soldiers and tanks in a field consistent with a military exercise/demonstration."}
+{"audit_id": "beba800492fdf177", "verdict": true, "flagged_ambiguous": false, "rationale": "The chart's text overlay literally reads \"10\"."}
+{"audit_id": "2ae36e75cab24f3d", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a generic rendered astronaut with no visible name tag confirming the identity \"Robert Thirsk\"."}
+{"audit_id": "474b0e677686251c", "verdict": true, "flagged_ambiguous": false, "rationale": "The towel held over the person's head is clearly purple."}
+{"audit_id": "03b25c7a5de1b34c", "verdict": true, "flagged_ambiguous": false, "rationale": "Two vehicles (a silver car and a dark SUV) are visible in the image."}
+{"audit_id": "0a7b6d6ba70a8ce9", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is wearing a large wide-brimmed sun hat."}
+{"audit_id": "02d1b746e2d583b7", "verdict": true, "flagged_ambiguous": false, "rationale": "Rider wears helmet and protective riding gear consistent with \"specialized gear\", even though vague."}
+{"audit_id": "66e8900165a14a93", "verdict": true, "flagged_ambiguous": false, "rationale": "A necklace is clearly visible around the woman's neck."}
+{"audit_id": "5aab4da0f70420de", "verdict": true, "flagged_ambiguous": false, "rationale": "VW badge is clearly visible on the rear of the car."}
+{"audit_id": "442deb9323a53236", "verdict": true, "flagged_ambiguous": false, "rationale": "Standard car body shown, consistent with four wheels."}
+{"audit_id": "d09a53731a1f01ac", "verdict": true, "flagged_ambiguous": false, "rationale": "The chart's text overlay literally reads \"10\"."}
+{"audit_id": "4713d03c1a936d60", "verdict": true, "flagged_ambiguous": false, "rationale": "The towel held over the person's head is clearly purple."}
+{"audit_id": "a3f05a52f1e6ca7f", "verdict": true, "flagged_ambiguous": false, "rationale": "A necklace is clearly visible around the woman's neck."}
+{"audit_id": "b28d6568c0f39037", "verdict": true, "flagged_ambiguous": false, "rationale": "The woman's raised hand is clearly wearing a black glove."}
+{"audit_id": "53118e053a30bdc2", "verdict": true, "flagged_ambiguous": false, "rationale": "Sky is filled with dark, dense storm clouds, reasonably described as cloudy."}
+{"audit_id": "b4c9a24365447e9e", "verdict": true, "flagged_ambiguous": false, "rationale": "A dark glass panel between the roof rails is visible, consistent with a sunroof."}
+{"audit_id": "c8849693ef61f4c5", "verdict": true, "flagged_ambiguous": false, "rationale": "The bus display literally reads \"BIHOREL\"."}
+{"audit_id": "44054699000247ad", "verdict": false, "flagged_ambiguous": false, "rationale": "Only about 3 large wheels/tires are visible on the trailer's side, not 12."}
+{"audit_id": "1f9a149f96c876af", "verdict": true, "flagged_ambiguous": false, "rationale": "Truck is printed with the company name \"Big Apple South\"."}
+{"audit_id": "2dae6b2f5ea650e0", "verdict": true, "flagged_ambiguous": false, "rationale": "Standard car body shown, consistent with four wheels."}
+{"audit_id": "49bf513bdf71237d", "verdict": true, "flagged_ambiguous": false, "rationale": "Rider performs the stunt in a wide, empty parking lot, matching \"open and clear space\"."}
+{"audit_id": "96f610e07d8dbfbb", "verdict": true, "flagged_ambiguous": false, "rationale": "Headdress is visibly blue, red, and gold."}
+{"audit_id": "01acd6c4a0c23914", "verdict": true, "flagged_ambiguous": false, "rationale": "The car's body is clearly silver."}
+{"audit_id": "ae4d1426d67b47d5", "verdict": false, "flagged_ambiguous": false, "rationale": "Outfit (hat, polka-dot dress, gloves) is essentially just black and white, not three colors."}
+{"audit_id": "97247990eeaea2fe", "verdict": false, "flagged_ambiguous": false, "rationale": "Outfit (hat, polka-dot dress, gloves) is essentially just black and white, not three colors."}
+{"audit_id": "c7e32b0953e554e0", "verdict": true, "flagged_ambiguous": false, "rationale": "VW badge and hatchback shape are consistent with a Golf."}
+{"audit_id": "548c0f995b7b63f5", "verdict": true, "flagged_ambiguous": false, "rationale": "Racked dumbbells are the equipment shown in the image."}
+{"audit_id": "ccea5f06284c1493", "verdict": false, "flagged_ambiguous": false, "rationale": "Headdress design (blue/gold stripes, cobra emblem) reads as Egyptian pharaonic style, not distinctly Nubian."}
+{"audit_id": "07fc968068c8b2fd", "verdict": true, "flagged_ambiguous": false, "rationale": "Honda emblem is clearly visible on the vehicle's grille."}
+{"audit_id": "b5e977c191576cf4", "verdict": true, "flagged_ambiguous": false, "rationale": "Bus is covered in a colorful advertisement wrap with text and graphics."}
+{"audit_id": "79dcdd6139b61e31", "verdict": true, "flagged_ambiguous": false, "rationale": "Magazine cover clearly displays the name \"OLIVE\"."}
+{"audit_id": "aacf8bbcc0205c28", "verdict": true, "flagged_ambiguous": false, "rationale": "The military vehicles shown are tanks."}
+{"audit_id": "f4ff1fec2acbfe4e", "verdict": true, "flagged_ambiguous": false, "rationale": "Blue-and-gold striped headdress with cobra emblem matches the classic nemes headdress design."}
+{"audit_id": "2b51aa1bcbacff70", "verdict": true, "flagged_ambiguous": false, "rationale": "The woman's hat is clearly black."}
+{"audit_id": "1dc35c4095dfdba3", "verdict": true, "flagged_ambiguous": false, "rationale": "Blue is the dominant color covering most of the conical headdress."}
+{"audit_id": "ff1e168011f202cb", "verdict": true, "flagged_ambiguous": false, "rationale": "Standard car body shown, consistent with four wheels."}
+{"audit_id": "3f9fb69a83247b03", "verdict": true, "flagged_ambiguous": false, "rationale": "Standard car body shown, consistent with four wheels."}
+{"audit_id": "e1e43c433b2415b5", "verdict": true, "flagged_ambiguous": false, "rationale": "Motorcycle clearly has two wheels."}
+{"audit_id": "cbbea1a7564e4f3f", "verdict": true, "flagged_ambiguous": false, "rationale": "The woman's hat is clearly black."}
+{"audit_id": "e5c545a3dd221a7d", "verdict": true, "flagged_ambiguous": false, "rationale": "Two overlapping bicycle frames/wheels are visible parked at the roadside."}
+{"audit_id": "1182673ca8ccc036", "verdict": true, "flagged_ambiguous": false, "rationale": "Honda badge and compact sedan body shape are consistent with a Civic."}
+{"audit_id": "de906a536e0fd9a2", "verdict": true, "flagged_ambiguous": false, "rationale": "The woman's hat is clearly black."}
+{"audit_id": "450625e6c43b6505", "verdict": false, "flagged_ambiguous": false, "rationale": "The visible patch near the right shoulder appears solely orange; no blue-and-orange patch is shown there."}
+{"audit_id": "8bf5ed652c87241a", "verdict": true, "flagged_ambiguous": false, "rationale": "Background behind the woman is a solid bright green."}
+{"audit_id": "f481c72b843d2634", "verdict": true, "flagged_ambiguous": false, "rationale": "The visible \"NASA\" text/lettering on the suit is written in English."}
+{"audit_id": "e5ae395d579010d7", "verdict": true, "flagged_ambiguous": false, "rationale": "The woman's hand is on a pair of sunglasses she is holding/wearing."}
+{"audit_id": "821d7b62fc7fa1c6", "verdict": true, "flagged_ambiguous": false, "rationale": "Honda badge and compact sedan body shape are consistent with a Civic."}
+{"audit_id": "4a0d90e83400ff35", "verdict": false, "flagged_ambiguous": false, "rationale": "Only two tanks are visible in the image, not three."}
+{"audit_id": "d9e0adf89f45b7c2", "verdict": false, "flagged_ambiguous": false, "rationale": "No necklace or other jewelry is visible on the woman in the image."}
+{"audit_id": "5863222bfbfd7fa8", "verdict": false, "flagged_ambiguous": false, "rationale": "Stylized cartoon bus shows only about 4 seats; \"30\" is an unsupported fabricated capacity figure."}
+{"audit_id": "a52cb883f751f240", "verdict": false, "flagged_ambiguous": false, "rationale": "Outfit (hat, polka-dot dress, gloves) is essentially just black and white, not three colors."}
+{"audit_id": "4c552799f1366fba", "verdict": true, "flagged_ambiguous": false, "rationale": "Person is shown upside down in a handstand pose on a moving motorcycle."}
+{"audit_id": "749ea3897f807323", "verdict": true, "flagged_ambiguous": false, "rationale": "The car's body is clearly silver."}
+{"audit_id": "4589a4c604be3b10", "verdict": true, "flagged_ambiguous": false, "rationale": "Two vehicles (a silver car and a dark SUV) are visible in the image."}
+{"audit_id": "7d0542392967b300", "verdict": true, "flagged_ambiguous": false, "rationale": "The woman's dress is clearly purple."}
+{"audit_id": "f56ce7573ea70b56", "verdict": false, "flagged_ambiguous": false, "rationale": "Only two tanks are visible in the image, not three."}
+{"audit_id": "a3c4ac8a809d6b56", "verdict": true, "flagged_ambiguous": false, "rationale": "Honda badge is clearly visible on the car."}
+{"audit_id": "1de095915040f18b", "verdict": true, "flagged_ambiguous": false, "rationale": "The chairs are black with orange seat/back accents, matching the answer."}
+{"audit_id": "d74d04887abc05a4", "verdict": true, "flagged_ambiguous": false, "rationale": "Exactly two teddy bears are visible in the window."}
+{"audit_id": "e207d3f5fafd2ae4", "verdict": true, "flagged_ambiguous": false, "rationale": "The dog is wearing a tan garment consistent with 'a coat'."}
+{"audit_id": "399ff8eef2b21463", "verdict": true, "flagged_ambiguous": false, "rationale": "The tractor appears black/dark within the monochrome-styled image."}
+{"audit_id": "871939cd8d1e518c", "verdict": false, "flagged_ambiguous": false, "rationale": "The flush handles on the urinals are chrome/silver, not red."}
+{"audit_id": "5deb2763d925e67c", "verdict": true, "flagged_ambiguous": false, "rationale": "The boat registration numbers are painted white."}
+{"audit_id": "67425708dffa6f07", "verdict": true, "flagged_ambiguous": false, "rationale": "Two teddy bears are visible in the scene."}
+{"audit_id": "92f63f88fc5c7042", "verdict": true, "flagged_ambiguous": false, "rationale": "A tractor is parked right next to the boats."}
+{"audit_id": "68cae4a2b22a83b9", "verdict": false, "flagged_ambiguous": false, "rationale": "Only one boat is visible in this image, not two."}
+{"audit_id": "1b132f8f794f425f", "verdict": false, "flagged_ambiguous": false, "rationale": "Only a single teddy bear is shown (no left/right pair) and its hat has a plain pink band, not stripes."}
+{"audit_id": "f14609b75b4d352c", "verdict": true, "flagged_ambiguous": false, "rationale": "A wooden fence-like breakwater structure is visible in the background."}
+{"audit_id": "4e4af4420eb51ec3", "verdict": true, "flagged_ambiguous": false, "rationale": "The boat registration numbers are painted white."}
+{"audit_id": "fc1b929ace5fe562", "verdict": true, "flagged_ambiguous": false, "rationale": "The dog is lying down on the floor."}
+{"audit_id": "fad60f3eef82c3f4", "verdict": true, "flagged_ambiguous": false, "rationale": "The two teddy bears sit facing each other across the table."}
+{"audit_id": "0f65302be5d76aa7", "verdict": true, "flagged_ambiguous": false, "rationale": "The man is seated at a restaurant table eating, i.e. dining."}
+{"audit_id": "256601b59cbee2db", "verdict": true, "flagged_ambiguous": false, "rationale": "The tiles behind the urinals are dark colored."}
+{"audit_id": "1a996f1d79a88a45", "verdict": true, "flagged_ambiguous": false, "rationale": "A large green bush is growing right beside the person."}
+{"audit_id": "b0daa6815967c9a9", "verdict": true, "flagged_ambiguous": false, "rationale": "Wet pavement, fallen leaves, and an umbrella nearby indicate rainy weather."}
+{"audit_id": "f4a1af82388982c2", "verdict": true, "flagged_ambiguous": false, "rationale": "Painted registration text is visible on the boat's hull."}
+{"audit_id": "d0d06e865df445f7", "verdict": false, "flagged_ambiguous": false, "rationale": "The coat garment the dog is wearing is tan/orange, not black; only its exposed fur is black."}
+{"audit_id": "28a08de3bb675cc8", "verdict": true, "flagged_ambiguous": false, "rationale": "A silver car is parked in the background."}
+{"audit_id": "3bd9506bce9700a6", "verdict": true, "flagged_ambiguous": false, "rationale": "The close-up shows a juicy, fibrous orange interior."}
+{"audit_id": "8a50f638d0492a5d", "verdict": false, "flagged_ambiguous": false, "rationale": "The teddy bear is merely seated near drinks, not depicted actively drinking."}
+{"audit_id": "a9dcdad3ae040663", "verdict": true, "flagged_ambiguous": false, "rationale": "The tablecloth is white with a colorful floral pattern."}
+{"audit_id": "8f882a3ec07590c8", "verdict": true, "flagged_ambiguous": false, "rationale": "The dog's collar is red."}
+{"audit_id": "7edf5be7338f3c44", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is wearing rain gear (a raincoat) while walking in the rain."}
+{"audit_id": "f369ec05fd393f70", "verdict": true, "flagged_ambiguous": false, "rationale": "The animal shown is clearly a dog."}
+{"audit_id": "860a897d4b99b545", "verdict": false, "flagged_ambiguous": true, "rationale": "The image file is a corrupted/placeholder collage of unrelated thumbnails rather than a coherent store-window scene, so the question cannot be judged against it."}
+{"audit_id": "f59def85251d8572", "verdict": true, "flagged_ambiguous": false, "rationale": "A tractor is on the beach."}
+{"audit_id": "d3e3bac517f9a434", "verdict": true, "flagged_ambiguous": false, "rationale": "The tractor is used to move/tow items on the beach, consistent with 'transportation'."}
+{"audit_id": "3f460027d3e49da6", "verdict": true, "flagged_ambiguous": false, "rationale": "Two food objects (an orange half and a donut) are visible."}
+{"audit_id": "e6b423763faeb2f6", "verdict": true, "flagged_ambiguous": false, "rationale": "Two boats are visible in the image."}
+{"audit_id": "400a8628d8aa454a", "verdict": true, "flagged_ambiguous": false, "rationale": "Two urinals are visible."}
+{"audit_id": "c507d76567b6d49d", "verdict": false, "flagged_ambiguous": true, "rationale": "The laptops recede into a blurred, indistinct crowd across many rows, making the specific count of 20 impossible to confidently verify or refute."}
+{"audit_id": "e321831d49e50e11", "verdict": true, "flagged_ambiguous": false, "rationale": "The stripe above the urinals is green."}
+{"audit_id": "a43acdfb9c1f61a3", "verdict": true, "flagged_ambiguous": false, "rationale": "Two teddy bears are shown in the window display."}
+{"audit_id": "83c9241e7600242d", "verdict": true, "flagged_ambiguous": false, "rationale": "The tiles behind the urinals are black."}
+{"audit_id": "6474a1e46cf68018", "verdict": true, "flagged_ambiguous": false, "rationale": "A whole orange and a halved orange are visible, i.e. two fruits."}
+{"audit_id": "610994734a6f972d", "verdict": true, "flagged_ambiguous": false, "rationale": "Several people are visible standing in the room."}
+{"audit_id": "db30dc67af36ec7f", "verdict": true, "flagged_ambiguous": false, "rationale": "The boats appear black in this high-contrast silhouette image."}
+{"audit_id": "9ef47e60d6612c89", "verdict": true, "flagged_ambiguous": false, "rationale": "The two teddy bears sit facing each other across the table."}
+{"audit_id": "b9076a35eb4a72e6", "verdict": true, "flagged_ambiguous": false, "rationale": "Rows of laptops with people seated suggest a lecture or workshop setting."}
+{"audit_id": "429e490dac6b6314", "verdict": true, "flagged_ambiguous": false, "rationale": "The sea and horizon are visible beyond the boats."}
+{"audit_id": "024b02d80d1bd38b", "verdict": true, "flagged_ambiguous": false, "rationale": "Interior view clearly shows a large stadium with tiered seating and field."}
+{"audit_id": "f629483bb3d84a1f", "verdict": false, "flagged_ambiguous": false, "rationale": "The densely stacked pile contains well more than 12 hot dogs."}
+{"audit_id": "569041378b21cadd", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are visible in the image and each appears to be wearing a hat."}
+{"audit_id": "4aae7b4d1c51b25a", "verdict": true, "flagged_ambiguous": false, "rationale": "Small ornamental cake/vase figurines shown are decorative objects, not functional ones."}
+{"audit_id": "0d5d7e0387ca6598", "verdict": true, "flagged_ambiguous": false, "rationale": "Table clearly holds a frosted cake with several lit candles."}
+{"audit_id": "da33f7860a87e931", "verdict": false, "flagged_ambiguous": false, "rationale": "The performer is shirtless with only a small illegible badge; no readable text appears on clothing."}
+{"audit_id": "c6950d735e72b7cd", "verdict": true, "flagged_ambiguous": false, "rationale": "Three suitcase-shaped tiers are stacked in the image."}
+{"audit_id": "717608bdca670f80", "verdict": true, "flagged_ambiguous": false, "rationale": "A dairy carton sits beside the milk bottle, consistent with a creamer/cream carton."}
+{"audit_id": "4ca6888fe44dd995", "verdict": true, "flagged_ambiguous": false, "rationale": "Baby is seated in a high chair with an attached tray/table."}
+{"audit_id": "6ccbcef80d7daf47", "verdict": true, "flagged_ambiguous": false, "rationale": "Far-right bottle is labeled 'RELAX', a known Riesling brand, consistent with the answer."}
+{"audit_id": "fe38bd0fd5d36d87", "verdict": true, "flagged_ambiguous": false, "rationale": "Scene shows an interior room with a garden visible through patio doors, consistent with being inside a house."}
+{"audit_id": "8c3afb9c3be2b638", "verdict": false, "flagged_ambiguous": false, "rationale": "Only two people are clearly visible wearing hats; the partial third figure shows no visible hat."}
+{"audit_id": "a31d1540b8f46135", "verdict": false, "flagged_ambiguous": false, "rationale": "The cake appears to have noticeably more than ten lit candles."}
+{"audit_id": "2139b4433848b0bc", "verdict": true, "flagged_ambiguous": false, "rationale": "The man's bow tie is clearly orange."}
+{"audit_id": "7b447507917c493f", "verdict": true, "flagged_ambiguous": false, "rationale": "Both men's shirts clearly display the printed word 'Youth'."}
+{"audit_id": "c7cef8b981276640", "verdict": true, "flagged_ambiguous": false, "rationale": "Ad promotes 'financial freedom' and being your own boss, reasonably summarized as being about making more money."}
+{"audit_id": "d6826de1664b6684", "verdict": true, "flagged_ambiguous": false, "rationale": "Four wine bottles are lined up on the counter."}
+{"audit_id": "0e5cce9dc0b5518d", "verdict": false, "flagged_ambiguous": false, "rationale": "The cupcake wrappers are tan/brown paper, not white; only the frosting on top is white."}
+{"audit_id": "26b67103df51d59f", "verdict": true, "flagged_ambiguous": false, "rationale": "The individuals are wearing straw boater-style hats."}
+{"audit_id": "dafc1a5d7bff4a49", "verdict": true, "flagged_ambiguous": false, "rationale": "The man is gripping a large stack of multiple hot dogs, matching the vague but accurate answer."}
+{"audit_id": "6770d18cbfeed260", "verdict": true, "flagged_ambiguous": false, "rationale": "A car is clearly the foreground subject of the photo."}
+{"audit_id": "25a685aeab368a1b", "verdict": true, "flagged_ambiguous": false, "rationale": "A dark poster/banner with text is visible on the wall behind the subjects."}
+{"audit_id": "646198b9d2ff4858", "verdict": true, "flagged_ambiguous": false, "rationale": "The display window shows a cake decorated to look like stacked luggage."}
+{"audit_id": "c6c02b49ca4dff6b", "verdict": true, "flagged_ambiguous": false, "rationale": "The background building has distinctly modern, angular architecture."}
+{"audit_id": "04ad36af7cc2ae28", "verdict": true, "flagged_ambiguous": false, "rationale": "Table holds a frosted cake with lit candles, matching the answer exactly."}
+{"audit_id": "385cf83934875783", "verdict": false, "flagged_ambiguous": false, "rationale": "The women's expressions read as laughing/reacting rather than singing; no microphone or performance cues are visible."}
+{"audit_id": "1cb147df40893018", "verdict": true, "flagged_ambiguous": false, "rationale": "The cake has a cluster of roughly a dozen lit candles, consistent with the given count."}
+{"audit_id": "4fd72d0c60e5ee57", "verdict": true, "flagged_ambiguous": false, "rationale": "The man is clearly holding up a large camera to take a photo."}
+{"audit_id": "d9092d3c77614ec8", "verdict": true, "flagged_ambiguous": false, "rationale": "Interior view clearly shows a large stadium with tiered seating and field."}
+{"audit_id": "ffc01171410c51ed", "verdict": true, "flagged_ambiguous": false, "rationale": "The child's knit sweater is cream/off-white, reasonably described as white."}
+{"audit_id": "92ea9e8d844a334b", "verdict": true, "flagged_ambiguous": false, "rationale": "The topmost bag in the display is white/cream colored."}
+{"audit_id": "4063003cb378d32a", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are visible in the image and each appears to be wearing a hat."}
+{"audit_id": "65960f849726ef69", "verdict": true, "flagged_ambiguous": false, "rationale": "The performers' vests are clearly orange and white striped."}
+{"audit_id": "3be26f3b5a5a95ee", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are clearly visible in the frame; a fourth is only a barely-visible sliver at the edge."}
+{"audit_id": "ce59694532910ef2", "verdict": true, "flagged_ambiguous": false, "rationale": "The animated child is clearly wearing a pink dress with a bow."}
+{"audit_id": "ba344a61bdbfd31b", "verdict": false, "flagged_ambiguous": false, "rationale": "This is a labeled 3-panel reference collage showing well more than three people in total, not just three."}
+{"audit_id": "77b0133cda665cc8", "verdict": false, "flagged_ambiguous": false, "rationale": "The bottle's label text is garbled/illegible AI-generated text, not a legible 'The Velvet Devil' label confirming Merlot."}
+{"audit_id": "b274b277e43e581c", "verdict": true, "flagged_ambiguous": false, "rationale": "Performers with a microphone and guitar on stage clearly indicate a live performance."}
+{"audit_id": "1ea489b53365efaa", "verdict": true, "flagged_ambiguous": false, "rationale": "The child is holding a small device resembling a remote control."}
+{"audit_id": "4b98b80cb82ca953", "verdict": false, "flagged_ambiguous": false, "rationale": "The visible tag is attached near the top suitcase, not the bottom, and its text is illegible, not clearly 'Just Married'."}
+{"audit_id": "fc007201ee026493", "verdict": true, "flagged_ambiguous": false, "rationale": "The woman is wearing a dark top reasonably described as a black shirt."}
+{"audit_id": "e519291d419e24f4", "verdict": true, "flagged_ambiguous": false, "rationale": "Two motorcycles are clearly the photographed vehicles."}
+{"audit_id": "063b1cde10f74406", "verdict": true, "flagged_ambiguous": false, "rationale": "Image shows hands stacking/serving wrapped hot dogs, consistent with food preparation."}
+{"audit_id": "984780fb0057140c", "verdict": true, "flagged_ambiguous": false, "rationale": "The animated character poised over the candles is a woman."}
+{"audit_id": "2a49cff3203dbbb2", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are visible, each wearing a straw hat."}
+{"audit_id": "ec47dd1f3ba13207", "verdict": true, "flagged_ambiguous": false, "rationale": "A small white purse figure sits on top of the tiered cake."}
+{"audit_id": "c2166edfe7f6bbc5", "verdict": true, "flagged_ambiguous": false, "rationale": "The cake has a cluster of roughly a dozen lit candles, consistent with the given count."}
+{"audit_id": "25eba727c53558d2", "verdict": true, "flagged_ambiguous": false, "rationale": "The woman is wearing a dark top reasonably described as a black shirt."}
+{"audit_id": "9a5f14e3b21e045e", "verdict": false, "flagged_ambiguous": false, "rationale": "Only two pairs of shoes (two people's feet) are visible, not three."}
+{"audit_id": "d340832c44aca2a0", "verdict": false, "flagged_ambiguous": false, "rationale": "Only three people (the selfie-taker and two others) are visible in the photo, not four."}
+{"audit_id": "c145f9dd889b358b", "verdict": true, "flagged_ambiguous": false, "rationale": "The group is seated on a boat on open water, consistent with boating."}
+{"audit_id": "35ec81772606a9cf", "verdict": true, "flagged_ambiguous": false, "rationale": "The central figure's jacket is a bright neon green."}
+{"audit_id": "54899c77739c9064", "verdict": true, "flagged_ambiguous": false, "rationale": "The socks worn with the shoes have a clear pink/white striped pattern."}
+{"audit_id": "17fc7375b3dc9a8a", "verdict": true, "flagged_ambiguous": false, "rationale": "The group is on a boat on the water, consistent with boating."}
+{"audit_id": "1ac77d4adcd61ea7", "verdict": true, "flagged_ambiguous": false, "rationale": "Four people are visible seated together in the boat."}
+{"audit_id": "898d4d1164ce39fa", "verdict": true, "flagged_ambiguous": false, "rationale": "Three distinct shoe colors are visible: pink, red, and yellow."}
+{"audit_id": "110b608a47501b3b", "verdict": true, "flagged_ambiguous": false, "rationale": "The scene is brightly lit with a clear blue sky, consistent with daytime."}
+{"audit_id": "11e187c7476d853d", "verdict": true, "flagged_ambiguous": false, "rationale": "The visible sock is predominantly white with only a red band at the top."}
+{"audit_id": "597d1f8bddaed90d", "verdict": true, "flagged_ambiguous": false, "rationale": "The people are seated on a boat on the water, consistent with boating."}
+{"audit_id": "0d8de2748057cd84", "verdict": true, "flagged_ambiguous": false, "rationale": "Four people are visible on the boat."}
+{"audit_id": "3dc9e2733a375d3f", "verdict": true, "flagged_ambiguous": false, "rationale": "Three distinct pairs of sneakers are shown."}
+{"audit_id": "43722ed5d1a4ab60", "verdict": true, "flagged_ambiguous": false, "rationale": "The central person is wearing a bright green puffer jacket."}
+{"audit_id": "075703916a58e9af", "verdict": true, "flagged_ambiguous": false, "rationale": "The shoes are predominantly red."}
+{"audit_id": "63bff33205c67737", "verdict": false, "flagged_ambiguous": false, "rationale": "Only one intricately-patterned pair is visible, so there is no basis to identify a comparatively intricate pair 'on the right'."}
+{"audit_id": "1a18717e6d191720", "verdict": true, "flagged_ambiguous": false, "rationale": "The single depicted person's jacket is green."}
+{"audit_id": "cd44fc4863a73109", "verdict": true, "flagged_ambiguous": false, "rationale": "The shoes are pink and white."}
+{"audit_id": "de8de4353965d351", "verdict": true, "flagged_ambiguous": false, "rationale": "The sole of the shoe is white."}
+{"audit_id": "8ae1ebce3564b82a", "verdict": true, "flagged_ambiguous": false, "rationale": "Three pairs of shoes are visible on three sets of legs."}
+{"audit_id": "fb693f2b1c04c65d", "verdict": false, "flagged_ambiguous": false, "rationale": "Five people are visible in the picture (including a partially cropped person on the left), not four."}
+{"audit_id": "567e5fc43d53ec9a", "verdict": true, "flagged_ambiguous": false, "rationale": "The socks are white with a pink band, matching 'pink and white'."}
+{"audit_id": "0af2e9c1994777db", "verdict": true, "flagged_ambiguous": false, "rationale": "A logo consistent with the Under Armour mark is visible on the shoe."}
+{"audit_id": "9e0b3067dbac40a1", "verdict": true, "flagged_ambiguous": false, "rationale": "Pink socks are clearly visible above the shoes."}
+{"audit_id": "293745138918a637", "verdict": true, "flagged_ambiguous": false, "rationale": "The central figure's jacket is a bright neon green."}
+{"audit_id": "bad33236957e2c1a", "verdict": false, "flagged_ambiguous": false, "rationale": "Only three people (the selfie-taker and two others) are visible in the photo, not four."}
+{"audit_id": "1ce65e2dc4b67cd0", "verdict": true, "flagged_ambiguous": false, "rationale": "Four people are visible in the picture."}
+{"audit_id": "5f0754c3561e3ae2", "verdict": true, "flagged_ambiguous": false, "rationale": "Four distinct people are visible in the photo."}
+{"audit_id": "5a5b2a7382bccdf9", "verdict": false, "flagged_ambiguous": false, "rationale": "Only a single shoe is shown, so there is no 'second pair from the right' to describe."}
+{"audit_id": "0ca0c980d5a472ed", "verdict": true, "flagged_ambiguous": false, "rationale": "Three pairs of shoes are visible."}
+{"audit_id": "82d79bb0778f3a24", "verdict": true, "flagged_ambiguous": false, "rationale": "Three distinct shoe colors are visible: pink, red, and yellow."}
+{"audit_id": "d2d347d87da3bde1", "verdict": true, "flagged_ambiguous": false, "rationale": "The person in the foreground is wearing a pink shirt."}
+{"audit_id": "0398c964e6a0b409", "verdict": false, "flagged_ambiguous": false, "rationale": "A black shoe is visible on the far left of the lineup, so the answer 'No' is incorrect."}
+{"audit_id": "cfb32351db4be8c5", "verdict": true, "flagged_ambiguous": false, "rationale": "Four people are visible in total."}
+{"audit_id": "4ce4e6f11d478121", "verdict": true, "flagged_ambiguous": false, "rationale": "The scene is brightly lit, consistent with daytime."}
+{"audit_id": "b884405ad9dfca4c", "verdict": true, "flagged_ambiguous": false, "rationale": "Four people are visible seated together in the boat."}
+{"audit_id": "b0d47141e494fcd3", "verdict": true, "flagged_ambiguous": false, "rationale": "The group is seated on a boat on open water, consistent with boating."}
+{"audit_id": "1583aabd83c2fe55", "verdict": true, "flagged_ambiguous": false, "rationale": "The person in the green jacket is wearing white pants."}
+{"audit_id": "7897e00662318900", "verdict": true, "flagged_ambiguous": false, "rationale": "The socks are predominantly white with a pink band."}
+{"audit_id": "9a23a185751e020e", "verdict": true, "flagged_ambiguous": false, "rationale": "The footwear shown is basketball-style sneakers on a court."}
+{"audit_id": "2f599e346f5b1847", "verdict": true, "flagged_ambiguous": false, "rationale": "Four people are visible in the photo."}
+{"audit_id": "17d911069b6533b9", "verdict": false, "flagged_ambiguous": false, "rationale": "Only a single pair of shoes is shown, so there is no other pair to compare height against."}
+{"audit_id": "7f79333bcd3b8fb0", "verdict": false, "flagged_ambiguous": false, "rationale": "Only one pair of shoes (two feet) is visible, not three pairs."}
+{"audit_id": "5db5ef91c9a33154", "verdict": false, "flagged_ambiguous": false, "rationale": "A black shoe is visible on the far left of the lineup, so the answer 'No' is incorrect."}
+{"audit_id": "064694b99b59ef8e", "verdict": true, "flagged_ambiguous": false, "rationale": "Four people are visible in the picture."}
+{"audit_id": "9a32ab10558253dd", "verdict": true, "flagged_ambiguous": false, "rationale": "The visible sock is predominantly white with only a red band at the top."}
+{"audit_id": "defdf00eface150e", "verdict": false, "flagged_ambiguous": false, "rationale": "The shoe on the right is red/maroon with white and navy accents; no yellow is visible."}
+{"audit_id": "3de039036986539a", "verdict": true, "flagged_ambiguous": false, "rationale": "The person in the foreground is wearing a pink shirt."}
+{"audit_id": "1b7bfbf95e559136", "verdict": true, "flagged_ambiguous": false, "rationale": "The people are on a boat on the water, consistent with boating."}
+{"audit_id": "e70f35c1b247a2c2", "verdict": true, "flagged_ambiguous": false, "rationale": "Four people are visible in the photo."}
+{"audit_id": "e20ab55c7001aae8", "verdict": true, "flagged_ambiguous": false, "rationale": "Four people are visible in the picture."}
+{"audit_id": "b813c7f920c2ed26", "verdict": true, "flagged_ambiguous": false, "rationale": "Both hats show visible stylized text/graphics."}
+{"audit_id": "4a82017fdf6dcf1d", "verdict": true, "flagged_ambiguous": false, "rationale": "The shoes have a clear red and black pattern."}
+{"audit_id": "7dbc26bc6f36bd02", "verdict": true, "flagged_ambiguous": false, "rationale": "Image text reads 'Presented by: Broadway Entertainment Group & Music Hall', matching the answer."}
+{"audit_id": "56e14cc9e2cdb9e1", "verdict": true, "flagged_ambiguous": false, "rationale": "Garbled poster text still recognizably reads 'New Adventures Production' as the dance company."}
+{"audit_id": "ef3b41e280c778a1", "verdict": true, "flagged_ambiguous": false, "rationale": "Poster text 'A New Adevtuotes Prcowtion' is a garbled but recognizable rendering of 'A New Adventures Production'."}
+{"audit_id": "9c8cf04ad3b95e1a", "verdict": false, "flagged_ambiguous": false, "rationale": "This poster only shows the title and 'Matteew Bourrne'; no location text like 'Antwerp' appears anywhere in the image."}
+{"audit_id": "827ef99ff2116411", "verdict": true, "flagged_ambiguous": false, "rationale": "Image headline explicitly reads 'A Global Phenomenon — The Times', supporting the 'Yes' answer."}
+{"audit_id": "a334bff65f6abb71", "verdict": true, "flagged_ambiguous": false, "rationale": "The main character is shown wearing an all-white shaggy costume."}
+{"audit_id": "569adaf321b8140e", "verdict": true, "flagged_ambiguous": false, "rationale": "Garbled bottom text '29 Nonevlber - 1 Decehnar' clearly renders the date range '29 November - 1 December'."}
+{"audit_id": "26a0e36039e3f5fe", "verdict": true, "flagged_ambiguous": false, "rationale": "Bottom text 'Anttvepr' is a garbled but recognizable rendering of 'Antwerp'."}
+{"audit_id": "703495b8aba70fa2", "verdict": true, "flagged_ambiguous": false, "rationale": "Bottom text '29 November ~ 1 Decelrrer' renders the date range '29 November - 1 December'."}
+{"audit_id": "c0c290f51febd79f", "verdict": true, "flagged_ambiguous": false, "rationale": "Dates '29 November - 1 December' span Nov 29, Nov 30, and Dec 1, i.e. 3 days, matching the answer."}
+{"audit_id": "e3ec90631b71bb37", "verdict": true, "flagged_ambiguous": false, "rationale": "The poster's clearly legible title reads 'Swan Lake'."}
+{"audit_id": "d52df82b50f7f387", "verdict": false, "flagged_ambiguous": false, "rationale": "This poster's garbled text reads 'Broadway Entertainment Group' plus 'New Adventures Production' credits, but there is no 'Music Hall' text anywhere on it."}
+{"audit_id": "a927c1a45298103c", "verdict": false, "flagged_ambiguous": false, "rationale": "The 'Daily Telegraph'-style badge on this poster shows four stars, not three."}
+{"audit_id": "83cedecb4e069e6e", "verdict": true, "flagged_ambiguous": false, "rationale": "The small review badge on this poster shows three stars, matching the answer."}
+{"audit_id": "b8f0bd97acafc259", "verdict": true, "flagged_ambiguous": false, "rationale": "The poster depicts a central dancer and an ensemble of dancers in dance poses, i.e. dancing."}
+{"audit_id": "541ab266f4a1227e", "verdict": false, "flagged_ambiguous": false, "rationale": "No date text is visible anywhere on this poster; the bottom credits text does not contain a date range."}
+{"audit_id": "3bcaa2e3f6089a25", "verdict": true, "flagged_ambiguous": false, "rationale": "The poster's clearly legible title reads 'Swan Lake'."}
+{"audit_id": "c5e6a1d84a11cd49", "verdict": true, "flagged_ambiguous": false, "rationale": "Image headline explicitly reads 'A Global Phenomenon — The Times', supporting the 'Yes' answer."}
+{"audit_id": "70b7f4148bf2b671", "verdict": true, "flagged_ambiguous": false, "rationale": "Green bin's sign reads 'BIO GUT' with a recycling leaf, matching organic waste."}
+{"audit_id": "5377402c58395d77", "verdict": true, "flagged_ambiguous": false, "rationale": "Building signage clearly reads BEMBO'S."}
+{"audit_id": "8e723ad67d1a5a52", "verdict": true, "flagged_ambiguous": false, "rationale": "Exactly two cars are visible parked in front of the building."}
+{"audit_id": "5ab34bf6b5e21b58", "verdict": false, "flagged_ambiguous": false, "rationale": "The sign itself is only red, yellow, white and black; blue is just the sky background, not a sign color."}
+{"audit_id": "e63deb9f4a92251d", "verdict": false, "flagged_ambiguous": false, "rationale": "At least three or four cars are visible in the street scene, not two."}
+{"audit_id": "822c97c11088dab7", "verdict": true, "flagged_ambiguous": false, "rationale": "Four light bulbs hang above the lower signboard."}
+{"audit_id": "95a7c5576f70bf65", "verdict": true, "flagged_ambiguous": false, "rationale": "People are shown seated inside near the windows."}
+{"audit_id": "f852c7053b45cbcd", "verdict": false, "flagged_ambiguous": false, "rationale": "The 'image' is a block of text describing a building, not an actual photo, so exterior colors cannot be visually verified."}
+{"audit_id": "77c8304c052f4840", "verdict": true, "flagged_ambiguous": false, "rationale": "Four light bulbs hang above the lower signboard."}
+{"audit_id": "031e9f6f37ed9a55", "verdict": true, "flagged_ambiguous": false, "rationale": "A large tree is clearly visible in the foreground."}
+{"audit_id": "8902b810a083c7c2", "verdict": true, "flagged_ambiguous": false, "rationale": "Building sign reads BEMBO'S."}
+{"audit_id": "1fd99d0cdfacdc22", "verdict": true, "flagged_ambiguous": false, "rationale": "White building with outdoor seating and hanging sign matches a pub/restaurant."}
+{"audit_id": "fa98830593e5fc77", "verdict": true, "flagged_ambiguous": false, "rationale": "Three characters (guitar-playing bear, purple fish, small orange fish) are depicted."}
+{"audit_id": "45f2c88faa0c8f24", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a matplotlib sweetness-level chart, not a photo showing anything about food pairing."}
+{"audit_id": "9720748fb3f219de", "verdict": true, "flagged_ambiguous": false, "rationale": "Three Disney characters (Goofy, Donald, Minnie) are shown under the sign."}
+{"audit_id": "fa16ac37e2514b42", "verdict": true, "flagged_ambiguous": false, "rationale": "Three characters (mouse, purple fish, orange fish) appear in the illustration."}
+{"audit_id": "2c4cc323dc0f2cde", "verdict": true, "flagged_ambiguous": false, "rationale": "Logo is recognizably Alfa Romeo's emblem (biscione snake, red cross shield) despite garbled text."}
+{"audit_id": "6b1b35e4de274287", "verdict": true, "flagged_ambiguous": false, "rationale": "Event card explicitly lists 'Time: 2:30 pm', matching the answer."}
+{"audit_id": "1b18501cdefdbe5e", "verdict": true, "flagged_ambiguous": false, "rationale": "Bottle label reads 'CIDRE...', confirming it is a cider."}
+{"audit_id": "7160b583f0b6e4b9", "verdict": false, "flagged_ambiguous": false, "rationale": "The placards show what looks like one repeated pseudo-script, not three clearly distinct languages."}
+{"audit_id": "7731700c49417fb3", "verdict": true, "flagged_ambiguous": false, "rationale": "Three names (Minnie, Daisy, Goofy) are shown on the banner."}
+{"audit_id": "1b99d282b2dc0f02", "verdict": true, "flagged_ambiguous": false, "rationale": "Three names (Minnie, Daisy, Goofy) are shown on the sign."}
+{"audit_id": "10e7cc34b70af3be", "verdict": true, "flagged_ambiguous": false, "rationale": "Sign reads 'Pete's Silly Sideshow', matching the sideshow theme."}
+{"audit_id": "69d4ebd7f68cac57", "verdict": true, "flagged_ambiguous": false, "rationale": "A tree clearly stands in front of the building."}
+{"audit_id": "d34139ad2e3dafa1", "verdict": true, "flagged_ambiguous": false, "rationale": "Two cars are parked along the street in front of the building."}
+{"audit_id": "dde8f3e53deeb6fd", "verdict": true, "flagged_ambiguous": false, "rationale": "Board shows '10' beside a Donald Duck-like icon, consistent with a meet-and-greet wait-time sign."}
+{"audit_id": "334ed72a81e442b8", "verdict": true, "flagged_ambiguous": false, "rationale": "Three characters are featured on the banner (two ducks plus a Daisy figure)."}
+{"audit_id": "ac9000d9d3855785", "verdict": true, "flagged_ambiguous": false, "rationale": "The bin's lid is clearly brown."}
+{"audit_id": "2a4193c9f6b9542a", "verdict": true, "flagged_ambiguous": false, "rationale": "Two cars are parked along the street in front of the building."}
+{"audit_id": "99bad07a4c67d1ed", "verdict": true, "flagged_ambiguous": false, "rationale": "Three character faces are shown on the sign."}
+{"audit_id": "862e3967d4bbf8ff", "verdict": false, "flagged_ambiguous": false, "rationale": "Image shows four distinct colors (red, black, white, green), not three."}
+{"audit_id": "8911408bad0cdd79", "verdict": true, "flagged_ambiguous": false, "rationale": "The wall is an entirely yellow-and-blue abstract pattern."}
+{"audit_id": "8b35e94e12ad37f2", "verdict": true, "flagged_ambiguous": false, "rationale": "Roughly three people are visible near the storefront."}
+{"audit_id": "7d721a67d1441592", "verdict": true, "flagged_ambiguous": false, "rationale": "Bright blue sky with visible sun indicates daytime."}
+{"audit_id": "58c6c98a9180e49c", "verdict": true, "flagged_ambiguous": false, "rationale": "About three people are visible seated at the outdoor tables."}
+{"audit_id": "7c92ae87bb876d88", "verdict": true, "flagged_ambiguous": false, "rationale": "Garbled poster title reasonably approximates 'Oscar & The Deep Sea Pearl'."}
+{"audit_id": "b0f594dc6ccfffb9", "verdict": false, "flagged_ambiguous": false, "rationale": "Three people are visible in the street scene, not two."}
+{"audit_id": "097a164353ad85c3", "verdict": false, "flagged_ambiguous": false, "rationale": "The sign itself is only red, yellow, white and black; blue is just the sky background, not a sign color."}
+{"audit_id": "34f2a1f9bd9802ea", "verdict": true, "flagged_ambiguous": false, "rationale": "The building's base color is yellow, with blue line art on top."}
+{"audit_id": "e45fdc3a5cac8f2b", "verdict": true, "flagged_ambiguous": false, "rationale": "Sign reads 'Pete's Silly Sideshow', matching the sideshow theme."}
+{"audit_id": "958796d443415a17", "verdict": true, "flagged_ambiguous": false, "rationale": "Building sign reads 'BEBNMB'S', a garbled rendering of BEMBO'S."}
+{"audit_id": "dfdd3edc7d9df754", "verdict": true, "flagged_ambiguous": false, "rationale": "Sign subtext references 'oganiik' (organic), matching organic waste."}
+{"audit_id": "a34f346667a07a11", "verdict": false, "flagged_ambiguous": true, "rationale": "The establishment's name sign is a dark oval plaque with illegible script, so the specific name can't be confirmed."}
+{"audit_id": "f3b8656c58ddc4e8", "verdict": true, "flagged_ambiguous": false, "rationale": "Two characters are visible below the sign."}
+{"audit_id": "084c4b5aed77a850", "verdict": false, "flagged_ambiguous": false, "rationale": "Image shows five distinct colors (red, green, yellow, blue, white), not four."}
+{"audit_id": "cb9111391602074d", "verdict": true, "flagged_ambiguous": false, "rationale": "Circular badge is recognizably the Alfa Romeo logo (biscione snake, shield colors)."}
+{"audit_id": "5cd3d30391f05bf8", "verdict": false, "flagged_ambiguous": false, "rationale": "Building sign clearly reads 'LEEIDA'S', not 'BEMBO'S'."}
+{"audit_id": "ea000d7a0bb12ad1", "verdict": true, "flagged_ambiguous": false, "rationale": "Sign clearly reads 'PETE'S SILLY SIDESHOW'."}
+{"audit_id": "58ea295516721c56", "verdict": true, "flagged_ambiguous": false, "rationale": "Three character faces are shown on the sign."}
+{"audit_id": "9e99f0c4c990386a", "verdict": true, "flagged_ambiguous": false, "rationale": "Card text reads 'More than 2...', consistent with 'Over 2 Packs of Cigarettes'."}
+{"audit_id": "f77661ed075d30c8", "verdict": true, "flagged_ambiguous": false, "rationale": "Sign uses red, blue, yellow, and white as stated."}
+{"audit_id": "dd889f149aadcade", "verdict": true, "flagged_ambiguous": false, "rationale": "Storefront signage and large windows are consistent with a restaurant."}
+{"audit_id": "4cb8a4f8339f73af", "verdict": true, "flagged_ambiguous": false, "rationale": "Building is surrounded by hills, trees, lawn, and flowers."}
+{"audit_id": "a7c17ee085b100fd", "verdict": true, "flagged_ambiguous": false, "rationale": "Card explicitly states 'COOL MENTHOL TASTE'."}
+{"audit_id": "dd12d23bc9d171db", "verdict": true, "flagged_ambiguous": false, "rationale": "Box is labeled 'USB Charger' for the device, consistent with charging its battery."}
+{"audit_id": "5f0f87a68e4bb31b", "verdict": true, "flagged_ambiguous": false, "rationale": "The grid's top-left cell literally shows the letter E, matching the answer."}
+{"audit_id": "9cdfdfc906695308", "verdict": true, "flagged_ambiguous": false, "rationale": "Image is an alphabet-themed letter grid prominently featuring Z, and Z is indeed the last letter of the alphabet."}
+{"audit_id": "87ec803b3b2cce7e", "verdict": false, "flagged_ambiguous": false, "rationale": "The 'Hair Spaay' letters are rendered in black on a white cloud shape, so the text itself is black, not white."}
+{"audit_id": "05068fe577db406b", "verdict": true, "flagged_ambiguous": false, "rationale": "The image is headed 'Alphabet Grid' and one panel shows the full A-Z string, so 26 letters is correct."}
+{"audit_id": "d1c418662bbab428", "verdict": true, "flagged_ambiguous": false, "rationale": "Garbled shirt subtitle contains recognizable date-like digits (8, 9, 10), consistent with three dates."}
+{"audit_id": "ce98389ae6698d15", "verdict": true, "flagged_ambiguous": false, "rationale": "Shirt subtitle shows dates spanning 8th to 10th, i.e. a three-day event."}
+{"audit_id": "5f3de9dbcde9d47c", "verdict": true, "flagged_ambiguous": false, "rationale": "Chart enumerates letters A through Z with nothing after Z, consistent with the answer."}
+{"audit_id": "05aad0966dc535e6", "verdict": true, "flagged_ambiguous": false, "rationale": "Calendar image is explicitly titled 'April Calendar'."}
+{"audit_id": "49bc768d51178981", "verdict": true, "flagged_ambiguous": false, "rationale": "The only letter shown, A, is rendered in black, matching the answer even though no grid/corner is actually depicted."}
+{"audit_id": "c32f0e1374d46d58", "verdict": true, "flagged_ambiguous": false, "rationale": "Garbled shirt subtitle plausibly contains three date tokens (8, 9, 10)."}
+{"audit_id": "67384bf5dc05c76f", "verdict": false, "flagged_ambiguous": false, "rationale": "Dates on the poster are too garbled and inconsistent (an extra stray '25th') to support a clean three-day span."}
+{"audit_id": "81aa67342afb993f", "verdict": true, "flagged_ambiguous": false, "rationale": "Label shows exactly two names, David and Emma."}
+{"audit_id": "07368718aa64bec9", "verdict": true, "flagged_ambiguous": false, "rationale": "The T-shirt is clearly black."}
+{"audit_id": "8a0eb07ebedc1ad7", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a failed render showing raw placeholder text and a loading spinner; no alphabet is depicted at all."}
+{"audit_id": "0f3fb06904f8fcbc", "verdict": true, "flagged_ambiguous": false, "rationale": "Image is titled 'Alphabet Grid'; A being the first letter is a correct general fact unaffected by the abstract rendering."}
+{"audit_id": "ac06864d4ea3d980", "verdict": true, "flagged_ambiguous": false, "rationale": "Image is titled 'Alphabet Arrangement' and is alphabet-themed; 26 letters is a correct general fact."}
+{"audit_id": "1c1d2947a38e0029", "verdict": false, "flagged_ambiguous": false, "rationale": "Label text is too garbled ('CELBERCAITIG THE RAIRRAE DAVICA') to legibly read 'David & Emma'."}
+{"audit_id": "c0c78c0bf7e28bc2", "verdict": true, "flagged_ambiguous": false, "rationale": "Image is an alphabet-themed letter grid; 26 letters is a correct general fact."}
+{"audit_id": "8b5a5770d49e9da9", "verdict": true, "flagged_ambiguous": false, "rationale": "Image is an alphabet-themed letter grid; 26 letters is a correct general fact."}
+{"audit_id": "625048fc72899948", "verdict": true, "flagged_ambiguous": false, "rationale": "Label shows exactly two names, David and Emma."}
+{"audit_id": "e1b663e0e99dba75", "verdict": true, "flagged_ambiguous": false, "rationale": "Label clearly reads 'The Nash'."}
+{"audit_id": "2d19cce547acf400", "verdict": false, "flagged_ambiguous": false, "rationale": "Same failed-render image with raw placeholder text and no alphabet content."}
+{"audit_id": "3ee9d52b6b8fc58a", "verdict": true, "flagged_ambiguous": true, "rationale": "The vintage digits are garbled/overlapping and could plausibly be read as 2008 or 2098."}
+{"audit_id": "6725cf505a657225", "verdict": true, "flagged_ambiguous": false, "rationale": "The shirt's dominant color is clearly black."}
+{"audit_id": "8cdcbcc0972efac6", "verdict": false, "flagged_ambiguous": false, "rationale": "Image is a failed render showing only placeholder header text; no calendar or event content is visible."}
+{"audit_id": "958b927dfafa2cd6", "verdict": true, "flagged_ambiguous": false, "rationale": "Rendered page text explicitly names 'The Nash' as the winery multiple times."}
+{"audit_id": "020c8867116d65f9", "verdict": false, "flagged_ambiguous": false, "rationale": "Shirt text actually reads 'April 8th to 1077, 2017', not '10th' as the answer states."}
+{"audit_id": "3647803d9d998d3c", "verdict": true, "flagged_ambiguous": false, "rationale": "Garbled shirt subtitle plausibly encodes three date digits (8, 9, 10)."}
+{"audit_id": "97673774d9f64826", "verdict": true, "flagged_ambiguous": false, "rationale": "The 'HAIR SPRAY' text is rendered in a clearly bold typeface."}
+{"audit_id": "a72d1a3842a8d133", "verdict": true, "flagged_ambiguous": false, "rationale": "Label clearly reads 'The Nash'."}
+{"audit_id": "cfd44e8a69219233", "verdict": true, "flagged_ambiguous": false, "rationale": "Back label reads '16th Jiuy 2011', a legible typo for July that doesn't change the date."}
+{"audit_id": "9fb730bad2db5de2", "verdict": false, "flagged_ambiguous": false, "rationale": "Shirt text actually reads 'April 8th to 1077, 2017', not '10th' as the answer states."}
+{"audit_id": "bb5231a3edb219d4", "verdict": false, "flagged_ambiguous": false, "rationale": "The calendar shown has no event or highlighted days at all, so no duration is supported."}
+{"audit_id": "555cad371e165fac", "verdict": true, "flagged_ambiguous": false, "rationale": "Label text explicitly states '16th July 2011'."}
+{"audit_id": "ff2e9676754d4f9e", "verdict": false, "flagged_ambiguous": false, "rationale": "Image shows only a plain triangle inside a dashed circle; no letter E or grid is depicted at all."}
+{"audit_id": "9a806c6a36667d53", "verdict": true, "flagged_ambiguous": false, "rationale": "The grid's top-left cell is literally A, and A is the first letter of the alphabet."}
+{"audit_id": "d9dc676de60370e6", "verdict": true, "flagged_ambiguous": false, "rationale": "The shirt clearly reads 'Hair Spray'."}
+{"audit_id": "b7b0a2257bd1c66b", "verdict": true, "flagged_ambiguous": false, "rationale": "The background of the image is clearly white."}
+{"audit_id": "d5b82d346fc4527f", "verdict": true, "flagged_ambiguous": false, "rationale": "The 'Celebrating the David & Emma' label pattern with venue imagery is a standard wedding-label format supporting a marriage celebration."}
+{"audit_id": "693815199920123b", "verdict": true, "flagged_ambiguous": false, "rationale": "Grid is titled 'Alphabet Grid' with lettered cells A-Y; 26 letters is a correct general fact."}
+{"audit_id": "382a79111475281d", "verdict": true, "flagged_ambiguous": false, "rationale": "The text is clearly surrounded by a cloud-shaped outline."}
+{"audit_id": "b36f6faf3e9099db", "verdict": true, "flagged_ambiguous": false, "rationale": "Grid is titled 'Alphabet Grid'; 26 letters is a correct general fact despite the grid being visually truncated."}
+{"audit_id": "42257de2f93e1bb2", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is visibly holding the orange up near their face."}
+{"audit_id": "22c8fe310f5b7ff4", "verdict": true, "flagged_ambiguous": false, "rationale": "The employee on the left wears red and the one on the right wears blue."}
+{"audit_id": "8b4ac6230cf987e1", "verdict": false, "flagged_ambiguous": false, "rationale": "Only one broccoli floret is visible in the container, not two."}
+{"audit_id": "ed79b97af1ca4994", "verdict": true, "flagged_ambiguous": false, "rationale": "A generous portion of shredded and crumbled cheese is visible on top of the salad."}
+{"audit_id": "2c649aac9e645bfd", "verdict": true, "flagged_ambiguous": false, "rationale": "Only the rightmost employee wears a blue shirt; the others wear red and yellow."}
+{"audit_id": "fd40d6cf9328886e", "verdict": true, "flagged_ambiguous": false, "rationale": "The man is clearly holding a single orange."}
+{"audit_id": "b9bbf1074684376e", "verdict": true, "flagged_ambiguous": false, "rationale": "Small white price/label tags are visible on the shelf edges behind the employees."}
+{"audit_id": "3f2636023aee5d59", "verdict": true, "flagged_ambiguous": false, "rationale": "The three employees wear red, yellow, and blue shirts respectively."}
+{"audit_id": "1e23f29e679f8197", "verdict": true, "flagged_ambiguous": false, "rationale": "Same image/question as the duplicate packet; shirts are red, yellow, and blue."}
+{"audit_id": "5c5763d628237568", "verdict": true, "flagged_ambiguous": false, "rationale": "Two food containers are clearly visible on the table."}
+{"audit_id": "2793a4a3d22d7f98", "verdict": true, "flagged_ambiguous": false, "rationale": "The man is holding an orange."}
+{"audit_id": "2f3cc836e2b8f4df", "verdict": false, "flagged_ambiguous": false, "rationale": "The shelves show only uniform glazed donut-ring pastries, no distinct bagels are visible."}
+{"audit_id": "33c63690f6882fb1", "verdict": true, "flagged_ambiguous": false, "rationale": "All three figures wear white caps."}
+{"audit_id": "a3b737e2c9366505", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are standing in front of the bakery display."}
+{"audit_id": "e6c944fc5feceb5a", "verdict": true, "flagged_ambiguous": false, "rationale": "Two food containers are visible side by side."}
+{"audit_id": "e707628fd64de169", "verdict": true, "flagged_ambiguous": false, "rationale": "Scrambled eggs form the dominant visible ingredient in the container."}
+{"audit_id": "70c2f34332b0a148", "verdict": true, "flagged_ambiguous": false, "rationale": "Two containers, eggs and a vegetable/cheese mix, are visible side by side."}
+{"audit_id": "d835b43b20d1164e", "verdict": true, "flagged_ambiguous": false, "rationale": "The object held is clearly orange in color."}
+{"audit_id": "55ef66028ab597a7", "verdict": true, "flagged_ambiguous": false, "rationale": "Small white price/label tags are visible on the shelf edges behind the employees."}
+{"audit_id": "60babf5d1cbff658", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are visible in the photo."}
+{"audit_id": "1678e374ddd1116a", "verdict": true, "flagged_ambiguous": false, "rationale": "The container holds scrambled eggs mixed with broccoli and mushroom (vegetables)."}
+{"audit_id": "1b4c3a70cf0c0782", "verdict": true, "flagged_ambiguous": false, "rationale": "Four distinct food items are visible: egg dish, pasta, dip, and cheese piece."}
+{"audit_id": "1b8ed49290db8989", "verdict": true, "flagged_ambiguous": false, "rationale": "A 'Bento' watermark/branding is visible in the corner of the image."}
+{"audit_id": "d0fefa74e0ee3d52", "verdict": true, "flagged_ambiguous": false, "rationale": "The fork in the container is clearly blue."}
+{"audit_id": "5f6c94c38fbc161e", "verdict": true, "flagged_ambiguous": false, "rationale": "Only a single orange is visible in the image."}
+{"audit_id": "9dcb81286a4c1ae9", "verdict": true, "flagged_ambiguous": false, "rationale": "Two containers are visible in the image."}
+{"audit_id": "3daa1682b867c4b7", "verdict": true, "flagged_ambiguous": false, "rationale": "All three cartoon employees have visible white name tags on their aprons."}
+{"audit_id": "c61ec18b5673bd2f", "verdict": true, "flagged_ambiguous": false, "rationale": "The center employee's name tag appears positioned above the shirt's front button."}
+{"audit_id": "a7fb489f861e7c3e", "verdict": true, "flagged_ambiguous": false, "rationale": "Beans are the dominant base ingredient in the container."}
+{"audit_id": "88e4313c5f65699c", "verdict": true, "flagged_ambiguous": false, "rationale": "Scrambled eggs form the base ingredient of the container's contents."}
+{"audit_id": "e5c42023e9a1e905", "verdict": true, "flagged_ambiguous": false, "rationale": "Same image/question as the duplicate packet; scrambled eggs are the base ingredient."}
+{"audit_id": "50bc8b0a9eb03ce3", "verdict": true, "flagged_ambiguous": false, "rationale": "The lunch box's exterior body, handle, and lid trim are all a prominent blue."}
+{"audit_id": "2c443574f3817b7b", "verdict": true, "flagged_ambiguous": false, "rationale": "All three employees in the close-up are visibly smiling."}
+{"audit_id": "d7a37086804cbf19", "verdict": false, "flagged_ambiguous": false, "rationale": "The container holds a chili/bean dish, not a salad."}
+{"audit_id": "80c1910412c2e46c", "verdict": true, "flagged_ambiguous": false, "rationale": "The container holds scrambled eggs mixed with broccoli and mushroom (vegetables)."}
+{"audit_id": "b78680a5860e8ffc", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is bald and not wearing any hat."}
+{"audit_id": "f3db87a64958f5bf", "verdict": true, "flagged_ambiguous": false, "rationale": "The object held is clearly orange in color."}
+{"audit_id": "1e7615998bbff910", "verdict": true, "flagged_ambiguous": false, "rationale": "The person is making an exaggerated facial expression."}
+{"audit_id": "657fc95093964438", "verdict": true, "flagged_ambiguous": false, "rationale": "The fruit being held is an orange."}
+{"audit_id": "56d6f0bf7398f7f4", "verdict": false, "flagged_ambiguous": false, "rationale": "The individuals wear full brimmed baseball caps, not open-top visors."}
+{"audit_id": "c9dcce5c2096c55b", "verdict": true, "flagged_ambiguous": false, "rationale": "Two of the three employees wear red shirts, making red the predominant color."}
+{"audit_id": "f58836aa551c571e", "verdict": true, "flagged_ambiguous": false, "rationale": "Three people are visible in the photo."}
+{"audit_id": "015b674a8ab5685c", "verdict": true, "flagged_ambiguous": false, "rationale": "The three employees wear red, yellow, and blue shirts respectively."}
+{"audit_id": "b88fdf08e32e9c6f", "verdict": true, "flagged_ambiguous": false, "rationale": "The man on the left wears a baseball-style cap."}

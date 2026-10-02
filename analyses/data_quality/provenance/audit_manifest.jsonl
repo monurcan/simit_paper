@@ -1,0 +1,619 @@
+{"audit_id": "4e4af4420eb51ec3", "setting": "full", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "White"}
+{"audit_id": "9ef47e60d6612c89", "setting": "full", "benchmark": "ok_vqa_val2014", "sample_id": "sample295", "answer": "Sitting opposite each other."}
+{"audit_id": "898d4d1164ce39fa", "setting": "full", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Three"}
+{"audit_id": "9a32ab10558253dd", "setting": "full", "benchmark": "seedbench", "sample_id": "sample472", "answer": "White"}
+{"audit_id": "0398c964e6a0b409", "setting": "full", "benchmark": "seedbench", "sample_id": "sample472", "answer": "No"}
+{"audit_id": "d340832c44aca2a0", "setting": "full", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "b0d47141e494fcd3", "setting": "full", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Boating"}
+{"audit_id": "3de039036986539a", "setting": "full", "benchmark": "seedbench", "sample_id": "sample481", "answer": "A pink shirt"}
+{"audit_id": "35ec81772606a9cf", "setting": "full", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Green"}
+{"audit_id": "110b608a47501b3b", "setting": "full", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Daytime"}
+{"audit_id": "1ac77d4adcd61ea7", "setting": "full", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "af5ec7796e6b5321", "setting": "full", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "The statue is made of bronze."}
+{"audit_id": "02719da8675240ee", "setting": "full", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "The statue is made of bronze."}
+{"audit_id": "fdb7fe9087bef2f3", "setting": "full", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "102"}
+{"audit_id": "5f90939a203c4ac8", "setting": "full", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Yes"}
+{"audit_id": "b34769416c1623e7", "setting": "full", "benchmark": "coco2017_cap_val", "sample_id": "sample112", "answer": "ACME"}
+{"audit_id": "fddc245546fdfc68", "setting": "full", "benchmark": "coco2017_cap_val", "sample_id": "sample425", "answer": "Chiquita"}
+{"audit_id": "d34139ad2e3dafa1", "setting": "full", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Two"}
+{"audit_id": "99bad07a4c67d1ed", "setting": "full", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Three."}
+{"audit_id": "e45fdc3a5cac8f2b", "setting": "full", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Sideshow."}
+{"audit_id": "5ab34bf6b5e21b58", "setting": "full", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Red, yellow, blue, and white."}
+{"audit_id": "77c8304c052f4840", "setting": "full", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Four."}
+{"audit_id": "b5d6fb49a1dc823a", "setting": "full", "benchmark": "gqa", "sample_id": "sample207", "answer": "Pedestrians walking"}
+{"audit_id": "cb3ac32e8b28d3de", "setting": "full", "benchmark": "gqa", "sample_id": "sample261", "answer": "Yes"}
+{"audit_id": "bde21a02d49a37a9", "setting": "full", "benchmark": "gqa", "sample_id": "sample261", "answer": "Pedestrians crossing"}
+{"audit_id": "d8916b35aafac7f3", "setting": "full", "benchmark": "gqa", "sample_id": "sample261", "answer": "Pharmacy"}
+{"audit_id": "cbe715ecaecbfcd1", "setting": "full", "benchmark": "gqa", "sample_id": "sample261", "answer": "Daytime"}
+{"audit_id": "56e6a52de16a137b", "setting": "full", "benchmark": "gqa", "sample_id": "sample261", "answer": "Multiple"}
+{"audit_id": "f8ce5ea8b2fa65a6", "setting": "full", "benchmark": "gqa", "sample_id": "sample261", "answer": "6"}
+{"audit_id": "3f2636023aee5d59", "setting": "full", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Red, yellow, blue"}
+{"audit_id": "55ef66028ab597a7", "setting": "full", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Yes"}
+{"audit_id": "88e4313c5f65699c", "setting": "full", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Scrambled eggs."}
+{"audit_id": "e98dba0d1aa14368", "setting": "full", "benchmark": "ai2d", "sample_id": "sample13", "answer": "One cell"}
+{"audit_id": "4089463cccacb97d", "setting": "full", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Red"}
+{"audit_id": "c5ac38ef2f3844be", "setting": "full", "benchmark": "ai2d", "sample_id": "sample13", "answer": "No"}
+{"audit_id": "95ba1e9f32ef2092", "setting": "full", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Yellow"}
+{"audit_id": "d7d0fe251c89123a", "setting": "full", "benchmark": "ai2d", "sample_id": "sample157", "answer": "One"}
+{"audit_id": "155a8499dbf5b861", "setting": "full", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Brown"}
+{"audit_id": "1c542c33e246d2f2", "setting": "full", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Behind the tree"}
+{"audit_id": "f50d333257393cc0", "setting": "full", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Grazing"}
+{"audit_id": "821d7b62fc7fa1c6", "setting": "full", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Honda Civic"}
+{"audit_id": "03b25c7a5de1b34c", "setting": "full", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Two"}
+{"audit_id": "beba800492fdf177", "setting": "full", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "10"}
+{"audit_id": "474b0e677686251c", "setting": "full", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Purple"}
+{"audit_id": "ae4d1426d67b47d5", "setting": "full", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Three"}
+{"audit_id": "de906a536e0fd9a2", "setting": "full", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Black"}
+{"audit_id": "a3f05a52f1e6ca7f", "setting": "full", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Necklace"}
+{"audit_id": "d949c23725254bb1", "setting": "full", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Yes"}
+{"audit_id": "569041378b21cadd", "setting": "full", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Three"}
+{"audit_id": "024b02d80d1bd38b", "setting": "full", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "A stadium"}
+{"audit_id": "25eba727c53558d2", "setting": "full", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "A black shirt"}
+{"audit_id": "1cb147df40893018", "setting": "full", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "12"}
+{"audit_id": "0d27eba2cd5feef0", "setting": "full", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "3"}
+{"audit_id": "2bde9f7d769160c2", "setting": "full", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "Time travel"}
+{"audit_id": "c5e6a1d84a11cd49", "setting": "full", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Yes."}
+{"audit_id": "9fb730bad2db5de2", "setting": "full", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "April 8th to 10th, 2017."}
+{"audit_id": "2d19cce547acf400", "setting": "full", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "26"}
+{"audit_id": "5deb2763d925e67c", "setting": "no_aba", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "White"}
+{"audit_id": "e6b423763faeb2f6", "setting": "no_aba", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "Two"}
+{"audit_id": "fad60f3eef82c3f4", "setting": "no_aba", "benchmark": "ok_vqa_val2014", "sample_id": "sample295", "answer": "Sitting opposite each other."}
+{"audit_id": "82d79bb0778f3a24", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Three"}
+{"audit_id": "11e187c7476d853d", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample472", "answer": "White"}
+{"audit_id": "5db5ef91c9a33154", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample472", "answer": "No"}
+{"audit_id": "5a5b2a7382bccdf9", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Dots"}
+{"audit_id": "17d911069b6533b9", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample472", "answer": "The red shoes"}
+{"audit_id": "567e5fc43d53ec9a", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Pink and white"}
+{"audit_id": "bad33236957e2c1a", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "c145f9dd889b358b", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Boating"}
+{"audit_id": "d2d347d87da3bde1", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample481", "answer": "A pink shirt"}
+{"audit_id": "293745138918a637", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Green"}
+{"audit_id": "4ce4e6f11d478121", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Daytime"}
+{"audit_id": "b884405ad9dfca4c", "setting": "no_aba", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "d23b76d1cab68517", "setting": "no_aba", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "The statue is made of bronze."}
+{"audit_id": "54ae90f1dc3789a9", "setting": "no_aba", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "The statue is made of bronze."}
+{"audit_id": "3aa717330a4e6016", "setting": "no_aba", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "The statue depicts a photographer taking a picture."}
+{"audit_id": "1a29ed1f531ff2d5", "setting": "no_aba", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "102"}
+{"audit_id": "796a97acb481bd93", "setting": "no_aba", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Yes"}
+{"audit_id": "69e509084455d719", "setting": "no_aba", "benchmark": "coco2017_cap_val", "sample_id": "sample112", "answer": "ACME"}
+{"audit_id": "c87d365cad12cb25", "setting": "no_aba", "benchmark": "coco2017_cap_val", "sample_id": "sample425", "answer": "Chiquita"}
+{"audit_id": "2a4193c9f6b9542a", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Two"}
+{"audit_id": "8911408bad0cdd79", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Yellow and blue"}
+{"audit_id": "031e9f6f37ed9a55", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Yes"}
+{"audit_id": "95a7c5576f70bf65", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Yes"}
+{"audit_id": "8e723ad67d1a5a52", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Two"}
+{"audit_id": "b0f594dc6ccfffb9", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Two"}
+{"audit_id": "58ea295516721c56", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Three."}
+{"audit_id": "10e7cc34b70af3be", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Sideshow."}
+{"audit_id": "097a164353ad85c3", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Red, yellow, blue, and white."}
+{"audit_id": "822c97c11088dab7", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Four."}
+{"audit_id": "334ed72a81e442b8", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Three"}
+{"audit_id": "9720748fb3f219de", "setting": "no_aba", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Three"}
+{"audit_id": "bb5bd531f2cf98e5", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample207", "answer": "Pedestrians walking"}
+{"audit_id": "0a8a8fbfaa16fc92", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample207", "answer": "Chinese characters"}
+{"audit_id": "06312fab2ca1c156", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample207", "answer": "Numerous"}
+{"audit_id": "c4d5f4fd11a3a1cc", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample207", "answer": "Fabric"}
+{"audit_id": "873af3be5a041f4c", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample207", "answer": "Yes"}
+{"audit_id": "870c4b30224de870", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample207", "answer": "Daytime"}
+{"audit_id": "4c8da67c9298b786", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample261", "answer": "Yes"}
+{"audit_id": "5064d9df19552970", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample261", "answer": "Pedestrians crossing"}
+{"audit_id": "df4ed763140d3579", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample261", "answer": "Pharmacy"}
+{"audit_id": "31a08dbc3ab862a5", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample261", "answer": "Daytime"}
+{"audit_id": "44601d86b2f80c38", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample261", "answer": "Multiple"}
+{"audit_id": "38a2ae75253c8aba", "setting": "no_aba", "benchmark": "gqa", "sample_id": "sample261", "answer": "6"}
+{"audit_id": "1e23f29e679f8197", "setting": "no_aba", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Red, yellow, blue"}
+{"audit_id": "b9bbf1074684376e", "setting": "no_aba", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Yes"}
+{"audit_id": "e5c42023e9a1e905", "setting": "no_aba", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Scrambled eggs."}
+{"audit_id": "31d95cecaf150acd", "setting": "no_aba", "benchmark": "ai2d", "sample_id": "sample13", "answer": "One cell"}
+{"audit_id": "b0268d539aa6e5b4", "setting": "no_aba", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Red"}
+{"audit_id": "4347d2f2bcda8d58", "setting": "no_aba", "benchmark": "ai2d", "sample_id": "sample13", "answer": "No"}
+{"audit_id": "62dedef9dfb1088b", "setting": "no_aba", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Yellow"}
+{"audit_id": "9b7a8e341ea82775", "setting": "no_aba", "benchmark": "ai2d", "sample_id": "sample157", "answer": "One"}
+{"audit_id": "de266bf552f62af2", "setting": "no_aba", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Brown"}
+{"audit_id": "ea79181daeb24cce", "setting": "no_aba", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Behind the tree"}
+{"audit_id": "10e1a52ca38a9ccc", "setting": "no_aba", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Grazing"}
+{"audit_id": "dbba5c69f240f064", "setting": "no_aba", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Deer"}
+{"audit_id": "e020d7988438f9cc", "setting": "no_aba", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Factory operation"}
+{"audit_id": "1182673ca8ccc036", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Honda Civic"}
+{"audit_id": "4589a4c604be3b10", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Two"}
+{"audit_id": "d09a53731a1f01ac", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "10"}
+{"audit_id": "4713d03c1a936d60", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Purple"}
+{"audit_id": "b4c9a24365447e9e", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Yes"}
+{"audit_id": "07fc968068c8b2fd", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Honda"}
+{"audit_id": "a52cb883f751f240", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Three"}
+{"audit_id": "cbbea1a7564e4f3f", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Black"}
+{"audit_id": "66e8900165a14a93", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Necklace"}
+{"audit_id": "8bf5ed652c87241a", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Green"}
+{"audit_id": "b28d6568c0f39037", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Yes"}
+{"audit_id": "7d0542392967b300", "setting": "no_aba", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Purple"}
+{"audit_id": "dfa552f9f99ab8f7", "setting": "no_aba", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Yes"}
+{"audit_id": "4063003cb378d32a", "setting": "no_aba", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Three"}
+{"audit_id": "d9092d3c77614ec8", "setting": "no_aba", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "A stadium"}
+{"audit_id": "65960f849726ef69", "setting": "no_aba", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Orange and white"}
+{"audit_id": "da33f7860a87e931", "setting": "no_aba", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Yes"}
+{"audit_id": "fc007201ee026493", "setting": "no_aba", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "A black shirt"}
+{"audit_id": "c2166edfe7f6bbc5", "setting": "no_aba", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "12"}
+{"audit_id": "20d667de49e089b0", "setting": "no_aba", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "3"}
+{"audit_id": "bf4e7944ef22ca94", "setting": "no_aba", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "Time travel"}
+{"audit_id": "811e59020891d92a", "setting": "no_aba", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "\"The Internet Next\" by Kevin Kelly"}
+{"audit_id": "827ef99ff2116411", "setting": "no_aba", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Yes."}
+{"audit_id": "020c8867116d65f9", "setting": "no_aba", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "April 8th to 10th, 2017."}
+{"audit_id": "8a0eb07ebedc1ad7", "setting": "no_aba", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "26"}
+{"audit_id": "0f3fb06904f8fcbc", "setting": "no_aba", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "A"}
+{"audit_id": "68cae4a2b22a83b9", "setting": "no_aba_no_df", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "Two"}
+{"audit_id": "db30dc67af36ec7f", "setting": "no_aba_no_df", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "Black"}
+{"audit_id": "92f63f88fc5c7042", "setting": "no_aba_no_df", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "Tractor"}
+{"audit_id": "f14609b75b4d352c", "setting": "no_aba_no_df", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "Yes"}
+{"audit_id": "d74d04887abc05a4", "setting": "no_aba_no_df", "benchmark": "ok_vqa_val2014", "sample_id": "sample295", "answer": "Two"}
+{"audit_id": "1b132f8f794f425f", "setting": "no_aba_no_df", "benchmark": "ok_vqa_val2014", "sample_id": "sample295", "answer": "White with pink stripes"}
+{"audit_id": "8a50f638d0492a5d", "setting": "no_aba_no_df", "benchmark": "ok_vqa_val2014", "sample_id": "sample295", "answer": "Drinking"}
+{"audit_id": "860a897d4b99b545", "setting": "no_aba_no_df", "benchmark": "ok_vqa_val2014", "sample_id": "sample295", "answer": "Yes"}
+{"audit_id": "0ca0c980d5a472ed", "setting": "no_aba_no_df", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Three"}
+{"audit_id": "4a82017fdf6dcf1d", "setting": "no_aba_no_df", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Yes"}
+{"audit_id": "3dc9e2733a375d3f", "setting": "no_aba_no_df", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Three"}
+{"audit_id": "8ae1ebce3564b82a", "setting": "no_aba_no_df", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Three"}
+{"audit_id": "2f599e346f5b1847", "setting": "no_aba_no_df", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "1a18717e6d191720", "setting": "no_aba_no_df", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Green"}
+{"audit_id": "597d1f8bddaed90d", "setting": "no_aba_no_df", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Boating"}
+{"audit_id": "cfb32351db4be8c5", "setting": "no_aba_no_df", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "c74939761770cdc7", "setting": "no_aba_no_df", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "Two"}
+{"audit_id": "70c48eee35ed1f29", "setting": "no_aba_no_df", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "Large format camera"}
+{"audit_id": "8c45bd2d66ffd4d6", "setting": "no_aba_no_df", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "Yes"}
+{"audit_id": "15227a3e28bb54dd", "setting": "no_aba_no_df", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "Two"}
+{"audit_id": "458b5bbd2ce1939f", "setting": "no_aba_no_df", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Three"}
+{"audit_id": "5c54328ce2bd4c4a", "setting": "no_aba_no_df", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Shopping"}
+{"audit_id": "27d61f7ee5814c3b", "setting": "no_aba_no_df", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Daytime"}
+{"audit_id": "df539883875798f1", "setting": "no_aba_no_df", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Three"}
+{"audit_id": "452267eb5f84775f", "setting": "no_aba_no_df", "benchmark": "coco2017_cap_val", "sample_id": "sample112", "answer": "Black"}
+{"audit_id": "bcffba64bf73829c", "setting": "no_aba_no_df", "benchmark": "coco2017_cap_val", "sample_id": "sample112", "answer": "Black"}
+{"audit_id": "c1499916d0e71eac", "setting": "no_aba_no_df", "benchmark": "coco2017_cap_val", "sample_id": "sample112", "answer": "Speaking or performing"}
+{"audit_id": "5722f8045159b7b9", "setting": "no_aba_no_df", "benchmark": "coco2017_cap_val", "sample_id": "sample112", "answer": "Four"}
+{"audit_id": "f5e76576805c46bf", "setting": "no_aba_no_df", "benchmark": "coco2017_cap_val", "sample_id": "sample425", "answer": "Three"}
+{"audit_id": "b9a3e5feb58118e8", "setting": "no_aba_no_df", "benchmark": "coco2017_cap_val", "sample_id": "sample425", "answer": "Six"}
+{"audit_id": "a473504dac1e6be5", "setting": "no_aba_no_df", "benchmark": "coco2017_cap_val", "sample_id": "sample425", "answer": "Three"}
+{"audit_id": "1641b5c3c53b45da", "setting": "no_aba_no_df", "benchmark": "coco2017_cap_val", "sample_id": "sample425", "answer": "Three"}
+{"audit_id": "e63deb9f4a92251d", "setting": "no_aba_no_df", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Two"}
+{"audit_id": "34f2a1f9bd9802ea", "setting": "no_aba_no_df", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Yellow"}
+{"audit_id": "69d4ebd7f68cac57", "setting": "no_aba_no_df", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Yes"}
+{"audit_id": "dd889f149aadcade", "setting": "no_aba_no_df", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Restaurant"}
+{"audit_id": "dde8f3e53deeb6fd", "setting": "no_aba_no_df", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "10 minutes"}
+{"audit_id": "f3b8656c58ddc4e8", "setting": "no_aba_no_df", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Two"}
+{"audit_id": "7731700c49417fb3", "setting": "no_aba_no_df", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Three"}
+{"audit_id": "1b99d282b2dc0f02", "setting": "no_aba_no_df", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Three"}
+{"audit_id": "d33f3ab061630a39", "setting": "no_aba_no_df", "benchmark": "gqa", "sample_id": "sample207", "answer": "More than ten."}
+{"audit_id": "10d62e3cbc250783", "setting": "no_aba_no_df", "benchmark": "gqa", "sample_id": "sample207", "answer": "Black."}
+{"audit_id": "4bbd7e8c5e3da3fd", "setting": "no_aba_no_df", "benchmark": "gqa", "sample_id": "sample207", "answer": "Oranges."}
+{"audit_id": "575780f48abb12f3", "setting": "no_aba_no_df", "benchmark": "gqa", "sample_id": "sample207", "answer": "Yes."}
+{"audit_id": "cb028b18b39969b5", "setting": "no_aba_no_df", "benchmark": "gqa", "sample_id": "sample261", "answer": "Seven"}
+{"audit_id": "3059d1e6549c9ff8", "setting": "no_aba_no_df", "benchmark": "gqa", "sample_id": "sample261", "answer": "Pedestrians crossing"}
+{"audit_id": "a817a340ef497ba8", "setting": "no_aba_no_df", "benchmark": "gqa", "sample_id": "sample261", "answer": "Daytime"}
+{"audit_id": "f50bfe24d496845a", "setting": "no_aba_no_df", "benchmark": "gqa", "sample_id": "sample261", "answer": "Multiple"}
+{"audit_id": "33c63690f6882fb1", "setting": "no_aba_no_df", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Three"}
+{"audit_id": "22c8fe310f5b7ff4", "setting": "no_aba_no_df", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Red and blue"}
+{"audit_id": "2c443574f3817b7b", "setting": "no_aba_no_df", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Yes"}
+{"audit_id": "3daa1682b867c4b7", "setting": "no_aba_no_df", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Three"}
+{"audit_id": "5c5763d628237568", "setting": "no_aba_no_df", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Two"}
+{"audit_id": "e707628fd64de169", "setting": "no_aba_no_df", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Scrambled eggs"}
+{"audit_id": "8b4ac6230cf987e1", "setting": "no_aba_no_df", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Two"}
+{"audit_id": "a7fb489f861e7c3e", "setting": "no_aba_no_df", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Beans"}
+{"audit_id": "6c6975d3d2f7b7a4", "setting": "no_aba_no_df", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Yellow"}
+{"audit_id": "4b3ffbd1d56b1694", "setting": "no_aba_no_df", "benchmark": "ai2d", "sample_id": "sample13", "answer": "No"}
+{"audit_id": "6640798555a176a2", "setting": "no_aba_no_df", "benchmark": "ai2d", "sample_id": "sample157", "answer": "One"}
+{"audit_id": "f302302b94ca76ac", "setting": "no_aba_no_df", "benchmark": "ai2d", "sample_id": "sample157", "answer": "White"}
+{"audit_id": "93995d084d7d8eb8", "setting": "no_aba_no_df", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Behind the hill"}
+{"audit_id": "1826f9c27430ed3c", "setting": "no_aba_no_df", "benchmark": "ai2d", "sample_id": "sample157", "answer": "No"}
+{"audit_id": "01acd6c4a0c23914", "setting": "no_aba_no_df", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Silver"}
+{"audit_id": "442deb9323a53236", "setting": "no_aba_no_df", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Four"}
+{"audit_id": "ff1e168011f202cb", "setting": "no_aba_no_df", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Four"}
+{"audit_id": "3f9fb69a83247b03", "setting": "no_aba_no_df", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Four"}
+{"audit_id": "97247990eeaea2fe", "setting": "no_aba_no_df", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Three"}
+{"audit_id": "2b51aa1bcbacff70", "setting": "no_aba_no_df", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Black"}
+{"audit_id": "d9e0adf89f45b7c2", "setting": "no_aba_no_df", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "A necklace"}
+{"audit_id": "e5ae395d579010d7", "setting": "no_aba_no_df", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Sunglasses"}
+{"audit_id": "a303e23cae02648d", "setting": "no_aba_no_df", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Three"}
+{"audit_id": "38053153270a305d", "setting": "no_aba_no_df", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "An orange shirt and beige pants"}
+{"audit_id": "895057d7e31daba2", "setting": "no_aba_no_df", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Sculpting"}
+{"audit_id": "c9970e3156a78ead", "setting": "no_aba_no_df", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "One"}
+{"audit_id": "ba344a61bdbfd31b", "setting": "no_aba_no_df", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Three"}
+{"audit_id": "2139b4433848b0bc", "setting": "no_aba_no_df", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Orange"}
+{"audit_id": "7b447507917c493f", "setting": "no_aba_no_df", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Yes"}
+{"audit_id": "8c3afb9c3be2b638", "setting": "no_aba_no_df", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Three"}
+{"audit_id": "a31d1540b8f46135", "setting": "no_aba_no_df", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "Ten"}
+{"audit_id": "0e5cce9dc0b5518d", "setting": "no_aba_no_df", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "White"}
+{"audit_id": "984780fb0057140c", "setting": "no_aba_no_df", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "Woman"}
+{"audit_id": "717608bdca670f80", "setting": "no_aba_no_df", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "A carton of creamer"}
+{"audit_id": "9d62a651ea7ecc94", "setting": "no_aba_no_df", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "2"}
+{"audit_id": "28e9221d894f72e6", "setting": "no_aba_no_df", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "\"The Creative Canteen\""}
+{"audit_id": "0aef73434e80a708", "setting": "no_aba_no_df", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "Outdoor Workspace"}
+{"audit_id": "3eb89ea941e8f1c2", "setting": "no_aba_no_df", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "Blue"}
+{"audit_id": "1367e2709d4b0246", "setting": "no_aba_no_df", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "3"}
+{"audit_id": "6f467b0ace9b9067", "setting": "no_aba_no_df", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "1991"}
+{"audit_id": "a93258b64ae15557", "setting": "no_aba_no_df", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "\"2001: A Space Odyssey\""}
+{"audit_id": "e31add54f4573c4a", "setting": "no_aba_no_df", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "In the Year 2000"}
+{"audit_id": "26a0e36039e3f5fe", "setting": "no_aba_no_df", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Antwerp"}
+{"audit_id": "a334bff65f6abb71", "setting": "no_aba_no_df", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "White costume"}
+{"audit_id": "b8f0bd97acafc259", "setting": "no_aba_no_df", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Dancing"}
+{"audit_id": "ef3b41e280c778a1", "setting": "no_aba_no_df", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "New Adventures"}
+{"audit_id": "8cdcbcc0972efac6", "setting": "no_aba_no_df", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Three days"}
+{"audit_id": "3647803d9d998d3c", "setting": "no_aba_no_df", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Three"}
+{"audit_id": "c32f0e1374d46d58", "setting": "no_aba_no_df", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Three"}
+{"audit_id": "d1c418662bbab428", "setting": "no_aba_no_df", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Three"}
+{"audit_id": "05068fe577db406b", "setting": "no_aba_no_df", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "26"}
+{"audit_id": "ac06864d4ea3d980", "setting": "no_aba_no_df", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "26"}
+{"audit_id": "5f3de9dbcde9d47c", "setting": "no_aba_no_df", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "There is no letter after Z"}
+{"audit_id": "6474a1e46cf68018", "setting": "no_aba_no_df_no_dp", "benchmark": "ok_vqa_val2014", "sample_id": "sample305", "answer": "Two"}
+{"audit_id": "fc1b929ace5fe562", "setting": "no_aba_no_df_no_dp", "benchmark": "ok_vqa_val2014", "sample_id": "sample166", "answer": "Lying down"}
+{"audit_id": "a9dcdad3ae040663", "setting": "no_aba_no_df_no_dp", "benchmark": "ok_vqa_val2014", "sample_id": "sample295", "answer": "White with colorful patterns"}
+{"audit_id": "610994734a6f972d", "setting": "no_aba_no_df_no_dp", "benchmark": "ok_vqa_val2014", "sample_id": "sample117", "answer": "Several"}
+{"audit_id": "f59def85251d8572", "setting": "no_aba_no_df_no_dp", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "Tractor"}
+{"audit_id": "d3e3bac517f9a434", "setting": "no_aba_no_df_no_dp", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "Transportation"}
+{"audit_id": "67425708dffa6f07", "setting": "no_aba_no_df_no_dp", "benchmark": "ok_vqa_val2014", "sample_id": "sample295", "answer": "Two"}
+{"audit_id": "e321831d49e50e11", "setting": "no_aba_no_df_no_dp", "benchmark": "ok_vqa_val2014", "sample_id": "sample70", "answer": "Green."}
+{"audit_id": "1a996f1d79a88a45", "setting": "no_aba_no_df_no_dp", "benchmark": "ok_vqa_val2014", "sample_id": "sample371", "answer": "Bush"}
+{"audit_id": "7edf5be7338f3c44", "setting": "no_aba_no_df_no_dp", "benchmark": "ok_vqa_val2014", "sample_id": "sample371", "answer": "Raincoat"}
+{"audit_id": "e20ab55c7001aae8", "setting": "no_aba_no_df_no_dp", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "54899c77739c9064", "setting": "no_aba_no_df_no_dp", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Striped"}
+{"audit_id": "43722ed5d1a4ab60", "setting": "no_aba_no_df_no_dp", "benchmark": "seedbench", "sample_id": "sample481", "answer": "A bright green jacket"}
+{"audit_id": "5f0754c3561e3ae2", "setting": "no_aba_no_df_no_dp", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "defdf00eface150e", "setting": "no_aba_no_df_no_dp", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Red and yellow"}
+{"audit_id": "de8de4353965d351", "setting": "no_aba_no_df_no_dp", "benchmark": "seedbench", "sample_id": "sample472", "answer": "White"}
+{"audit_id": "075703916a58e9af", "setting": "no_aba_no_df_no_dp", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Red"}
+{"audit_id": "0d8de2748057cd84", "setting": "no_aba_no_df_no_dp", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "d035f0e8971545c4", "setting": "no_aba_no_df_no_dp", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Green"}
+{"audit_id": "ecc0d293a2076130", "setting": "no_aba_no_df_no_dp", "benchmark": "flickr30k_test", "sample_id": "sample477", "answer": "Evening"}
+{"audit_id": "464e9ce531a94c4e", "setting": "no_aba_no_df_no_dp", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "Gold-colored material"}
+{"audit_id": "1e23ac5369c7df98", "setting": "no_aba_no_df_no_dp", "benchmark": "flickr30k_test", "sample_id": "sample182", "answer": "Mike Bloomberg NYC"}
+{"audit_id": "7bbdc7590fa46689", "setting": "no_aba_no_df_no_dp", "benchmark": "flickr30k_test", "sample_id": "sample9", "answer": "Repent of your wicked heart or unbelief"}
+{"audit_id": "0e4325eb87c5eba7", "setting": "no_aba_no_df_no_dp", "benchmark": "flickr30k_test", "sample_id": "sample289", "answer": "ducks"}
+{"audit_id": "6d2600b66a9ba88a", "setting": "no_aba_no_df_no_dp", "benchmark": "flickr30k_test", "sample_id": "sample182", "answer": "Mike Bloomberg NYC"}
+{"audit_id": "d519b70278f13d26", "setting": "no_aba_no_df_no_dp", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "The statue is made of bronze."}
+{"audit_id": "f6650f3f857e4cbb", "setting": "no_aba_no_df_no_dp", "benchmark": "flickr30k_test", "sample_id": "sample351", "answer": "A megaphone"}
+{"audit_id": "94c8e00317718f3e", "setting": "no_aba_no_df_no_dp", "benchmark": "flickr30k_test", "sample_id": "sample477", "answer": "Broadway Rite Aid Pharmacy"}
+{"audit_id": "7a991ba0ac23eaa3", "setting": "no_aba_no_df_no_dp", "benchmark": "coco2017_cap_val", "sample_id": "sample492", "answer": "School uniforms."}
+{"audit_id": "e247db11b48adf10", "setting": "no_aba_no_df_no_dp", "benchmark": "coco2017_cap_val", "sample_id": "sample402", "answer": "Pizza slices"}
+{"audit_id": "7d842c5897156235", "setting": "no_aba_no_df_no_dp", "benchmark": "coco2017_cap_val", "sample_id": "sample402", "answer": "Pizza slices"}
+{"audit_id": "9070a7c0ca9f1b36", "setting": "no_aba_no_df_no_dp", "benchmark": "coco2017_cap_val", "sample_id": "sample63", "answer": "A basketball game is happening."}
+{"audit_id": "81143fd383fec87f", "setting": "no_aba_no_df_no_dp", "benchmark": "coco2017_cap_val", "sample_id": "sample63", "answer": "Shooting"}
+{"audit_id": "1cdbb38b934277bd", "setting": "no_aba_no_df_no_dp", "benchmark": "coco2017_cap_val", "sample_id": "sample120", "answer": "A large black corrugated pipe"}
+{"audit_id": "d5a16288092922af", "setting": "no_aba_no_df_no_dp", "benchmark": "coco2017_cap_val", "sample_id": "sample120", "answer": "corrugated"}
+{"audit_id": "2bdd6e041988c2e5", "setting": "no_aba_no_df_no_dp", "benchmark": "coco2017_cap_val", "sample_id": "sample87", "answer": "Freight or passenger train"}
+{"audit_id": "577055f1bfee2bf9", "setting": "no_aba_no_df_no_dp", "benchmark": "coco2017_cap_val", "sample_id": "sample111", "answer": "Four"}
+{"audit_id": "1133fd4a90cbaec5", "setting": "no_aba_no_df_no_dp", "benchmark": "coco2017_cap_val", "sample_id": "sample63", "answer": "A basketball game is taking place."}
+{"audit_id": "7c92ae87bb876d88", "setting": "no_aba_no_df_no_dp", "benchmark": "textvqa_val", "sample_id": "sample454", "answer": "Oscar & The Deep Sea Pearl"}
+{"audit_id": "dfdd3edc7d9df754", "setting": "no_aba_no_df_no_dp", "benchmark": "textvqa_val", "sample_id": "sample45", "answer": "Organic waste"}
+{"audit_id": "8902b810a083c7c2", "setting": "no_aba_no_df_no_dp", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "BEMBO'S"}
+{"audit_id": "70b7f4148bf2b671", "setting": "no_aba_no_df_no_dp", "benchmark": "textvqa_val", "sample_id": "sample45", "answer": "Organic waste"}
+{"audit_id": "1fd99d0cdfacdc22", "setting": "no_aba_no_df_no_dp", "benchmark": "textvqa_val", "sample_id": "sample206", "answer": "Pub or restaurant"}
+{"audit_id": "958796d443415a17", "setting": "no_aba_no_df_no_dp", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "BEMBO'S"}
+{"audit_id": "45f2c88faa0c8f24", "setting": "no_aba_no_df_no_dp", "benchmark": "textvqa_val", "sample_id": "sample120", "answer": "Yes"}
+{"audit_id": "1b18501cdefdbe5e", "setting": "no_aba_no_df_no_dp", "benchmark": "textvqa_val", "sample_id": "sample120", "answer": "Cidre"}
+{"audit_id": "9e99f0c4c990386a", "setting": "no_aba_no_df_no_dp", "benchmark": "textvqa_val", "sample_id": "sample98", "answer": "Over 2 Packs of Cigarettes"}
+{"audit_id": "5cd3d30391f05bf8", "setting": "no_aba_no_df_no_dp", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "BEMBO'S"}
+{"audit_id": "f06b8f7e0c813227", "setting": "no_aba_no_df_no_dp", "benchmark": "gqa", "sample_id": "sample261", "answer": "Green"}
+{"audit_id": "984d6616daa784be", "setting": "no_aba_no_df_no_dp", "benchmark": "gqa", "sample_id": "sample234", "answer": "Black"}
+{"audit_id": "6c856e79d5b4b9b3", "setting": "no_aba_no_df_no_dp", "benchmark": "gqa", "sample_id": "sample261", "answer": "Pharmacy sign"}
+{"audit_id": "29fe1d097814d592", "setting": "no_aba_no_df_no_dp", "benchmark": "gqa", "sample_id": "sample207", "answer": "Various advertisements and signs"}
+{"audit_id": "b05bc3e2d92b2d9a", "setting": "no_aba_no_df_no_dp", "benchmark": "gqa", "sample_id": "sample234", "answer": "Two"}
+{"audit_id": "c221d9f8a1eab302", "setting": "no_aba_no_df_no_dp", "benchmark": "gqa", "sample_id": "sample234", "answer": "Black"}
+{"audit_id": "239a7f3ff80db58f", "setting": "no_aba_no_df_no_dp", "benchmark": "gqa", "sample_id": "sample261", "answer": "Bicycles"}
+{"audit_id": "5b587f5b2a9fdc20", "setting": "no_aba_no_df_no_dp", "benchmark": "gqa", "sample_id": "sample234", "answer": "Wooden"}
+{"audit_id": "0b00308126634894", "setting": "no_aba_no_df_no_dp", "benchmark": "gqa", "sample_id": "sample207", "answer": "Three types"}
+{"audit_id": "9a0243d27cb47ec4", "setting": "no_aba_no_df_no_dp", "benchmark": "gqa", "sample_id": "sample207", "answer": "Rainy weather"}
+{"audit_id": "f58836aa551c571e", "setting": "no_aba_no_df_no_dp", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Three"}
+{"audit_id": "fd40d6cf9328886e", "setting": "no_aba_no_df_no_dp", "benchmark": "vqav2_val", "sample_id": "sample302", "answer": "An orange"}
+{"audit_id": "657fc95093964438", "setting": "no_aba_no_df_no_dp", "benchmark": "vqav2_val", "sample_id": "sample302", "answer": "Orange"}
+{"audit_id": "b88fdf08e32e9c6f", "setting": "no_aba_no_df_no_dp", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Baseball cap"}
+{"audit_id": "80c1910412c2e46c", "setting": "no_aba_no_df_no_dp", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Scrambled eggs with vegetables"}
+{"audit_id": "70c2f34332b0a148", "setting": "no_aba_no_df_no_dp", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Two."}
+{"audit_id": "2f3cc836e2b8f4df", "setting": "no_aba_no_df_no_dp", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Bagels and donuts"}
+{"audit_id": "a3b737e2c9366505", "setting": "no_aba_no_df_no_dp", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Three"}
+{"audit_id": "1e7615998bbff910", "setting": "no_aba_no_df_no_dp", "benchmark": "vqav2_val", "sample_id": "sample302", "answer": "Making a face"}
+{"audit_id": "1678e374ddd1116a", "setting": "no_aba_no_df_no_dp", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Scrambled eggs with vegetables."}
+{"audit_id": "b384aecaa908e7be", "setting": "no_aba_no_df_no_dp", "benchmark": "ai2d", "sample_id": "sample382", "answer": "Algae"}
+{"audit_id": "ff246539fc16ef59", "setting": "no_aba_no_df_no_dp", "benchmark": "ai2d", "sample_id": "sample157", "answer": "The sun"}
+{"audit_id": "dd2e8a0d5d7be6fb", "setting": "no_aba_no_df_no_dp", "benchmark": "ai2d", "sample_id": "sample382", "answer": "Adelie penguin"}
+{"audit_id": "75d8f1a7f76e47af", "setting": "no_aba_no_df_no_dp", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Protein synthesis"}
+{"audit_id": "eec01462b4c29d91", "setting": "no_aba_no_df_no_dp", "benchmark": "ai2d", "sample_id": "sample478", "answer": "Seedling"}
+{"audit_id": "94d19d2a2db7a73a", "setting": "no_aba_no_df_no_dp", "benchmark": "ai2d", "sample_id": "sample157", "answer": "From sun to plant to animal."}
+{"audit_id": "9b45ee82003d2f2c", "setting": "no_aba_no_df_no_dp", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Movement"}
+{"audit_id": "f50916b2c7cb04fb", "setting": "no_aba_no_df_no_dp", "benchmark": "ai2d", "sample_id": "sample249", "answer": "Position C"}
+{"audit_id": "5c5e449e840171f3", "setting": "no_aba_no_df_no_dp", "benchmark": "ai2d", "sample_id": "sample478", "answer": "Seedling"}
+{"audit_id": "0fefd3e57f54afa5", "setting": "no_aba_no_df_no_dp", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Nutrient recycling or energy transfer."}
+{"audit_id": "f481c72b843d2634", "setting": "no_aba_no_df_no_dp", "benchmark": "nocaps_val", "sample_id": "sample108", "answer": "English"}
+{"audit_id": "5aab4da0f70420de", "setting": "no_aba_no_df_no_dp", "benchmark": "nocaps_val", "sample_id": "sample325", "answer": "Volkswagen"}
+{"audit_id": "a3c4ac8a809d6b56", "setting": "no_aba_no_df_no_dp", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Honda"}
+{"audit_id": "4c552799f1366fba", "setting": "no_aba_no_df_no_dp", "benchmark": "nocaps_val", "sample_id": "sample203", "answer": "The person is performing a handstand on a motorcycle."}
+{"audit_id": "f4ff1fec2acbfe4e", "setting": "no_aba_no_df_no_dp", "benchmark": "nocaps_val", "sample_id": "sample97", "answer": "Nemes headdress"}
+{"audit_id": "aacf8bbcc0205c28", "setting": "no_aba_no_df_no_dp", "benchmark": "nocaps_val", "sample_id": "sample211", "answer": "Tank"}
+{"audit_id": "96f610e07d8dbfbb", "setting": "no_aba_no_df_no_dp", "benchmark": "nocaps_val", "sample_id": "sample97", "answer": "Blue, red, and gold."}
+{"audit_id": "548c0f995b7b63f5", "setting": "no_aba_no_df_no_dp", "benchmark": "nocaps_val", "sample_id": "sample283", "answer": "Dumbbells"}
+{"audit_id": "ccea5f06284c1493", "setting": "no_aba_no_df_no_dp", "benchmark": "nocaps_val", "sample_id": "sample97", "answer": "Nubian royal headdress"}
+{"audit_id": "c7e32b0953e554e0", "setting": "no_aba_no_df_no_dp", "benchmark": "nocaps_val", "sample_id": "sample325", "answer": "Volkswagen Golf"}
+{"audit_id": "8d28f985bc06dc0e", "setting": "no_aba_no_df_no_dp", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Clay sculpture"}
+{"audit_id": "401a3bda8199348a", "setting": "no_aba_no_df_no_dp", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "The person is working on a sculpture."}
+{"audit_id": "74b333f4d862b127", "setting": "no_aba_no_df_no_dp", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "One"}
+{"audit_id": "5d4d471f2d4236d9", "setting": "no_aba_no_df_no_dp", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "The person is sculpting."}
+{"audit_id": "1ea489b53365efaa", "setting": "no_aba_no_df_no_dp", "benchmark": "refcoco_bbox_val", "sample_id": "sample21", "answer": "A remote control"}
+{"audit_id": "26b67103df51d59f", "setting": "no_aba_no_df_no_dp", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Straw hats"}
+{"audit_id": "6ccbcef80d7daf47", "setting": "no_aba_no_df_no_dp", "benchmark": "refcoco_bbox_val", "sample_id": "sample181", "answer": "Riesling"}
+{"audit_id": "c7cef8b981276640", "setting": "no_aba_no_df_no_dp", "benchmark": "refcoco_bbox_val", "sample_id": "sample131", "answer": "Making more money"}
+{"audit_id": "04ad36af7cc2ae28", "setting": "no_aba_no_df_no_dp", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "A birthday cake with lit candles"}
+{"audit_id": "dafc1a5d7bff4a49", "setting": "no_aba_no_df_no_dp", "benchmark": "refcoco_bbox_val", "sample_id": "sample32", "answer": "Multiple"}
+{"audit_id": "ec47dd1f3ba13207", "setting": "no_aba_no_df_no_dp", "benchmark": "refcoco_bbox_val", "sample_id": "sample341", "answer": "A purse"}
+{"audit_id": "0d5d7e0387ca6598", "setting": "no_aba_no_df_no_dp", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "A cake with lit candles"}
+{"audit_id": "ffc01171410c51ed", "setting": "no_aba_no_df_no_dp", "benchmark": "refcoco_bbox_val", "sample_id": "sample21", "answer": "White"}
+{"audit_id": "ce59694532910ef2", "setting": "no_aba_no_df_no_dp", "benchmark": "refcoco_bbox_val", "sample_id": "sample131", "answer": "A pink dress"}
+{"audit_id": "2c61d2cc5740e8cc", "setting": "no_aba_no_df_no_dp", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "In the Year 2000"}
+{"audit_id": "7887bb89cebae7b1", "setting": "no_aba_no_df_no_dp", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "The Age of Intelligent Machines"}
+{"audit_id": "b51b2a950feb24c1", "setting": "no_aba_no_df_no_dp", "benchmark": "infovqa_val", "sample_id": "sample478", "answer": "24%"}
+{"audit_id": "1c74cb98628a2221", "setting": "no_aba_no_df_no_dp", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "The Creative Genius."}
+{"audit_id": "802a09a6ebe724a8", "setting": "no_aba_no_df_no_dp", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "The Open Office.\nAnswer: The Open Office."}
+{"audit_id": "bbb7a1761e22632f", "setting": "no_aba_no_df_no_dp", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "24 minutes.\nAnswer: 24 minutes."}
+{"audit_id": "84afbc6ca383237a", "setting": "no_aba_no_df_no_dp", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "Flexibility and comfort."}
+{"audit_id": "74e8036b047b0111", "setting": "no_aba_no_df_no_dp", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "In the Year 2000"}
+{"audit_id": "526a561da6cca8a8", "setting": "no_aba_no_df_no_dp", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "Contact"}
+{"audit_id": "10b24da4bfb0bd53", "setting": "no_aba_no_df_no_dp", "benchmark": "infovqa_val", "sample_id": "sample478", "answer": "37%"}
+{"audit_id": "3bcaa2e3f6089a25", "setting": "no_aba_no_df_no_dp", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Swan Lake"}
+{"audit_id": "703495b8aba70fa2", "setting": "no_aba_no_df_no_dp", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "29 November - 1 December"}
+{"audit_id": "e3ec90631b71bb37", "setting": "no_aba_no_df_no_dp", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Swan Lake"}
+{"audit_id": "56e14cc9e2cdb9e1", "setting": "no_aba_no_df_no_dp", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "New Adventures Production"}
+{"audit_id": "e1b663e0e99dba75", "setting": "no_aba_no_df_no_dp", "benchmark": "vizwiz_vqa_val", "sample_id": "sample5", "answer": "The Nash"}
+{"audit_id": "382a79111475281d", "setting": "no_aba_no_df_no_dp", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Cloud-like"}
+{"audit_id": "d5b82d346fc4527f", "setting": "no_aba_no_df_no_dp", "benchmark": "vizwiz_vqa_val", "sample_id": "sample5", "answer": "Marriage celebration"}
+{"audit_id": "b7b0a2257bd1c66b", "setting": "no_aba_no_df_no_dp", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "White"}
+{"audit_id": "87ec803b3b2cce7e", "setting": "no_aba_no_df_no_dp", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "White"}
+{"audit_id": "ff2e9676754d4f9e", "setting": "no_aba_no_df_no_dp", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "Triangle"}
+{"audit_id": "d9dc676de60370e6", "setting": "no_aba_no_df_no_dp", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Hair spray"}
+{"audit_id": "5f0f87a68e4bb31b", "setting": "no_aba_no_df_no_dp", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "E"}
+{"audit_id": "97673774d9f64826", "setting": "no_aba_no_df_no_dp", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Bold"}
+{"audit_id": "1c1d2947a38e0029", "setting": "no_aba_no_df_no_dp", "benchmark": "vizwiz_vqa_val", "sample_id": "sample5", "answer": "David & Emma"}
+{"audit_id": "f4a1af82388982c2", "setting": "no_aba_no_df_no_sl", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "Yes"}
+{"audit_id": "8f882a3ec07590c8", "setting": "no_aba_no_df_no_sl", "benchmark": "ok_vqa_val2014", "sample_id": "sample166", "answer": "Red"}
+{"audit_id": "3f460027d3e49da6", "setting": "no_aba_no_df_no_sl", "benchmark": "ok_vqa_val2014", "sample_id": "sample305", "answer": "Two"}
+{"audit_id": "b0daa6815967c9a9", "setting": "no_aba_no_df_no_sl", "benchmark": "ok_vqa_val2014", "sample_id": "sample371", "answer": "Rainy"}
+{"audit_id": "83c9241e7600242d", "setting": "no_aba_no_df_no_sl", "benchmark": "ok_vqa_val2014", "sample_id": "sample70", "answer": "Black"}
+{"audit_id": "399ff8eef2b21463", "setting": "no_aba_no_df_no_sl", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "Black"}
+{"audit_id": "1de095915040f18b", "setting": "no_aba_no_df_no_sl", "benchmark": "ok_vqa_val2014", "sample_id": "sample117", "answer": "Black with orange accents"}
+{"audit_id": "f369ec05fd393f70", "setting": "no_aba_no_df_no_sl", "benchmark": "ok_vqa_val2014", "sample_id": "sample166", "answer": "Dog"}
+{"audit_id": "d0d06e865df445f7", "setting": "no_aba_no_df_no_sl", "benchmark": "ok_vqa_val2014", "sample_id": "sample371", "answer": "Black"}
+{"audit_id": "a43acdfb9c1f61a3", "setting": "no_aba_no_df_no_sl", "benchmark": "ok_vqa_val2014", "sample_id": "sample295", "answer": "Two"}
+{"audit_id": "0af2e9c1994777db", "setting": "no_aba_no_df_no_sl", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Under Armour"}
+{"audit_id": "1b7bfbf95e559136", "setting": "no_aba_no_df_no_sl", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Boating"}
+{"audit_id": "e70f35c1b247a2c2", "setting": "no_aba_no_df_no_sl", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "fb693f2b1c04c65d", "setting": "no_aba_no_df_no_sl", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "7897e00662318900", "setting": "no_aba_no_df_no_sl", "benchmark": "seedbench", "sample_id": "sample472", "answer": "White"}
+{"audit_id": "064694b99b59ef8e", "setting": "no_aba_no_df_no_sl", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "9a5f14e3b21e045e", "setting": "no_aba_no_df_no_sl", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Three"}
+{"audit_id": "9a23a185751e020e", "setting": "no_aba_no_df_no_sl", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Basketball shoes"}
+{"audit_id": "61fff83da657384f", "setting": "no_aba_no_df_no_sl", "benchmark": "flickr30k_test", "sample_id": "sample182", "answer": "Blue"}
+{"audit_id": "4c47567674fa653a", "setting": "no_aba_no_df_no_sl", "benchmark": "flickr30k_test", "sample_id": "sample163", "answer": "Holding a camera"}
+{"audit_id": "5a0b357c6bb34428", "setting": "no_aba_no_df_no_sl", "benchmark": "flickr30k_test", "sample_id": "sample9", "answer": "Red and white"}
+{"audit_id": "3dc4496401b6cd81", "setting": "no_aba_no_df_no_sl", "benchmark": "flickr30k_test", "sample_id": "sample351", "answer": "An umbrella"}
+{"audit_id": "d2179fbc01a3c337", "setting": "no_aba_no_df_no_sl", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Three"}
+{"audit_id": "1c115a7ac65e9ec2", "setting": "no_aba_no_df_no_sl", "benchmark": "flickr30k_test", "sample_id": "sample9", "answer": "A protest or demonstration"}
+{"audit_id": "2731651d1a898376", "setting": "no_aba_no_df_no_sl", "benchmark": "flickr30k_test", "sample_id": "sample477", "answer": "Cars"}
+{"audit_id": "34fcb24f09244f81", "setting": "no_aba_no_df_no_sl", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Three"}
+{"audit_id": "25c5a22af72e4697", "setting": "no_aba_no_df_no_sl", "benchmark": "flickr30k_test", "sample_id": "sample289", "answer": "Brown"}
+{"audit_id": "fa4c52e553084663", "setting": "no_aba_no_df_no_sl", "benchmark": "flickr30k_test", "sample_id": "sample351", "answer": "Multiple"}
+{"audit_id": "fbd695096b86e6da", "setting": "no_aba_no_df_no_sl", "benchmark": "coco2017_cap_val", "sample_id": "sample120", "answer": "Flatbed truck"}
+{"audit_id": "7ea345eeabedc325", "setting": "no_aba_no_df_no_sl", "benchmark": "coco2017_cap_val", "sample_id": "sample402", "answer": "3"}
+{"audit_id": "d656c0b0d893701e", "setting": "no_aba_no_df_no_sl", "benchmark": "coco2017_cap_val", "sample_id": "sample402", "answer": "Rabbit toy"}
+{"audit_id": "e82d261d06b71a3b", "setting": "no_aba_no_df_no_sl", "benchmark": "coco2017_cap_val", "sample_id": "sample120", "answer": "Two"}
+{"audit_id": "fc64916e5dcbfebe", "setting": "no_aba_no_df_no_sl", "benchmark": "coco2017_cap_val", "sample_id": "sample425", "answer": "Three"}
+{"audit_id": "04d3ab6f5df1cdbd", "setting": "no_aba_no_df_no_sl", "benchmark": "coco2017_cap_val", "sample_id": "sample492", "answer": "Seven"}
+{"audit_id": "2db27faf768b9b68", "setting": "no_aba_no_df_no_sl", "benchmark": "coco2017_cap_val", "sample_id": "sample87", "answer": "Yes"}
+{"audit_id": "2f9e67c5f721ed40", "setting": "no_aba_no_df_no_sl", "benchmark": "coco2017_cap_val", "sample_id": "sample425", "answer": "Orange"}
+{"audit_id": "85c558106d4a7bf9", "setting": "no_aba_no_df_no_sl", "benchmark": "coco2017_cap_val", "sample_id": "sample111", "answer": "Baseball practice"}
+{"audit_id": "1d8d71bd8b2e70ef", "setting": "no_aba_no_df_no_sl", "benchmark": "coco2017_cap_val", "sample_id": "sample112", "answer": "A microphone"}
+{"audit_id": "dd12d23bc9d171db", "setting": "no_aba_no_df_no_sl", "benchmark": "textvqa_val", "sample_id": "sample98", "answer": "To charge the battery."}
+{"audit_id": "fa98830593e5fc77", "setting": "no_aba_no_df_no_sl", "benchmark": "textvqa_val", "sample_id": "sample454", "answer": "Three"}
+{"audit_id": "084c4b5aed77a850", "setting": "no_aba_no_df_no_sl", "benchmark": "textvqa_val", "sample_id": "sample262", "answer": "Four"}
+{"audit_id": "ea000d7a0bb12ad1", "setting": "no_aba_no_df_no_sl", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Silly Sideshow"}
+{"audit_id": "ac9000d9d3855785", "setting": "no_aba_no_df_no_sl", "benchmark": "textvqa_val", "sample_id": "sample45", "answer": "Brown"}
+{"audit_id": "862e3967d4bbf8ff", "setting": "no_aba_no_df_no_sl", "benchmark": "textvqa_val", "sample_id": "sample262", "answer": "Three"}
+{"audit_id": "8b35e94e12ad37f2", "setting": "no_aba_no_df_no_sl", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Three"}
+{"audit_id": "58c6c98a9180e49c", "setting": "no_aba_no_df_no_sl", "benchmark": "textvqa_val", "sample_id": "sample206", "answer": "Three"}
+{"audit_id": "cb9111391602074d", "setting": "no_aba_no_df_no_sl", "benchmark": "textvqa_val", "sample_id": "sample262", "answer": "Alfa Romeo"}
+{"audit_id": "2c4cc323dc0f2cde", "setting": "no_aba_no_df_no_sl", "benchmark": "textvqa_val", "sample_id": "sample262", "answer": "Alfa Romeo"}
+{"audit_id": "9cdf6ab6b43a450b", "setting": "no_aba_no_df_no_sl", "benchmark": "gqa", "sample_id": "sample207", "answer": "Yes"}
+{"audit_id": "ecc9f49f6ccf8210", "setting": "no_aba_no_df_no_sl", "benchmark": "gqa", "sample_id": "sample207", "answer": "Black"}
+{"audit_id": "879b39c289ae1f0a", "setting": "no_aba_no_df_no_sl", "benchmark": "gqa", "sample_id": "sample234", "answer": "Two"}
+{"audit_id": "eb6317c62d5262f8", "setting": "no_aba_no_df_no_sl", "benchmark": "gqa", "sample_id": "sample261", "answer": "Several"}
+{"audit_id": "7c37aeaac4be16f8", "setting": "no_aba_no_df_no_sl", "benchmark": "gqa", "sample_id": "sample207", "answer": "One"}
+{"audit_id": "1e5435ed2fe0dabd", "setting": "no_aba_no_df_no_sl", "benchmark": "gqa", "sample_id": "sample261", "answer": "Pharmacy"}
+{"audit_id": "04eaf21765bbb74c", "setting": "no_aba_no_df_no_sl", "benchmark": "gqa", "sample_id": "sample234", "answer": "Yes"}
+{"audit_id": "bfb512f458fb37b6", "setting": "no_aba_no_df_no_sl", "benchmark": "gqa", "sample_id": "sample261", "answer": "Green"}
+{"audit_id": "43a32e5f7ce74c3e", "setting": "no_aba_no_df_no_sl", "benchmark": "gqa", "sample_id": "sample234", "answer": "Black"}
+{"audit_id": "368fbb62c0c67253", "setting": "no_aba_no_df_no_sl", "benchmark": "gqa", "sample_id": "sample234", "answer": "Two"}
+{"audit_id": "50bc8b0a9eb03ce3", "setting": "no_aba_no_df_no_sl", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Blue"}
+{"audit_id": "1b4c3a70cf0c0782", "setting": "no_aba_no_df_no_sl", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Four"}
+{"audit_id": "42257de2f93e1bb2", "setting": "no_aba_no_df_no_sl", "benchmark": "vqav2_val", "sample_id": "sample302", "answer": "Holding it"}
+{"audit_id": "56d6f0bf7398f7f4", "setting": "no_aba_no_df_no_sl", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Visors"}
+{"audit_id": "015b674a8ab5685c", "setting": "no_aba_no_df_no_sl", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Red, yellow, blue"}
+{"audit_id": "2793a4a3d22d7f98", "setting": "no_aba_no_df_no_sl", "benchmark": "vqav2_val", "sample_id": "sample302", "answer": "An orange"}
+{"audit_id": "60babf5d1cbff658", "setting": "no_aba_no_df_no_sl", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Three"}
+{"audit_id": "d835b43b20d1164e", "setting": "no_aba_no_df_no_sl", "benchmark": "vqav2_val", "sample_id": "sample302", "answer": "Orange"}
+{"audit_id": "1b8ed49290db8989", "setting": "no_aba_no_df_no_sl", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Yes"}
+{"audit_id": "e6c944fc5feceb5a", "setting": "no_aba_no_df_no_sl", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Two"}
+{"audit_id": "73972e82dacaba61", "setting": "no_aba_no_df_no_sl", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Multiple"}
+{"audit_id": "b7e3c44077641366", "setting": "no_aba_no_df_no_sl", "benchmark": "ai2d", "sample_id": "sample249", "answer": "Four"}
+{"audit_id": "7c4f01e5b4da18c1", "setting": "no_aba_no_df_no_sl", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Yellow"}
+{"audit_id": "365a896a571887f6", "setting": "no_aba_no_df_no_sl", "benchmark": "ai2d", "sample_id": "sample382", "answer": "Krill"}
+{"audit_id": "7a44faf65b6937cb", "setting": "no_aba_no_df_no_sl", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Yes"}
+{"audit_id": "13ac5118b42e154a", "setting": "no_aba_no_df_no_sl", "benchmark": "ai2d", "sample_id": "sample215", "answer": "Three"}
+{"audit_id": "2ec7f302d8893237", "setting": "no_aba_no_df_no_sl", "benchmark": "ai2d", "sample_id": "sample382", "answer": "Three"}
+{"audit_id": "b485c5702834ec56", "setting": "no_aba_no_df_no_sl", "benchmark": "ai2d", "sample_id": "sample478", "answer": "Green"}
+{"audit_id": "09e7faeb225f0598", "setting": "no_aba_no_df_no_sl", "benchmark": "ai2d", "sample_id": "sample478", "answer": "Three"}
+{"audit_id": "5103be5eb44d2b2b", "setting": "no_aba_no_df_no_sl", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Two"}
+{"audit_id": "b5e977c191576cf4", "setting": "no_aba_no_df_no_sl", "benchmark": "nocaps_val", "sample_id": "sample290", "answer": "Yes"}
+{"audit_id": "53118e053a30bdc2", "setting": "no_aba_no_df_no_sl", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Cloudy"}
+{"audit_id": "4a0d90e83400ff35", "setting": "no_aba_no_df_no_sl", "benchmark": "nocaps_val", "sample_id": "sample211", "answer": "Three"}
+{"audit_id": "749ea3897f807323", "setting": "no_aba_no_df_no_sl", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Silver"}
+{"audit_id": "e1e43c433b2415b5", "setting": "no_aba_no_df_no_sl", "benchmark": "nocaps_val", "sample_id": "sample203", "answer": "Two"}
+{"audit_id": "1dc35c4095dfdba3", "setting": "no_aba_no_df_no_sl", "benchmark": "nocaps_val", "sample_id": "sample97", "answer": "Blue"}
+{"audit_id": "1f9a149f96c876af", "setting": "no_aba_no_df_no_sl", "benchmark": "nocaps_val", "sample_id": "sample2", "answer": "Big Apple South"}
+{"audit_id": "450625e6c43b6505", "setting": "no_aba_no_df_no_sl", "benchmark": "nocaps_val", "sample_id": "sample108", "answer": "Blue and orange"}
+{"audit_id": "f56ce7573ea70b56", "setting": "no_aba_no_df_no_sl", "benchmark": "nocaps_val", "sample_id": "sample211", "answer": "Three"}
+{"audit_id": "5e9f8a352d299212", "setting": "no_aba_no_df_no_sl", "benchmark": "nocaps_val", "sample_id": "sample211", "answer": "Military exercise or demonstration"}
+{"audit_id": "87487a11dd34e1b6", "setting": "no_aba_no_df_no_sl", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Indoors"}
+{"audit_id": "d76f1adb7a788244", "setting": "no_aba_no_df_no_sl", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Three"}
+{"audit_id": "a34a16583b437fa9", "setting": "no_aba_no_df_no_sl", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Orange"}
+{"audit_id": "3a319b1e9a32dde9", "setting": "no_aba_no_df_no_sl", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Sculpting"}
+{"audit_id": "25a685aeab368a1b", "setting": "no_aba_no_df_no_sl", "benchmark": "refcoco_bbox_val", "sample_id": "sample390", "answer": "Yes"}
+{"audit_id": "c6950d735e72b7cd", "setting": "no_aba_no_df_no_sl", "benchmark": "refcoco_bbox_val", "sample_id": "sample341", "answer": "Three"}
+{"audit_id": "f629483bb3d84a1f", "setting": "no_aba_no_df_no_sl", "benchmark": "refcoco_bbox_val", "sample_id": "sample32", "answer": "12"}
+{"audit_id": "fe38bd0fd5d36d87", "setting": "no_aba_no_df_no_sl", "benchmark": "refcoco_bbox_val", "sample_id": "sample414", "answer": "Inside a house."}
+{"audit_id": "e519291d419e24f4", "setting": "no_aba_no_df_no_sl", "benchmark": "refcoco_bbox_val", "sample_id": "sample378", "answer": "Motorcycles"}
+{"audit_id": "4aae7b4d1c51b25a", "setting": "no_aba_no_df_no_sl", "benchmark": "refcoco_bbox_val", "sample_id": "sample341", "answer": "Decorative"}
+{"audit_id": "063b1cde10f74406", "setting": "no_aba_no_df_no_sl", "benchmark": "refcoco_bbox_val", "sample_id": "sample32", "answer": "Preparing food"}
+{"audit_id": "d6826de1664b6684", "setting": "no_aba_no_df_no_sl", "benchmark": "refcoco_bbox_val", "sample_id": "sample181", "answer": "Four"}
+{"audit_id": "4ca6888fe44dd995", "setting": "no_aba_no_df_no_sl", "benchmark": "refcoco_bbox_val", "sample_id": "sample21", "answer": "Yes"}
+{"audit_id": "b274b277e43e581c", "setting": "no_aba_no_df_no_sl", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Performance"}
+{"audit_id": "e93c3a8d3532f6c4", "setting": "no_aba_no_df_no_sl", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "The Internet of Things"}
+{"audit_id": "2f6ad3ada43e1411", "setting": "no_aba_no_df_no_sl", "benchmark": "infovqa_val", "sample_id": "sample478", "answer": "32%"}
+{"audit_id": "a7dddcf505ff4ea7", "setting": "no_aba_no_df_no_sl", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "Blue"}
+{"audit_id": "343fdc25722c7fee", "setting": "no_aba_no_df_no_sl", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "Green"}
+{"audit_id": "3f69f9d55f08420d", "setting": "no_aba_no_df_no_sl", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "3"}
+{"audit_id": "4a56b01ef10223dc", "setting": "no_aba_no_df_no_sl", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "6"}
+{"audit_id": "381fe609f3085bdb", "setting": "no_aba_no_df_no_sl", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "One book."}
+{"audit_id": "c88906ab840d2390", "setting": "no_aba_no_df_no_sl", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "Six"}
+{"audit_id": "c0c290f51febd79f", "setting": "no_aba_no_df_no_sl", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "3 days"}
+{"audit_id": "569adaf321b8140e", "setting": "no_aba_no_df_no_sl", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "29 November - 1 December"}
+{"audit_id": "d52df82b50f7f387", "setting": "no_aba_no_df_no_sl", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Broadway Entertainment Group and Music Hall"}
+{"audit_id": "83cedecb4e069e6e", "setting": "no_aba_no_df_no_sl", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Three stars"}
+{"audit_id": "cfd44e8a69219233", "setting": "no_aba_no_df_no_sl", "benchmark": "vizwiz_vqa_val", "sample_id": "sample5", "answer": "16th July 2011"}
+{"audit_id": "67384bf5dc05c76f", "setting": "no_aba_no_df_no_sl", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Three days"}
+{"audit_id": "ce98389ae6698d15", "setting": "no_aba_no_df_no_sl", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Three days"}
+{"audit_id": "a72d1a3842a8d133", "setting": "no_aba_no_df_no_sl", "benchmark": "vizwiz_vqa_val", "sample_id": "sample5", "answer": "The Nash"}
+{"audit_id": "9cdfdfc906695308", "setting": "no_aba_no_df_no_sl", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "Z"}
+{"audit_id": "07368718aa64bec9", "setting": "no_aba_no_df_no_sl", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Black"}
+{"audit_id": "9a806c6a36667d53", "setting": "no_aba_no_df_no_sl", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "A"}
+{"audit_id": "81aa67342afb993f", "setting": "no_aba_no_df_no_sl", "benchmark": "vizwiz_vqa_val", "sample_id": "sample5", "answer": "Two"}
+{"audit_id": "8b5a5770d49e9da9", "setting": "no_aba_no_df_no_sl", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "26"}
+{"audit_id": "c0c78c0bf7e28bc2", "setting": "no_aba_no_df_no_sl", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "26"}
+{"audit_id": "0f65302be5d76aa7", "setting": "no_aba_no_df_no_v", "benchmark": "ok_vqa_val2014", "sample_id": "sample295", "answer": "Dining."}
+{"audit_id": "400a8628d8aa454a", "setting": "no_aba_no_df_no_v", "benchmark": "ok_vqa_val2014", "sample_id": "sample70", "answer": "Two"}
+{"audit_id": "c507d76567b6d49d", "setting": "no_aba_no_df_no_v", "benchmark": "ok_vqa_val2014", "sample_id": "sample117", "answer": "20"}
+{"audit_id": "e207d3f5fafd2ae4", "setting": "no_aba_no_df_no_v", "benchmark": "ok_vqa_val2014", "sample_id": "sample371", "answer": "A coat"}
+{"audit_id": "429e490dac6b6314", "setting": "no_aba_no_df_no_v", "benchmark": "ok_vqa_val2014", "sample_id": "sample148", "answer": "Sea and horizon"}
+{"audit_id": "3bd9506bce9700a6", "setting": "no_aba_no_df_no_v", "benchmark": "ok_vqa_val2014", "sample_id": "sample305", "answer": "Juicy and fibrous"}
+{"audit_id": "b9076a35eb4a72e6", "setting": "no_aba_no_df_no_v", "benchmark": "ok_vqa_val2014", "sample_id": "sample117", "answer": "A lecture or workshop"}
+{"audit_id": "28a08de3bb675cc8", "setting": "no_aba_no_df_no_v", "benchmark": "ok_vqa_val2014", "sample_id": "sample371", "answer": "Car"}
+{"audit_id": "871939cd8d1e518c", "setting": "no_aba_no_df_no_v", "benchmark": "ok_vqa_val2014", "sample_id": "sample70", "answer": "Red"}
+{"audit_id": "256601b59cbee2db", "setting": "no_aba_no_df_no_v", "benchmark": "ok_vqa_val2014", "sample_id": "sample70", "answer": "Dark tiles"}
+{"audit_id": "9e0b3067dbac40a1", "setting": "no_aba_no_df_no_v", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Yes"}
+{"audit_id": "63bff33205c67737", "setting": "no_aba_no_df_no_v", "benchmark": "seedbench", "sample_id": "sample472", "answer": "The pair on the right"}
+{"audit_id": "1583aabd83c2fe55", "setting": "no_aba_no_df_no_v", "benchmark": "seedbench", "sample_id": "sample481", "answer": "White pants"}
+{"audit_id": "cd44fc4863a73109", "setting": "no_aba_no_df_no_v", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Pink and white"}
+{"audit_id": "b813c7f920c2ed26", "setting": "no_aba_no_df_no_v", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Yes"}
+{"audit_id": "17fc7375b3dc9a8a", "setting": "no_aba_no_df_no_v", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Boating"}
+{"audit_id": "7f79333bcd3b8fb0", "setting": "no_aba_no_df_no_v", "benchmark": "seedbench", "sample_id": "sample472", "answer": "Three pairs"}
+{"audit_id": "1ce65e2dc4b67cd0", "setting": "no_aba_no_df_no_v", "benchmark": "seedbench", "sample_id": "sample481", "answer": "Four"}
+{"audit_id": "f5b790ad7827b23a", "setting": "no_aba_no_df_no_v", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Shopping"}
+{"audit_id": "34988d89579aa798", "setting": "no_aba_no_df_no_v", "benchmark": "flickr30k_test", "sample_id": "sample9", "answer": "Repent of your wicked heart be un belief"}
+{"audit_id": "a1e208507537dcc1", "setting": "no_aba_no_df_no_v", "benchmark": "flickr30k_test", "sample_id": "sample289", "answer": "There are several birds."}
+{"audit_id": "1ac0835c5a077528", "setting": "no_aba_no_df_no_v", "benchmark": "flickr30k_test", "sample_id": "sample351", "answer": "Announcing something"}
+{"audit_id": "97e9503b1fca2782", "setting": "no_aba_no_df_no_v", "benchmark": "flickr30k_test", "sample_id": "sample417", "answer": "Three"}
+{"audit_id": "5033b6dc75f1c9a7", "setting": "no_aba_no_df_no_v", "benchmark": "flickr30k_test", "sample_id": "sample289", "answer": "A sign and several birds."}
+{"audit_id": "480d6124169baa16", "setting": "no_aba_no_df_no_v", "benchmark": "flickr30k_test", "sample_id": "sample182", "answer": "Looking at something"}
+{"audit_id": "f757201b9a628a45", "setting": "no_aba_no_df_no_v", "benchmark": "flickr30k_test", "sample_id": "sample289", "answer": "Two men sitting."}
+{"audit_id": "8801db79a203c8ae", "setting": "no_aba_no_df_no_v", "benchmark": "flickr30k_test", "sample_id": "sample9", "answer": "Exxxotica"}
+{"audit_id": "da865a6d82c71cea", "setting": "no_aba_no_df_no_v", "benchmark": "flickr30k_test", "sample_id": "sample477", "answer": "Broadway Rite Aid Pharmacy"}
+{"audit_id": "00cebf06b1116623", "setting": "no_aba_no_df_no_v", "benchmark": "coco2017_cap_val", "sample_id": "sample120", "answer": "Connecting a hose"}
+{"audit_id": "59a429963b43dcb3", "setting": "no_aba_no_df_no_v", "benchmark": "coco2017_cap_val", "sample_id": "sample402", "answer": "White"}
+{"audit_id": "40ed0a3ebe9bcf34", "setting": "no_aba_no_df_no_v", "benchmark": "coco2017_cap_val", "sample_id": "sample120", "answer": "Flatbed trailer"}
+{"audit_id": "a1f015cd287376d5", "setting": "no_aba_no_df_no_v", "benchmark": "coco2017_cap_val", "sample_id": "sample112", "answer": "Yellow"}
+{"audit_id": "ee8fa882de715ccd", "setting": "no_aba_no_df_no_v", "benchmark": "coco2017_cap_val", "sample_id": "sample111", "answer": "A baseball game"}
+{"audit_id": "ba209f1f27cabe5d", "setting": "no_aba_no_df_no_v", "benchmark": "coco2017_cap_val", "sample_id": "sample111", "answer": "A baseball"}
+{"audit_id": "39d1f766dee5d52e", "setting": "no_aba_no_df_no_v", "benchmark": "coco2017_cap_val", "sample_id": "sample112", "answer": "A microphone"}
+{"audit_id": "f89b81130a373a29", "setting": "no_aba_no_df_no_v", "benchmark": "coco2017_cap_val", "sample_id": "sample63", "answer": "Seven"}
+{"audit_id": "f609418df8522c62", "setting": "no_aba_no_df_no_v", "benchmark": "coco2017_cap_val", "sample_id": "sample425", "answer": "CHIQUITA ANANA"}
+{"audit_id": "c8ea5b0e5c36f2bf", "setting": "no_aba_no_df_no_v", "benchmark": "coco2017_cap_val", "sample_id": "sample120", "answer": "Two"}
+{"audit_id": "5377402c58395d77", "setting": "no_aba_no_df_no_v", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "BEMBO'S"}
+{"audit_id": "4cb8a4f8339f73af", "setting": "no_aba_no_df_no_v", "benchmark": "textvqa_val", "sample_id": "sample206", "answer": "Yes"}
+{"audit_id": "6b1b35e4de274287", "setting": "no_aba_no_df_no_v", "benchmark": "textvqa_val", "sample_id": "sample454", "answer": "2:30 pm."}
+{"audit_id": "a7c17ee085b100fd", "setting": "no_aba_no_df_no_v", "benchmark": "textvqa_val", "sample_id": "sample98", "answer": "Cool Menthol."}
+{"audit_id": "7d721a67d1441592", "setting": "no_aba_no_df_no_v", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Daytime"}
+{"audit_id": "f77661ed075d30c8", "setting": "no_aba_no_df_no_v", "benchmark": "textvqa_val", "sample_id": "sample418", "answer": "Red, blue, yellow, and white"}
+{"audit_id": "7160b583f0b6e4b9", "setting": "no_aba_no_df_no_v", "benchmark": "textvqa_val", "sample_id": "sample45", "answer": "Three"}
+{"audit_id": "fa16ac37e2514b42", "setting": "no_aba_no_df_no_v", "benchmark": "textvqa_val", "sample_id": "sample454", "answer": "Three."}
+{"audit_id": "f852c7053b45cbcd", "setting": "no_aba_no_df_no_v", "benchmark": "textvqa_val", "sample_id": "sample90", "answer": "Four"}
+{"audit_id": "a34f346667a07a11", "setting": "no_aba_no_df_no_v", "benchmark": "textvqa_val", "sample_id": "sample206", "answer": "The Olde George Inn"}
+{"audit_id": "48b1439a123d34f8", "setting": "no_aba_no_df_no_v", "benchmark": "gqa", "sample_id": "sample234", "answer": "Black"}
+{"audit_id": "6e6a4566de24208a", "setting": "no_aba_no_df_no_v", "benchmark": "gqa", "sample_id": "sample261", "answer": "Daytime"}
+{"audit_id": "8f346c3ffca04419", "setting": "no_aba_no_df_no_v", "benchmark": "gqa", "sample_id": "sample234", "answer": "Yes"}
+{"audit_id": "d5448ed412d2ef19", "setting": "no_aba_no_df_no_v", "benchmark": "gqa", "sample_id": "sample261", "answer": "Pharmacy"}
+{"audit_id": "9a5007e1ea04cea6", "setting": "no_aba_no_df_no_v", "benchmark": "gqa", "sample_id": "sample207", "answer": "Rainy."}
+{"audit_id": "8f9288ba0d1c5428", "setting": "no_aba_no_df_no_v", "benchmark": "gqa", "sample_id": "sample234", "answer": "Two"}
+{"audit_id": "23f7ed31e7421193", "setting": "no_aba_no_df_no_v", "benchmark": "gqa", "sample_id": "sample261", "answer": "Brand name or store type"}
+{"audit_id": "60e7e9e74dd1eb6b", "setting": "no_aba_no_df_no_v", "benchmark": "gqa", "sample_id": "sample207", "answer": "Blue, green, yellow, red."}
+{"audit_id": "a45facf078f7ea25", "setting": "no_aba_no_df_no_v", "benchmark": "gqa", "sample_id": "sample234", "answer": "In front of the sofa"}
+{"audit_id": "34d51887a58dadcb", "setting": "no_aba_no_df_no_v", "benchmark": "gqa", "sample_id": "sample261", "answer": "Two"}
+{"audit_id": "d0fefa74e0ee3d52", "setting": "no_aba_no_df_no_v", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Blue"}
+{"audit_id": "5f6c94c38fbc161e", "setting": "no_aba_no_df_no_v", "benchmark": "vqav2_val", "sample_id": "sample302", "answer": "One"}
+{"audit_id": "c61ec18b5673bd2f", "setting": "no_aba_no_df_no_v", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "The person in the middle"}
+{"audit_id": "f3db87a64958f5bf", "setting": "no_aba_no_df_no_v", "benchmark": "vqav2_val", "sample_id": "sample302", "answer": "Orange"}
+{"audit_id": "9dcb81286a4c1ae9", "setting": "no_aba_no_df_no_v", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Two"}
+{"audit_id": "d7a37086804cbf19", "setting": "no_aba_no_df_no_v", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Salad"}
+{"audit_id": "ed79b97af1ca4994", "setting": "no_aba_no_df_no_v", "benchmark": "vqav2_val", "sample_id": "sample452", "answer": "Yes"}
+{"audit_id": "b78680a5860e8ffc", "setting": "no_aba_no_df_no_v", "benchmark": "vqav2_val", "sample_id": "sample302", "answer": "No"}
+{"audit_id": "c9dcce5c2096c55b", "setting": "no_aba_no_df_no_v", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "Red"}
+{"audit_id": "2c649aac9e645bfd", "setting": "no_aba_no_df_no_v", "benchmark": "vqav2_val", "sample_id": "sample386", "answer": "One"}
+{"audit_id": "1745c3a6c9de852c", "setting": "no_aba_no_df_no_v", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Three"}
+{"audit_id": "517966369a3d2021", "setting": "no_aba_no_df_no_v", "benchmark": "ai2d", "sample_id": "sample478", "answer": "Radicle"}
+{"audit_id": "22811cd4493d74a6", "setting": "no_aba_no_df_no_v", "benchmark": "ai2d", "sample_id": "sample478", "answer": "Second stage"}
+{"audit_id": "0f7a69ff8afa2700", "setting": "no_aba_no_df_no_v", "benchmark": "ai2d", "sample_id": "sample249", "answer": "Bottom"}
+{"audit_id": "1aaffd788d51c381", "setting": "no_aba_no_df_no_v", "benchmark": "ai2d", "sample_id": "sample249", "answer": "Four"}
+{"audit_id": "25a150fbd8bd7ff4", "setting": "no_aba_no_df_no_v", "benchmark": "ai2d", "sample_id": "sample13", "answer": "Red"}
+{"audit_id": "fe7117353900a3c6", "setting": "no_aba_no_df_no_v", "benchmark": "ai2d", "sample_id": "sample13", "answer": "In the center"}
+{"audit_id": "b7c0ea7b3e9ae171", "setting": "no_aba_no_df_no_v", "benchmark": "ai2d", "sample_id": "sample382", "answer": "Weddell seal"}
+{"audit_id": "0d8206b0c2f9775c", "setting": "no_aba_no_df_no_v", "benchmark": "ai2d", "sample_id": "sample382", "answer": "Fish"}
+{"audit_id": "a06351594c309880", "setting": "no_aba_no_df_no_v", "benchmark": "ai2d", "sample_id": "sample157", "answer": "Two"}
+{"audit_id": "2dae6b2f5ea650e0", "setting": "no_aba_no_df_no_v", "benchmark": "nocaps_val", "sample_id": "sample8", "answer": "Four"}
+{"audit_id": "49bf513bdf71237d", "setting": "no_aba_no_df_no_v", "benchmark": "nocaps_val", "sample_id": "sample203", "answer": "Open and clear space"}
+{"audit_id": "e5c545a3dd221a7d", "setting": "no_aba_no_df_no_v", "benchmark": "nocaps_val", "sample_id": "sample325", "answer": "Two bicycles"}
+{"audit_id": "44054699000247ad", "setting": "no_aba_no_df_no_v", "benchmark": "nocaps_val", "sample_id": "sample2", "answer": "12"}
+{"audit_id": "c8849693ef61f4c5", "setting": "no_aba_no_df_no_v", "benchmark": "nocaps_val", "sample_id": "sample290", "answer": "Bihorel"}
+{"audit_id": "02d1b746e2d583b7", "setting": "no_aba_no_df_no_v", "benchmark": "nocaps_val", "sample_id": "sample203", "answer": "Specialized gear"}
+{"audit_id": "5863222bfbfd7fa8", "setting": "no_aba_no_df_no_v", "benchmark": "nocaps_val", "sample_id": "sample290", "answer": "30"}
+{"audit_id": "2ae36e75cab24f3d", "setting": "no_aba_no_df_no_v", "benchmark": "nocaps_val", "sample_id": "sample108", "answer": "Robert Thirsk"}
+{"audit_id": "0a7b6d6ba70a8ce9", "setting": "no_aba_no_df_no_v", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "Wide-brimmed hat"}
+{"audit_id": "79dcdd6139b61e31", "setting": "no_aba_no_df_no_v", "benchmark": "nocaps_val", "sample_id": "sample300", "answer": "OLIVE"}
+{"audit_id": "ecfc37b33db0463f", "setting": "no_aba_no_df_no_v", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Clay."}
+{"audit_id": "ff2cdb3944de866c", "setting": "no_aba_no_df_no_v", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "One person."}
+{"audit_id": "de1be2fcf9cb03bd", "setting": "no_aba_no_df_no_v", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "Sculpting."}
+{"audit_id": "cd919a53684aadcb", "setting": "no_aba_no_df_no_v", "benchmark": "mmbench_cn_dev", "sample_id": "sample178", "answer": "An art studio."}
+{"audit_id": "4b98b80cb82ca953", "setting": "no_aba_no_df_no_v", "benchmark": "refcoco_bbox_val", "sample_id": "sample341", "answer": "Just Married"}
+{"audit_id": "385cf83934875783", "setting": "no_aba_no_df_no_v", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Singing"}
+{"audit_id": "77b0133cda665cc8", "setting": "no_aba_no_df_no_v", "benchmark": "refcoco_bbox_val", "sample_id": "sample181", "answer": "Merlot"}
+{"audit_id": "6770d18cbfeed260", "setting": "no_aba_no_df_no_v", "benchmark": "refcoco_bbox_val", "sample_id": "sample378", "answer": "Car"}
+{"audit_id": "92ea9e8d844a334b", "setting": "no_aba_no_df_no_v", "benchmark": "refcoco_bbox_val", "sample_id": "sample341", "answer": "White"}
+{"audit_id": "2a49cff3203dbbb2", "setting": "no_aba_no_df_no_v", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "Three"}
+{"audit_id": "4fd72d0c60e5ee57", "setting": "no_aba_no_df_no_v", "benchmark": "refcoco_bbox_val", "sample_id": "sample378", "answer": "Taking a photo"}
+{"audit_id": "c6c02b49ca4dff6b", "setting": "no_aba_no_df_no_v", "benchmark": "refcoco_bbox_val", "sample_id": "sample279", "answer": "A modern structure"}
+{"audit_id": "646198b9d2ff4858", "setting": "no_aba_no_df_no_v", "benchmark": "refcoco_bbox_val", "sample_id": "sample341", "answer": "Cake"}
+{"audit_id": "3be26f3b5a5a95ee", "setting": "no_aba_no_df_no_v", "benchmark": "refcoco_bbox_val", "sample_id": "sample390", "answer": "Three people."}
+{"audit_id": "e0c49d8b559af6aa", "setting": "no_aba_no_df_no_v", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "Two"}
+{"audit_id": "44e187cb4b30f3b2", "setting": "no_aba_no_df_no_v", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "\"The Computer Age\""}
+{"audit_id": "85b867e2aa6c2d9d", "setting": "no_aba_no_df_no_v", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "The Cozy Office"}
+{"audit_id": "aa67023d1eab2699", "setting": "no_aba_no_df_no_v", "benchmark": "infovqa_val", "sample_id": "sample288", "answer": "Three"}
+{"audit_id": "2c9c85a04f76233e", "setting": "no_aba_no_df_no_v", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "3"}
+{"audit_id": "78f9be88056245a1", "setting": "no_aba_no_df_no_v", "benchmark": "infovqa_val", "sample_id": "sample478", "answer": "32%"}
+{"audit_id": "c6240698c1ccd2f7", "setting": "no_aba_no_df_no_v", "benchmark": "infovqa_val", "sample_id": "sample242", "answer": "Informal"}
+{"audit_id": "1073013ab895aaf1", "setting": "no_aba_no_df_no_v", "benchmark": "infovqa_val", "sample_id": "sample478", "answer": "Academic programs"}
+{"audit_id": "8687e6c3c1a6f8f3", "setting": "no_aba_no_df_no_v", "benchmark": "infovqa_val", "sample_id": "sample478", "answer": "67%"}
+{"audit_id": "6b6c213337301cbd", "setting": "no_aba_no_df_no_v", "benchmark": "infovqa_val", "sample_id": "sample478", "answer": "4"}
+{"audit_id": "a927c1a45298103c", "setting": "no_aba_no_df_no_v", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Three stars"}
+{"audit_id": "9c8cf04ad3b95e1a", "setting": "no_aba_no_df_no_v", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Antwerp"}
+{"audit_id": "541ab266f4a1227e", "setting": "no_aba_no_df_no_v", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "29 November - 1 December"}
+{"audit_id": "7dbc26bc6f36bd02", "setting": "no_aba_no_df_no_v", "benchmark": "textcaps_val", "sample_id": "sample419", "answer": "Broadway Entertainment Group and Music Hall"}
+{"audit_id": "3ee9d52b6b8fc58a", "setting": "no_aba_no_df_no_v", "benchmark": "vizwiz_vqa_val", "sample_id": "sample5", "answer": "2008"}
+{"audit_id": "6725cf505a657225", "setting": "no_aba_no_df_no_v", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Black."}
+{"audit_id": "555cad371e165fac", "setting": "no_aba_no_df_no_v", "benchmark": "vizwiz_vqa_val", "sample_id": "sample5", "answer": "16th July 2011"}
+{"audit_id": "693815199920123b", "setting": "no_aba_no_df_no_v", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "26"}
+{"audit_id": "05aad0966dc535e6", "setting": "no_aba_no_df_no_v", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "April."}
+{"audit_id": "958b927dfafa2cd6", "setting": "no_aba_no_df_no_v", "benchmark": "vizwiz_vqa_val", "sample_id": "sample5", "answer": "The Nash"}
+{"audit_id": "b36f6faf3e9099db", "setting": "no_aba_no_df_no_v", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "26"}
+{"audit_id": "625048fc72899948", "setting": "no_aba_no_df_no_v", "benchmark": "vizwiz_vqa_val", "sample_id": "sample5", "answer": "Two"}
+{"audit_id": "49bc768d51178981", "setting": "no_aba_no_df_no_v", "benchmark": "vizwiz_vqa_val", "sample_id": "sample429", "answer": "Black"}
+{"audit_id": "bb5231a3edb219d4", "setting": "no_aba_no_df_no_v", "benchmark": "vizwiz_vqa_val", "sample_id": "sample171", "answer": "Three days."}

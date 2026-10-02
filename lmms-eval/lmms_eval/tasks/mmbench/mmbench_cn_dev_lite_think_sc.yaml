@@ -1,0 +1,10 @@
+include: mmbench_cn_dev_lite.yaml
+task: "mmbench_cn_dev_lite_think_sc"
+auto_strip_thinking: true
+repeats: 8
+filter_list:
+  - name: "maj@8"
+    filter:
+      - function: !function cn_utils.MMBenchMultiChoiceRegexFilter
+      - function: "majority_vote"
+      - function: "take_first"

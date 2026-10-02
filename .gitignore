@@ -1,0 +1,53 @@
+*.egg-info
+__pycache__/
+*.pyc
+uv.lock
+.venv/
+.nodeenv/
+.env
+.DS_Store
+.vscode/
+wandb/
+
+# large artifacts (synthetic pools, val50 datasets, checkpoints, sweeps) -- see simit_env.sh
+workdir/
+
+# model weights
+Bagel/models/
+
+# generated training sets and per-run dataset configs
+Bagel/data_root/
+Bagel/data/configs/vqa_*.yaml
+
+# evaluation / job outputs
+benchmark_eval_outputs/
+benchmark_queue_outputs/
+lmms-eval/logs/
+logs/
+results/
+
+# retrieval pools, FAISS indexes and query-embedding caches (built by rag_retrieval/*.py)
+rag_retrieval/data/
+rag_retrieval/data_capped2000/
+
+# GQA images prefetched by similar_samples_llms_eval_lite/fetch_gqa_images.py
+similar_samples_llms_eval_lite/gqa_images/
+
+# figures written by visualization_scripts/
+visualization_scripts/figures/*
+!visualization_scripts/figures/.gitkeep
+
+# M* profiling / benchmark outputs
+*.nvvp
+*.nsys-rep
+*.qdrep
+*.ncu-rep
+*.sqlite
+*.prof
+profiler/
+traces/
+mstar-benchmark-cache/
+.bench_outs/
+output.png
+output_edit.png
+output.wav

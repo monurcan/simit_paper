@@ -1,0 +1,36 @@
+model: "pi05"
+max_seq_len: 2048
+
+# DROID benchmark variant of pi05.yaml.
+#
+# Overrides action_horizon to match openpi's pi05_droid TrainConfig
+# (openpi/src/openpi/training/config.py: Pi0Config(action_horizon=15, pi05=True)),
+# which is what we benchmark against. With this override mstar and openpi
+# both run 15-step flow-matching rollouts internally so JCT is comparable.
+#
+# Why action_dim is NOT overridden (stays 32):
+#   1. Weight shape constraint — lerobot/pi05_base weights for action_in_proj
+#      and action_out_proj are baked at action_dim=32. Changing it would fail
+#      `nn.Linear(...).load_state_dict` with a shape mismatch.
+#   2. openpi parity — openpi's pi05_droid also runs 32-dim flow matching
+#      internally and only slices `[:, :8]` at the very end via DroidOutputs
+#      (openpi/src/openpi/policies/droid_policy.py:78). The slice is
+#      post-compute Python, so both systems do identical 32-dim work.
+#
+# CUDA-graph note: action_horizon and action_dim are both baked into the
+# graph captures (see Pi05LLMSubmodule.get_cuda_graph_configs in
+# mstar/model/pi05/submodules.py:325-329). They MUST be set at server-init
+# time, never per-request — that's what this yaml override is for.
+model_kwargs:
+  action_horizon: 15
+
+node_groups:
+  - node_names:
+      - vit_encoder
+    ranks:
+      - 0
+
+  - node_names:
+      - LLM
+    ranks:
+      - 0

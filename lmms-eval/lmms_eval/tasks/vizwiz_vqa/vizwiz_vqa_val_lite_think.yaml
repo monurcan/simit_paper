@@ -1,0 +1,3 @@
+include: vizwiz_vqa_val_lite.yaml
+task: "vizwiz_vqa_val_lite_think"
+auto_strip_thinking: true

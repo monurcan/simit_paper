@@ -1,0 +1,9 @@
+# 50-sample validation split (hyperparameter tuning only). Same prompts, filters and
+# metrics as ok_vqa_val2014_lite; data built by rag_retrieval/build_val50_datasets.py.
+include: ok_vqa_val2014_lite.yaml
+task: ok_vqa_val2014_lite_val50
+dataset_path: ${SIMIT_DATA}/val50/ok_vqa_val2014_lite
+dataset_name: null
+dataset_kwargs:
+  load_from_disk: True
+test_split: val

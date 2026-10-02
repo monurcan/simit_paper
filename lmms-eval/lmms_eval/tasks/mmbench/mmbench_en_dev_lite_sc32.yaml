@@ -1,0 +1,9 @@
+include: mmbench_en_dev_lite.yaml
+task: "mmbench_en_dev_lite_sc32"
+repeats: 32
+filter_list:
+  - name: "maj@32"
+    filter:
+      - function: !function en_utils.MMBenchMultiChoiceRegexFilter
+      - function: "majority_vote"
+      - function: "take_first"

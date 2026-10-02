@@ -1,0 +1,28 @@
+model: "vjepa2_ac"
+max_seq_len: 16384
+
+# Uses facebook/vjepa2-ac-vitg (from HF_MODELS["vjepa2_ac"] in
+# mstar/model/registry.py).  AC weights loaded from the public S3 mirror
+# at https://dl.fbaipublicfiles.com/vjepa2/vjepa2-ac-vitg.pt via
+# download_vjepa2_ac_upstream_pt on first get_submodule() call.
+
+node_groups:
+  - node_names:
+      - video_encoder
+    ranks:
+      - 0
+
+  # Single-shot AC (prefill_video walk) + K-way MPC (prefill_video_mpc walk
+  # — Phase 3.B) + sliding-window AC rollout (prefill_video_rollout walk
+  # — Phase 3.D) all share the same underlying VisionTransformerPredictorAC
+  # nn.Module, so colocate all node names on the same rank.  mpc_scorer
+  # is cheap (L1 over [K, N*D]) and runs on the same rank to avoid an
+  # extra cross-rank tensor hop.  rollout_predictor wraps the same AC
+  # nn.Module with per-iter sliding-window context + action/state slicing.
+  - node_names:
+      - predictor
+      - ac_predictor_mpc
+      - mpc_scorer
+      - rollout_predictor
+    ranks:
+      - 0

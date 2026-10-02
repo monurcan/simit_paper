@@ -1,0 +1,12 @@
+include: refcoco_bbox_val_lite.yaml
+task: "refcoco_bbox_val_lite_sc"
+repeats: 8
+filter_list:
+  - name: "maj@8"
+    filter:
+      - function: "regex"
+        regex_pattern: "^\\s*(.*)"
+        group_select: 0
+      - function: "lowercase"
+      - function: "majority_vote"
+      - function: "take_first"

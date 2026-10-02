@@ -1,0 +1,9 @@
+# 50-sample validation split (hyperparameter tuning only). Same prompts, filters and
+# metrics as flickr30k_test_lite_sc32; data built by rag_retrieval/build_val50_datasets.py.
+include: flickr30k_test_lite_sc32.yaml
+task: flickr30k_test_lite_sc32_val50
+dataset_path: ${SIMIT_DATA}/val50/flickr30k_test_lite
+dataset_name: null
+dataset_kwargs:
+  load_from_disk: True
+test_split: val

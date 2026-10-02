@@ -1,0 +1,38 @@
+.simit-hero h1 { font-size: 1.7rem; margin: 0.2rem 0 0.4rem; }
+.simit-hero p { margin: 0 0 0.6rem; opacity: 0.85; max-width: 60rem; }
+
+.simit-status { display: flex; align-items: center; gap: 1rem; min-height: 132px; padding: 0.6rem 0.8rem;
+  border-radius: 14px; background: var(--block-background-fill); border: 1px solid var(--border-color-primary); }
+.simit-mascot { height: 112px; width: auto; animation: simit-bob 1.6s ease-in-out infinite; transform-origin: 50% 90%; }
+.simit-mascot.still { animation: simit-pop 0.5s ease-out 1; }
+.simit-msg { font-size: 1.05rem; font-weight: 600; }
+.simit-sub { font-size: 0.85rem; opacity: 0.75; margin-top: 0.3rem; }
+.simit-dots::after { content: ""; animation: simit-dots 1.4s steps(4, end) infinite; }
+.simit-bar { height: 8px; width: 16rem; max-width: 100%; border-radius: 4px; margin-top: 0.5rem;
+  background: var(--border-color-primary); overflow: hidden; }
+.simit-bar > div { height: 100%; border-radius: 4px; transition: width 0.4s linear;
+  background: linear-gradient(90deg, #f2a65a, #e07a3f); }
+
+.simit-card { border-radius: 14px; padding: 0.8rem 1rem; min-height: 120px;
+  border: 1px solid var(--border-color-primary); background: var(--block-background-fill); }
+.simit-card.base { border-top: 5px solid #c9c4bd; }
+.simit-card.simit { border-top: 5px solid #e07a3f; }
+.simit-card-title { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.04em; opacity: 0.7;
+  display: flex; justify-content: space-between; }
+.simit-answer { font-size: 1.35rem; font-weight: 650; margin: 0.4rem 0; white-space: pre-wrap; }
+.simit-card-sub { font-size: 0.8rem; opacity: 0.7; }
+.simit-wait { opacity: 0.4; }
+.simit-ok { color: #2e9b5a; font-size: 1.1rem; }
+.simit-no { color: #c94a3c; font-size: 1.1rem; }
+
+@keyframes simit-bob { 0%, 100% { transform: translateY(0) rotate(-2deg); } 50% { transform: translateY(-8px) rotate(2deg); } }
+@keyframes simit-pop { 0% { transform: scale(0.8); } 70% { transform: scale(1.06); } 100% { transform: scale(1); } }
+@keyframes simit-dots { 0% { content: ""; } 25% { content: "."; } 50% { content: ".."; } 75% { content: "..."; } }
+@media (prefers-reduced-motion: reduce) { .simit-mascot, .simit-dots::after { animation: none; } }
+.simit-answer.long { font-size: 1.0rem; font-weight: 550; line-height: 1.4; }
+
+.simit-hero-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 0.8rem 1.5rem; flex-wrap: wrap; }
+.simit-paper { flex: none; display: inline-flex; align-items: center; gap: 0.3rem; margin: 0.15rem 0 0.4rem;
+  padding: 0.5rem 1rem; border-radius: 999px; font-weight: 600; font-size: 0.95rem; text-decoration: none !important;
+  color: #fff !important; background: linear-gradient(90deg, #f2a65a, #e07a3f); box-shadow: 0 1px 3px rgba(0,0,0,0.15); }
+.simit-paper:hover { filter: brightness(1.05); box-shadow: 0 2px 8px rgba(224,122,63,0.35); }

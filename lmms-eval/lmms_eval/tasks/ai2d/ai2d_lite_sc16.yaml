@@ -1,0 +1,13 @@
+include: ai2d_lite.yaml
+task: "ai2d_lite_sc16"
+repeats: 16
+filter_list:
+  - name: "maj@16"
+    filter:
+      - function: !function utils.MultiChoiceRegexFilter
+        group_select: 0
+        ignore_case: true
+        ignore_punctuation: true
+        regex_pattern: "([A-Z])\\."
+      - function: "majority_vote"
+      - function: "take_first"
