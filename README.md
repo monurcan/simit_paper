@@ -181,10 +181,10 @@ This project builds upon [M\*](https://github.com/mstar-project/mstar) (fast BAG
 ## 📚 Citation
 ```
 @article{kaya2026simit,
-  title   = {{SIMIT}: Self-Improving Vision-Language Models via Imagination at Test-Time},
-  author  = {Kaya, Mehmet Onurcan and Elliott, Desmond and Papadopoulos, Dim P.},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2026}
+  title         = {{SIMIT}: Self-Improving Vision-Language Models via Imagination at Test-Time},
+  author        = {Kaya, Mehmet Onurcan and Elliott, Desmond and Papadopoulos, Dim P.},
+  journal       = {arXiv preprint arXiv:2611.00053},
+  year          = {2026}
 }
 ```
 
